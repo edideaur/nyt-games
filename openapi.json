@@ -1,0 +1,246 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "NYT Games API",
+    "description": "Unofficial proxy API for New York Times daily games. Access Wordle, Connections, Strands, and Spelling Bee puzzles for any date.\n\n## Date formats accepted\n\nThe `{date}` path segment accepts **any** of these:\n\n| Format | Example |\n|---|---|\n| ISO | `2026-05-13` |\n| Compact | `20260513` |\n| US | `05/13/2026`, `05-13-2026`, `05.13.2026` |\n| EU (day first) | `13/05/2026` |\n| Year-first slash | `2026/05/13` |\n| Named relative | `today`, `yesterday`, `tomorrow` |\n| Relative offset | `+3`, `-7` |\n| Unix timestamp | `1715558400` (s) or `1715558400000` (ms) |\n| Natural language | `May 13 2026` |",
+    "version": "1.0.0"
+  },
+  "servers": [
+    { "url": "/", "description": "This server" }
+  ],
+  "tags": [
+    { "name": "Games", "description": "Individual game endpoints" },
+    { "name": "All", "description": "All games at once" }
+  ],
+  "paths": {
+    "/api/{game}/{date}": {
+      "get": {
+        "operationId": "getGame",
+        "summary": "Get a game for a date",
+        "tags": ["Games"],
+        "parameters": [
+          {
+            "name": "game",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string", "enum": ["wordle", "connections", "strands", "spelling-bee"] }
+          },
+          {
+            "name": "date",
+            "in": "path",
+            "required": true,
+            "description": "Date in any format (see description above)",
+            "schema": {
+              "type": "string",
+              "examples": ["today", "yesterday", "2026-05-13", "05/13/2026", "20260513", "-7", "1715558400"]
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Puzzle data",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "oneOf": [
+                    { "$ref": "#/components/schemas/WordleResponse" },
+                    { "$ref": "#/components/schemas/ConnectionsResponse" },
+                    { "$ref": "#/components/schemas/StrandsResponse" },
+                    { "$ref": "#/components/schemas/SpellingBeeResponse" }
+                  ]
+                }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/Error" },
+          "404": { "$ref": "#/components/responses/Error" },
+          "502": { "$ref": "#/components/responses/Error" }
+        }
+      }
+    },
+    "/api/{game}": {
+      "get": {
+        "operationId": "getGameToday",
+        "summary": "Get today's game (or specify date as query param)",
+        "tags": ["Games"],
+        "parameters": [
+          {
+            "name": "game",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string", "enum": ["wordle", "connections", "strands", "spelling-bee"] }
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "required": false,
+            "description": "Date in any format. Defaults to today.",
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": { "description": "Puzzle data" },
+          "400": { "$ref": "#/components/responses/Error" },
+          "502": { "$ref": "#/components/responses/Error" }
+        }
+      }
+    },
+    "/api/all/{date}": {
+      "get": {
+        "operationId": "getAllGames",
+        "summary": "Get all games for a date",
+        "tags": ["All"],
+        "parameters": [
+          {
+            "name": "date",
+            "in": "path",
+            "required": true,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "All games",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/AllResponse" }
+              }
+            }
+          },
+          "400": { "$ref": "#/components/responses/Error" }
+        }
+      }
+    },
+    "/api/all": {
+      "get": {
+        "operationId": "getAllGamesToday",
+        "summary": "Get all games for today (or specify date as query param)",
+        "tags": ["All"],
+        "parameters": [
+          {
+            "name": "date",
+            "in": "query",
+            "required": false,
+            "schema": { "type": "string" }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "All games",
+            "content": {
+              "application/json": {
+                "schema": { "$ref": "#/components/schemas/AllResponse" }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "responses": {
+      "Error": {
+        "description": "Error",
+        "content": {
+          "application/json": {
+            "schema": { "$ref": "#/components/schemas/ErrorBody" }
+          }
+        }
+      }
+    },
+    "schemas": {
+      "ErrorBody": {
+        "type": "object",
+        "properties": {
+          "error": { "type": "string" }
+        },
+        "required": ["error"]
+      },
+      "WordleResponse": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "status": { "type": "string" },
+          "body": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "integer" },
+              "solution": { "type": "string", "example": "CRANE" },
+              "print_date": { "type": "string", "format": "date" },
+              "days_since_launch": { "type": "integer" },
+              "editor": { "type": "string" }
+            }
+          }
+        }
+      },
+      "ConnectionsResponse": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "id": { "type": "integer" },
+          "print_date": { "type": "string", "format": "date" },
+          "groups": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "properties": {
+                "title": { "type": "string" },
+                "level": { "type": "integer", "minimum": 0, "maximum": 3, "description": "0=yellow 1=green 2=blue 3=purple" },
+                "members": {
+                  "type": "array",
+                  "items": {
+                    "oneOf": [
+                      { "type": "string" },
+                      { "type": "object", "properties": { "text": { "type": "string" }, "position": { "type": "integer" } } }
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "StrandsResponse": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "id": { "type": "integer" },
+          "printDate": { "type": "string" },
+          "theme": { "type": "string" },
+          "headline": { "type": "string" },
+          "spangram": { "type": "string" },
+          "themeWords": { "type": "array", "items": { "type": "string" } },
+          "startingBoard": { "type": "array", "items": { "type": "string" } }
+        }
+      },
+      "SpellingBeeResponse": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "id": { "type": "integer" },
+          "print_date": { "type": "string" },
+          "center_letter": { "type": "string" },
+          "outer_letters": { "type": "array", "items": { "type": "string" } },
+          "valid_letters": { "type": "array", "items": { "type": "string" } },
+          "answers": { "type": "array", "items": { "type": "string" } },
+          "pangrams": { "type": "array", "items": { "type": "string" } }
+        }
+      },
+      "AllResponse": {
+        "type": "object",
+        "properties": {
+          "date": { "type": "string", "format": "date" },
+          "data": {
+            "type": "object",
+            "properties": {
+              "wordle": { "$ref": "#/components/schemas/WordleResponse" },
+              "connections": { "$ref": "#/components/schemas/ConnectionsResponse" },
+              "strands": { "$ref": "#/components/schemas/StrandsResponse" },
+              "spelling-bee": { "$ref": "#/components/schemas/SpellingBeeResponse" }
+            }
+          }
+        }
+      }
+    }
+  }
+}
