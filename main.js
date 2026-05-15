@@ -9,7 +9,6 @@ function todayISO() {
 }
 
 function shiftDate(iso, days) {
-  // Parse YYYY-MM-DD as UTC and do arithmetic in UTC so the result is timezone-independent.
   const [y, m, d] = iso.split("-").map(Number);
   const dt = new Date(Date.UTC(y, m - 1, d));
   dt.setUTCDate(dt.getUTCDate() + days);
@@ -19,6 +18,17 @@ function shiftDate(iso, days) {
   return `${yy}-${mm}-${dd}`;
 }
 
+function formatDateLabel(iso) {
+  const today = todayISO();
+  const yesterday = shiftDate(today, -1);
+  const [y, m, d] = iso.split("-").map(Number);
+  const dt = new Date(Date.UTC(y, m - 1, d));
+  const short = dt.toLocaleDateString("en-US", { month: "short", day: "numeric", timeZone: "UTC" });
+  if (iso === today) return `Today · ${short}`;
+  if (iso === yesterday) return `Yesterday · ${short}`;
+  return dt.toLocaleDateString("en-US", { weekday: "short", month: "short", day: "numeric", timeZone: "UTC" });
+}
+
 function escapeHtml(s) {
   return String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
 }
@@ -26,13 +36,16 @@ function escapeHtml(s) {
 function setLoading(id) {
   const el = document.getElementById(id);
   el.innerHTML = "";
+  el.classList.remove("content-loaded");
   el.classList.add("loading");
 }
 
 function setContent(id, html) {
   const el = document.getElementById(id);
-  el.classList.remove("loading");
+  el.classList.remove("loading", "content-loaded");
   el.innerHTML = html;
+  void el.offsetHeight;
+  el.classList.add("content-loaded");
 }
 
 // ── Renderers ─────────────────────────────────────────────────────────────────
@@ -41,19 +54,16 @@ function renderWordle(data) {
   const solution = data.solution ?? "?????";
   const tiles = solution
     .split("")
-    .map((l) => `<div class="wordle-tile">${escapeHtml(l)}</div>`)
+    .map((l, i) => `<div class="wordle-tile" style="--d:${i * 0.07}s">${escapeHtml(l)}</div>`)
     .join("");
   const id = data.id ?? data.days_since_launch;
   return `
-    <div class="wordle-meta">${id ? `#${id}` : ""}</div>
+    <div class="wordle-meta">${id ? `Wordle #${id}` : ""}</div>
     <div class="wordle-tiles">${tiles}</div>
-    ${data.editor ? `<div class="wordle-editor">Edited by ${escapeHtml(data.editor)}</div>` : ""}
   `;
 }
 
 function renderConnections(data) {
-  // v2 schema: { categories: [{ title, cards: [{ content, position }] }] }
-  // also tolerate v1-style: { groups: [{ title, level, members: [...] }] }
   const cats = data.categories ?? data.groups ?? [];
   if (!cats.length) return `<span class="error-msg">No data</span>`;
 
@@ -62,19 +72,15 @@ function renderConnections(data) {
     const members = rawMembers.map((m) =>
       typeof m === "string" ? m : (m.content ?? m.text ?? m.name ?? "")
     );
-    return {
-      title: cat.title ?? cat.name ?? "",
-      level: cat.level ?? idx,
-      members,
-    };
+    return { title: cat.title ?? cat.name ?? "", level: cat.level ?? idx, members };
   });
 
   groups.sort((a, b) => a.level - b.level);
 
-  return `<div class="connections-groups">${groups.map((g) => `
-    <div class="conn-group" data-level="${g.level}">
+  return `<div class="connections-groups">${groups.map((g, i) => `
+    <div class="conn-group" data-level="${g.level}" style="--d:${i * 0.08}s">
       <div class="conn-group-title">${escapeHtml(g.title)}</div>
-      <div class="conn-group-members">${g.members.map(escapeHtml).join(", ")}</div>
+      <div class="conn-members-list">${g.members.map((m) => `<span class="conn-member">${escapeHtml(m)}</span>`).join("")}</div>
     </div>
   `).join("")}</div>`;
 }
@@ -84,7 +90,7 @@ function renderStrands(data) {
   const spangram = data.spangram ?? "";
   const themeWords = data.themeWords ?? data.theme_words ?? [];
   const words = themeWords
-    .map((w) => `<span class="strands-word">${escapeHtml(w)}</span>`)
+    .map((w, i) => `<span class="strands-word" style="--d:${0.12 + i * 0.05}s">${escapeHtml(w)}</span>`)
     .join("");
   return `
     <div class="strands-theme">${escapeHtml(theme)}</div>
@@ -96,7 +102,6 @@ function renderStrands(data) {
 function renderSpellingBee(data) {
   const center = String(data.center_letter ?? data.centerLetter ?? "?").toUpperCase();
   const outerRaw = data.outer_letters ?? data.outerLetters ?? [];
-  // outer_letters comes back as a STRING like "abdirz" from v1, but be defensive
   const outerArr = Array.isArray(outerRaw)
     ? outerRaw
     : String(outerRaw).split("").filter(Boolean);
@@ -104,25 +109,22 @@ function renderSpellingBee(data) {
 
   const answers = data.answers ?? [];
   const pangrams = data.pangrams ?? [];
-
   const pangSet = new Set(pangrams.map((p) => p.toLowerCase()));
-  const letters = `
-    <div class="bee-letters">
-      <span class="bee-letter center">${escapeHtml(center)}</span>
-      ${outer.map((l) => `<span class="bee-letter">${escapeHtml(l)}</span>`).join("")}
-    </div>
-  `;
+
+  const lettersHtml = `<div class="bee-letters">
+    <span class="bee-letter center" style="--d:0s">${escapeHtml(center)}</span>
+    ${outer.map((l, i) => `<span class="bee-letter" style="--d:${(i + 1) * 0.055}s">${escapeHtml(l)}</span>`).join("")}
+  </div>`;
+
   const meta = `<div class="bee-meta"><strong>${answers.length}</strong> word${answers.length !== 1 ? "s" : ""} &middot; <strong>${pangrams.length}</strong> pangram${pangrams.length !== 1 ? "s" : ""}</div>`;
+
   const sorted = answers.slice().sort();
-  const answerList = `
-    <div class="bee-answers">
-      ${sorted.map((a) => {
-        const isP = pangSet.has(a.toLowerCase());
-        return `<span class="bee-word${isP ? " pangram" : ""}">${escapeHtml(a)}</span>`;
-      }).join("")}
-    </div>
-  `;
-  return letters + meta + answerList;
+  const answerList = `<div class="bee-answers">${sorted.map((a) => {
+    const isP = pangSet.has(a.toLowerCase());
+    return `<span class="bee-word${isP ? " pangram" : ""}">${escapeHtml(a)}</span>`;
+  }).join("")}</div>`;
+
+  return lettersHtml + meta + answerList;
 }
 
 // ── Fetch & render ────────────────────────────────────────────────────────────
@@ -164,30 +166,47 @@ async function load(date) {
 // ── Init ──────────────────────────────────────────────────────────────────────
 
 function init() {
-  const input = document.getElementById("date-input");
-  const btnPrev = document.getElementById("btn-prev");
-  const btnNext = document.getElementById("btn-next");
-  const btnToday = document.getElementById("btn-today");
+  const input     = document.getElementById("date-input");
+  const btnPrev   = document.getElementById("btn-prev");
+  const btnNext   = document.getElementById("btn-next");
+  const btnToday  = document.getElementById("btn-today");
+  const dateLabel = document.getElementById("date-label");
+  const mainEl    = document.querySelector("main");
 
   let current = todayISO();
   input.value = current;
 
-  const go = (date) => {
+  const updateLabel = (date) => { dateLabel.textContent = formatDateLabel(date); };
+
+  const go = (date, dir = 0) => {
     if (!date) return;
     current = date;
     input.value = date;
+    updateLabel(date);
+    mainEl.dataset.dir = dir;
     load(date);
   };
 
-  btnPrev.addEventListener("click", () => go(shiftDate(current, -1)));
-  btnNext.addEventListener("click", () => go(shiftDate(current, 1)));
-  btnToday.addEventListener("click", () => go(todayISO()));
+  btnPrev.addEventListener("click", () => go(shiftDate(current, -1), -1));
+  btnNext.addEventListener("click", () => go(shiftDate(current,  1),  1));
+  btnToday.addEventListener("click", () => go(todayISO(), 0));
+
   const onDateChange = () => {
-    if (input.value && input.value !== current) go(input.value);
+    if (input.value && input.value !== current) {
+      const dir = input.value > current ? 1 : -1;
+      go(input.value, dir);
+    }
   };
   input.addEventListener("input", onDateChange);
   input.addEventListener("change", onDateChange);
 
+  document.addEventListener("keydown", (e) => {
+    if (e.target.tagName === "INPUT" || e.metaKey || e.ctrlKey) return;
+    if (e.key === "ArrowLeft")  go(shiftDate(current, -1), -1);
+    if (e.key === "ArrowRight") go(shiftDate(current,  1),  1);
+  });
+
+  updateLabel(current);
   load(current);
 }
 

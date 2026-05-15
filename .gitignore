@@ -1,0 +1,12 @@
+node_modules
+.wrangler
+.env
+.env.local
+.env.*
+!.env.example
+dist
+.cloudflare
+*.log
+.DS_Store
+*.tgz
+.cache

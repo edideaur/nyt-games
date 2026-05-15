@@ -5,26 +5,24 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <link rel="icon" href="https://Prigoana.com/favicon.png" />
   <title>NYT Games</title>
+  <meta name="theme-color" content="#111111" />
   <link rel="stylesheet" href="/style.css" />
 </head>
 <body>
   <header>
-    <h1>NYT Games <a href="/api" class="api-link">API</a></h1>
+    <h1>NYT Games</h1>
     <nav class="date-nav">
-      <button id="btn-prev">&#8592;</button>
-      <input type="date" id="date-input" />
-      <button id="btn-next">&#8594;</button>
+      <button id="btn-prev" aria-label="Previous day">&#8592;</button>
+      <input type="date" id="date-input" aria-label="Select date" />
+      <button id="btn-next" aria-label="Next day">&#8594;</button>
       <button id="btn-today">Today</button>
+      <span id="date-label" class="date-label"></span>
     </nav>
   </header>
   <main>
     <div class="card" id="card-wordle">
       <div class="card-title">Wordle</div>
       <div class="card-body loading" id="body-wordle"></div>
-    </div>
-    <div class="card" id="card-connections">
-      <div class="card-title">Connections</div>
-      <div class="card-body loading" id="body-connections"></div>
     </div>
     <div class="card" id="card-strands">
       <div class="card-title">Strands</div>
@@ -33,6 +31,10 @@
     <div class="card" id="card-spelling-bee">
       <div class="card-title">Spelling Bee</div>
       <div class="card-body loading" id="body-spelling-bee"></div>
+    </div>
+    <div class="card" id="card-connections">
+      <div class="card-title">Connections</div>
+      <div class="card-body loading" id="body-connections"></div>
     </div>
   </main>
   <nav class="social-nav">
