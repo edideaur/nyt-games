@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-13",
+  "status": "OK",
+  "id": 1321,
+  "print_date": "2026-10-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DISCERNMENT",
+      "cards": [
+        {
+          "content": "EYE",
+          "position": 0
+        },
+        {
+          "content": "FLAIR",
+          "position": 14
+        },
+        {
+          "content": "SENSE",
+          "position": 5
+        },
+        {
+          "content": "TASTE",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "FASTEN",
+      "cards": [
+        {
+          "content": "HITCH",
+          "position": 11
+        },
+        {
+          "content": "LASH",
+          "position": 1
+        },
+        {
+          "content": "TETHER",
+          "position": 13
+        },
+        {
+          "content": "TIE",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "SPORTS CHAMPIONSHIP PRIZES",
+      "cards": [
+        {
+          "content": "BELT",
+          "position": 7
+        },
+        {
+          "content": "CUP",
+          "position": 10
+        },
+        {
+          "content": "JACKET",
+          "position": 3
+        },
+        {
+          "content": "RING",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "LOOSE ___",
+      "cards": [
+        {
+          "content": "CANNON",
+          "position": 12
+        },
+        {
+          "content": "CHANGE",
+          "position": 6
+        },
+        {
+          "content": "ENDS",
+          "position": 15
+        },
+        {
+          "content": "LIPS",
+          "position": 2
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

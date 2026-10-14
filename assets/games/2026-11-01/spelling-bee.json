@@ -1,0 +1,39 @@
+{
+  "date": "2026-11-01",
+  "id": 13293,
+  "center_letter": "e",
+  "outer_letters": "fgiopt",
+  "pangrams": [
+    "pettifog"
+  ],
+  "answers": [
+    "effete",
+    "epee",
+    "feet",
+    "fete",
+    "fief",
+    "fife",
+    "footie",
+    "ogee",
+    "peep",
+    "petit",
+    "petite",
+    "pipe",
+    "pipet",
+    "pipette",
+    "poet",
+    "pope",
+    "poppet",
+    "potpie",
+    "teepee",
+    "teff",
+    "tepee",
+    "tippet",
+    "tiptoe",
+    "toffee",
+    "tope",
+    "tote"
+  ],
+  "print_date": "2026-11-01",
+  "editor": "Sam Ezersky"
+}

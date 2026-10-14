@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-15",
+  "status": "OK",
+  "id": 1283,
+  "print_date": "2026-09-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "INSTRUCT",
+      "cards": [
+        {
+          "content": "COACH",
+          "position": 1
+        },
+        {
+          "content": "DIRECT",
+          "position": 8
+        },
+        {
+          "content": "GUIDE",
+          "position": 15
+        },
+        {
+          "content": "TRAIN",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "PARTS OF A WHISTLING KETTLE",
+      "cards": [
+        {
+          "content": "HANDLE",
+          "position": 4
+        },
+        {
+          "content": "LID",
+          "position": 10
+        },
+        {
+          "content": "SPOUT",
+          "position": 12
+        },
+        {
+          "content": "WHISTLE",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "UNDERCOVER OPERATIVE",
+      "cards": [
+        {
+          "content": "ASSET",
+          "position": 11
+        },
+        {
+          "content": "MOLE",
+          "position": 13
+        },
+        {
+          "content": "PLANT",
+          "position": 0
+        },
+        {
+          "content": "SLEEPER",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "THINGS THAT APPEAR AT THE END",
+      "cards": [
+        {
+          "content": "CABOOSE",
+          "position": 5
+        },
+        {
+          "content": "DECEMBER",
+          "position": 6
+        },
+        {
+          "content": "DESSERT",
+          "position": 3
+        },
+        {
+          "content": "EPILOGUE",
+          "position": 14
+        }
+      ]
+    }
+  ]
+}

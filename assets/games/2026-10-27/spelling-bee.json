@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-27",
+  "id": 19496,
+  "center_letter": "a",
+  "outer_letters": "ehnopy",
+  "pangrams": [
+    "payphone"
+  ],
+  "answers": [
+    "aeon",
+    "ahoy",
+    "annoy",
+    "anon",
+    "anyhoo",
+    "anyone",
+    "apnea",
+    "happen",
+    "happy",
+    "heap",
+    "henna",
+    "hyena",
+    "naan",
+    "nana",
+    "nanny",
+    "nape",
+    "neap",
+    "paean",
+    "pane",
+    "papa",
+    "papaya",
+    "pappy",
+    "payee",
+    "peahen",
+    "poppa",
+    "yahoo",
+    "yappy",
+    "yeah"
+  ],
+  "print_date": "2026-10-27",
+  "editor": "Sam Ezersky"
+}

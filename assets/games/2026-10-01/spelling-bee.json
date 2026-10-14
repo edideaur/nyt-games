@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-01",
+  "id": 20201,
+  "center_letter": "h",
+  "outer_letters": "demnoy",
+  "pangrams": [
+    "honeymooned"
+  ],
+  "answers": [
+    "heed",
+    "heeded",
+    "heme",
+    "hemmed",
+    "hoed",
+    "home",
+    "homed",
+    "homey",
+    "homonym",
+    "homonymy",
+    "hone",
+    "honed",
+    "honey",
+    "honeyed",
+    "honeymoon",
+    "hood",
+    "hooded",
+    "hoodoo",
+    "hooey",
+    "hymen",
+    "hymn",
+    "yoohoo"
+  ],
+  "print_date": "2026-10-01",
+  "editor": "Sam Ezersky"
+}

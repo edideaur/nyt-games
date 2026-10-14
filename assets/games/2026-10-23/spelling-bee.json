@@ -1,0 +1,41 @@
+{
+  "date": "2026-10-23",
+  "id": 24727,
+  "center_letter": "l",
+  "outer_letters": "cgiotx",
+  "pangrams": [
+    "toxicologic"
+  ],
+  "answers": [
+    "clog",
+    "clot",
+    "coil",
+    "colic",
+    "colt",
+    "cool",
+    "gigolo",
+    "gill",
+    "gilt",
+    "googol",
+    "igloo",
+    "illicit",
+    "illogic",
+    "licit",
+    "lilt",
+    "loci",
+    "loco",
+    "logic",
+    "logo",
+    "loll",
+    "loot",
+    "lotto",
+    "olio",
+    "till",
+    "tilt",
+    "toil",
+    "toll",
+    "tool"
+  ],
+  "print_date": "2026-10-23",
+  "editor": "Sam Ezersky"
+}

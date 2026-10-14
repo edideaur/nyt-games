@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-19",
+  "status": "OK",
+  "id": 1327,
+  "print_date": "2026-10-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SEETHE",
+      "cards": [
+        {
+          "content": "BOIL",
+          "position": 12
+        },
+        {
+          "content": "FUME",
+          "position": 10
+        },
+        {
+          "content": "RAVE",
+          "position": 4
+        },
+        {
+          "content": "STEAM",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "ALL TALK",
+      "cards": [
+        {
+          "content": "BLATHER",
+          "position": 13
+        },
+        {
+          "content": "GAS",
+          "position": 8
+        },
+        {
+          "content": "HOT AIR",
+          "position": 2
+        },
+        {
+          "content": "WIND",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "\"MC\" THINGS AT MCDONALD'S",
+      "cards": [
+        {
+          "content": "FLURRY",
+          "position": 6
+        },
+        {
+          "content": "MUFFIN",
+          "position": 1
+        },
+        {
+          "content": "NUGGETS",
+          "position": 15
+        },
+        {
+          "content": "RIB",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN BIRDS",
+      "cards": [
+        {
+          "content": "ALIBIS",
+          "position": 11
+        },
+        {
+          "content": "BALLOON",
+          "position": 3
+        },
+        {
+          "content": "ESCROW",
+          "position": 14
+        },
+        {
+          "content": "MOHAWK",
+          "position": 0
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-23",
+  "status": "OK",
+  "id": 1301,
+  "print_date": "2026-09-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "THINGS YOU GRAB BEFORE LEAVING THE HOUSE",
+      "cards": [
+        {
+          "content": "KEYS",
+          "position": 12
+        },
+        {
+          "content": "PHONE",
+          "position": 5
+        },
+        {
+          "content": "SUNGLASSES",
+          "position": 15
+        },
+        {
+          "content": "WALLET",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "WEBSITE HURDLES",
+      "cards": [
+        {
+          "content": "AGE VERIFICATION",
+          "position": 7
+        },
+        {
+          "content": "CAPTCHA",
+          "position": 1
+        },
+        {
+          "content": "COOKIE CONSENT",
+          "position": 14
+        },
+        {
+          "content": "PAYWALL",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "THINGS THAT COME IN CANS",
+      "cards": [
+        {
+          "content": "CONDENSED MILK",
+          "position": 10
+        },
+        {
+          "content": "PAINT",
+          "position": 0
+        },
+        {
+          "content": "SHAVING CREAM",
+          "position": 13
+        },
+        {
+          "content": "SPAM",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN SYNONYMS FOR \"TERM\"",
+      "cards": [
+        {
+          "content": "BITCOIN",
+          "position": 2
+        },
+        {
+          "content": "RECORD LABEL",
+          "position": 6
+        },
+        {
+          "content": "RUB-A-DUB",
+          "position": 11
+        },
+        {
+          "content": "SURINAME",
+          "position": 8
+        }
+      ]
+    }
+  ]
+}

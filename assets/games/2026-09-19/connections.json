@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-19",
+  "status": "OK",
+  "id": 1299,
+  "print_date": "2026-09-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "WIDEN ONE'S SCOPE",
+      "cards": [
+        {
+          "content": "BRANCH OUT",
+          "position": 5
+        },
+        {
+          "content": "DIVERSIFY",
+          "position": 15
+        },
+        {
+          "content": "EXPAND",
+          "position": 13
+        },
+        {
+          "content": "GROW",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "FEATURES OF A KID'S DRAWING",
+      "cards": [
+        {
+          "content": "HOUSE",
+          "position": 6
+        },
+        {
+          "content": "STICK FIGURE",
+          "position": 0
+        },
+        {
+          "content": "SUN",
+          "position": 3
+        },
+        {
+          "content": "TREE",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH SWINGING LONDON IN THE 1960S",
+      "cards": [
+        {
+          "content": "CARNABY STREET",
+          "position": 14
+        },
+        {
+          "content": "MINISKIRT",
+          "position": 1
+        },
+        {
+          "content": "MOD",
+          "position": 9
+        },
+        {
+          "content": "TWIGGY",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH ABBREVIATED MATH FUNCTIONS",
+      "cards": [
+        {
+          "content": "COS LETTUCE",
+          "position": 12
+        },
+        {
+          "content": "LOG CABIN",
+          "position": 2
+        },
+        {
+          "content": "SIN CITY",
+          "position": 10
+        },
+        {
+          "content": "TAN LINE",
+          "position": 4
+        }
+      ]
+    }
+  ]
+}

@@ -3,7 +3,8 @@
   "private": true,
   "version": "1.0.0",
   "scripts": {
-    "dev": "wrangler pages dev ."
+    "dev": "wrangler pages dev .",
+    "fetch-games": "bun run ./scripts/fetch-games.mjs"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^4.20240605.0",

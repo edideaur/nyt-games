@@ -1,0 +1,799 @@
+{
+  "date": "2026-09-25",
+  "data": {
+    "globle": {
+      "date": "2026-09-25",
+      "game": "globle",
+      "index": 6,
+      "name": "Saudi Arabia",
+      "formalName": "Kingdom of Saudi Arabia",
+      "code": "SA",
+      "flag": "🇸🇦",
+      "url": "https://globle.org/"
+    },
+    "wordle": {
+      "date": "2026-09-25",
+      "id": 1028,
+      "solution": "copse",
+      "print_date": "2026-09-25",
+      "days_since_launch": 1924,
+      "editor": "Tracy Bennett"
+    },
+    "connections": {
+      "date": "2026-09-25",
+      "status": "OK",
+      "id": 1297,
+      "print_date": "2026-09-25",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "LUXE",
+          "cards": [
+            {
+              "content": "BOUGIE",
+              "position": 1
+            },
+            {
+              "content": "FANCY",
+              "position": 11
+            },
+            {
+              "content": "POSH",
+              "position": 13
+            },
+            {
+              "content": "SWANK",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "title": "PARTS OF A MECHANICAL CLOCK",
+          "cards": [
+            {
+              "content": "ESCAPEMENT",
+              "position": 12
+            },
+            {
+              "content": "PENDULUM",
+              "position": 10
+            },
+            {
+              "content": "RATCHET",
+              "position": 5
+            },
+            {
+              "content": "SPRING",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "title": "FAMOUS DANS",
+          "cards": [
+            {
+              "content": "AYKROYD",
+              "position": 15
+            },
+            {
+              "content": "LEVY",
+              "position": 9
+            },
+            {
+              "content": "RATHER",
+              "position": 0
+            },
+            {
+              "content": "SAVAGE",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "title": "TAXONOMIC RANKS PLUS A LETTER",
+          "cards": [
+            {
+              "content": "BORDER",
+              "position": 4
+            },
+            {
+              "content": "CLASSY",
+              "position": 8
+            },
+            {
+              "content": "FOAMILY",
+              "position": 14
+            },
+            {
+              "content": "GENIUS",
+              "position": 2
+            }
+          ]
+        }
+      ]
+    },
+    "strands": {
+      "date": "2026-09-25",
+      "status": "OK",
+      "id": 1125,
+      "printDate": "2026-09-25",
+      "themeWords": [
+        "EIGHTYONE",
+        "FOUR",
+        "NINE",
+        "THIRTYSIX",
+        "TWENTYFIVE"
+      ],
+      "editor": "Tracy Bennett",
+      "constructors": "Christina Iverson",
+      "spangram": "SQUARENUMBER",
+      "clue": "1✖️1, etc ... ",
+      "startingBoard": [
+        "RFENTW",
+        "UONITE",
+        "EVIFYN",
+        "SQUARE",
+        "REBMUN",
+        "SYTGHE",
+        "ITHITN",
+        "XRIEYO"
+      ],
+      "solutions": [
+        "ABET",
+        "ABYE",
+        "ABYES",
+        "ABYS",
+        "AINE",
+        "AMBER",
+        "AMBERS",
+        "AMBERY",
+        "ARENE",
+        "ARUHE",
+        "ARUM",
+        "AUGHT",
+        "AUGHTS",
+        "AUGITE",
+        "AUGITES",
+        "AUNE",
+        "AYIN",
+        "AYRE",
+        "BAFT",
+        "BAININ",
+        "BAINITE",
+        "BARE",
+        "BARF",
+        "BARM",
+        "BARN",
+        "BARNET",
+        "BARNEY",
+        "BARNY",
+        "BARYE",
+        "BARYTE",
+        "BAUR",
+        "BAYE",
+        "BAYT",
+        "BESIT",
+        "BEST",
+        "BESTI",
+        "BESTIR",
+        "BETH",
+        "BETIGHT",
+        "BETTY",
+        "BEYS",
+        "BYES",
+        "BYRE",
+        "BYRES",
+        "BYTE",
+        "BYTES",
+        "EBAYER",
+        "EIGHT",
+        "EIGHTS",
+        "EIGHTY",
+        "ENEW",
+        "ENTITY",
+        "ENURE",
+        "ENVOI",
+        "EQUINE",
+        "EQUINITY",
+        "ERNE",
+        "ERST",
+        "ESES",
+        "ESTHETE",
+        "ETEN",
+        "ETHE",
+        "ETHENE",
+        "ETTIN",
+        "EUGH",
+        "EUGHEN",
+        "EUOI",
+        "EURO",
+        "EVOE",
+        "EYEN",
+        "EYER",
+        "EYNE",
+        "EYOT",
+        "EYRA",
+        "EYRE",
+        "FAIN",
+        "FAINE",
+        "FAINNE",
+        "FARE",
+        "FARM",
+        "FAUGH",
+        "FAUN",
+        "FAUR",
+        "FAUVE",
+        "FAUVES",
+        "FAYER",
+        "FAYNE",
+        "FAYRE",
+        "FEINT",
+        "FENI",
+        "FENT",
+        "FIAR",
+        "FIEF",
+        "FIENT",
+        "FINE",
+        "FINI",
+        "FINITE",
+        "FINO",
+        "FIQUE",
+        "FIQUES",
+        "FITT",
+        "FITTE",
+        "FIVE",
+        "FIVES",
+        "FOEN",
+        "FOES",
+        "FOIN",
+        "FONE",
+        "FOUR",
+        "FRAB",
+        "FRAU",
+        "FRAUGHT",
+        "FRAUGHTER",
+        "FRAUGHTEST",
+        "FRAUGHTS",
+        "FRAY",
+        "FRENUM",
+        "FROE",
+        "FROES",
+        "FRUG",
+        "FUBAR",
+        "FYTTE",
+        "GITE",
+        "GITES",
+        "GUAR",
+        "GURN",
+        "GURNET",
+        "GURNEY",
+        "HEIGH",
+        "HEIGHT",
+        "HEIGHTEN",
+        "HEIGHTENER",
+        "HEIR",
+        "HENRY",
+        "HENT",
+        "HETE",
+        "HETH",
+        "HEUGH",
+        "HIGH",
+        "HIGHRISE",
+        "HIGHRISES",
+        "HIGHT",
+        "HIGHTS",
+        "HITHE",
+        "HITS",
+        "HITTER",
+        "HITTERS",
+        "HUER",
+        "HUMA",
+        "HYES",
+        "HYTE",
+        "IAMB",
+        "INFARE",
+        "INFO",
+        "INFRA",
+        "INIA",
+        "INTENT",
+        "IRIS",
+        "IRISES",
+        "MABE",
+        "MABES",
+        "MAIN",
+        "MAINOR",
+        "MAINOUR",
+        "MARE",
+        "MARY",
+        "MAUBY",
+        "MAUN",
+        "MAUVE",
+        "MAUVES",
+        "MAUVIN",
+        "MAUVINE",
+        "MUFTI",
+        "MURA",
+        "MURE",
+        "NEIF",
+        "NENE",
+        "NEON",
+        "NETE",
+        "NETT",
+        "NETTIE",
+        "NETTY",
+        "NEUM",
+        "NEWT",
+        "NIEF",
+        "NIFTY",
+        "NINE",
+        "NITE",
+        "NITTY",
+        "NOES",
+        "NOESES",
+        "NOTE",
+        "NOVUM",
+        "NUMB",
+        "NUMBER",
+        "NUMBERS",
+        "NUMBEST",
+        "ONIE",
+        "ONIUM",
+        "ORFE",
+        "OVINE",
+        "OVUM",
+        "QUAI",
+        "QUARE",
+        "QUAY",
+        "QUBYTE",
+        "QUBYTES",
+        "QUERY",
+        "QUEST",
+        "QUETHE",
+        "QUEY",
+        "QUEYS",
+        "QUIN",
+        "QUINE",
+        "QUINIE",
+        "QUININ",
+        "QUININE",
+        "QUINO",
+        "RAFT",
+        "RAIN",
+        "RAINE",
+        "RAUGHT",
+        "RAUN",
+        "RAYNE",
+        "REBAR",
+        "RENEW",
+        "RENEY",
+        "RENT",
+        "RENTE",
+        "RENUMBER",
+        "RENUMBERS",
+        "RENY",
+        "REQUIN",
+        "RESIT",
+        "REST",
+        "RESTY",
+        "RETIE",
+        "RETIGHTEN",
+        "RISE",
+        "RISER",
+        "RISERS",
+        "RISES",
+        "RITS",
+        "RITT",
+        "RITTER",
+        "RITTERS",
+        "ROES",
+        "ROIN",
+        "RONE",
+        "RONIN",
+        "RONNE",
+        "RONNIE",
+        "ROUE",
+        "ROUES",
+        "ROVE",
+        "ROVES",
+        "RUES",
+        "RUGBY",
+        "RUMBA",
+        "RUNE",
+        "RYES",
+        "SEBUM",
+        "SEQUIN",
+        "SERS",
+        "SESE",
+        "SETT",
+        "SETTS",
+        "SEYS",
+        "SIRI",
+        "SIRIH",
+        "SITH",
+        "SITHE",
+        "SITTER",
+        "SITTERS",
+        "SIXTH",
+        "SIXTIETH",
+        "SIXTY",
+        "SQUAB",
+        "SQUARE",
+        "STIE",
+        "STIR",
+        "STYE",
+        "STYES",
+        "STYRE",
+        "STYRES",
+        "STYTE",
+        "STYTES",
+        "SYES",
+        "SYTHE",
+        "TEHR",
+        "TENE",
+        "TENT",
+        "TENTIE",
+        "TENTY",
+        "TENUE",
+        "TENURE",
+        "TERSE",
+        "TEST",
+        "TESTY",
+        "TEUGH",
+        "THEIR",
+        "THEN",
+        "THETE",
+        "THEY",
+        "THIG",
+        "THIGH",
+        "THIR",
+        "THIRTY",
+        "THRIST",
+        "THRISTY",
+        "THUG",
+        "THUMB",
+        "THUMBY",
+        "THYRSE",
+        "THYRSES",
+        "THYRSI",
+        "TIFT",
+        "TIGHT",
+        "TIGHTEN",
+        "TIGHTENER",
+        "TIGHTER",
+        "TIGHTEST",
+        "TIGHTS",
+        "TINE",
+        "TINT",
+        "TINTY",
+        "TITE",
+        "TITER",
+        "TITERS",
+        "TITHE",
+        "TITTIE",
+        "TITTY",
+        "TONE",
+        "TONY",
+        "TRIE",
+        "TWENTY",
+        "TYER",
+        "TYERS",
+        "TYES",
+        "TYIN",
+        "TYNE",
+        "TYRE",
+        "TYRES",
+        "TYSTIE",
+        "TYTE",
+        "TYTHE",
+        "UEYS",
+        "UMBER",
+        "UMBERS",
+        "UMBERY",
+        "UNETH",
+        "UNRENT",
+        "URENT",
+        "VINE",
+        "VINIFY",
+        "VINO",
+        "VOES",
+        "WENT",
+        "WETTIE",
+        "YAMUN",
+        "YARE",
+        "YARN",
+        "YBET",
+        "YENTE",
+        "YEST",
+        "YETI",
+        "YETT",
+        "YETTIE",
+        "YETTS",
+        "YIRTH",
+        "YITE",
+        "YITES",
+        "YITIE",
+        "YITTEN",
+        "YONT",
+        "YRENT",
+        "YRNEH"
+      ],
+      "themeCoords": {
+        "EIGHTYONE": [
+          [
+            7,
+            3
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            5,
+            3
+          ],
+          [
+            5,
+            4
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            7,
+            4
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            5,
+            5
+          ]
+        ],
+        "FOUR": [
+          [
+            0,
+            1
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            0,
+            0
+          ]
+        ],
+        "NINE": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            0,
+            2
+          ]
+        ],
+        "THIRTYSIX": [
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            6,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            7,
+            0
+          ]
+        ],
+        "TWENTYFIVE": [
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            2,
+            5
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            2,
+            0
+          ]
+        ]
+      },
+      "spangramCoords": [
+        [
+          3,
+          0
+        ],
+        [
+          3,
+          1
+        ],
+        [
+          3,
+          2
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          3,
+          4
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          4,
+          4
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          4,
+          2
+        ],
+        [
+          4,
+          1
+        ],
+        [
+          4,
+          0
+        ]
+      ]
+    },
+    "spelling-bee": {
+      "date": "2026-09-25",
+      "id": 24076,
+      "center_letter": "c",
+      "outer_letters": "adeinv",
+      "pangrams": [
+        "deviance"
+      ],
+      "answers": [
+        "acacia",
+        "acai",
+        "accede",
+        "acceded",
+        "aced",
+        "acid",
+        "acidic",
+        "acne",
+        "advance",
+        "advanced",
+        "advice",
+        "caddie",
+        "caddied",
+        "cadence",
+        "cancan",
+        "candid",
+        "candied",
+        "cane",
+        "caned",
+        "canid",
+        "canine",
+        "canna",
+        "canned",
+        "cava",
+        "cave",
+        "caved",
+        "cede",
+        "ceded",
+        "cicada",
+        "civic",
+        "dance",
+        "danced",
+        "decade",
+        "decadence",
+        "deceive",
+        "deceived",
+        "decide",
+        "decided",
+        "deice",
+        "deiced",
+        "deicide",
+        "device",
+        "dice",
+        "diced",
+        "evidence",
+        "evidenced",
+        "evince",
+        "evinced",
+        "iced",
+        "incidence",
+        "indica",
+        "indicia",
+        "niacin",
+        "nice",
+        "niece",
+        "vaccine",
+        "vice",
+        "vivace"
+      ],
+      "print_date": "2026-09-25",
+      "editor": "Sam Ezersky"
+    }
+  }
+}

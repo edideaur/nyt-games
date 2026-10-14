@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-18",
+  "status": "OK",
+  "id": 1294,
+  "print_date": "2026-09-18",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SEGMENT OF A PROCESS",
+      "cards": [
+        {
+          "content": "PHASE",
+          "position": 15
+        },
+        {
+          "content": "ROUND",
+          "position": 8
+        },
+        {
+          "content": "STAGE",
+          "position": 9
+        },
+        {
+          "content": "STEP",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "ASSORTMENTS OF FOOD/DRINK",
+      "cards": [
+        {
+          "content": "FLIGHT",
+          "position": 4
+        },
+        {
+          "content": "MEDLEY",
+          "position": 11
+        },
+        {
+          "content": "PLATTER",
+          "position": 6
+        },
+        {
+          "content": "SAMPLER",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "PARTS OF A FLIGHT",
+      "cards": [
+        {
+          "content": "BOARDING",
+          "position": 13
+        },
+        {
+          "content": "CRUISE",
+          "position": 1
+        },
+        {
+          "content": "LANDING",
+          "position": 7
+        },
+        {
+          "content": "TAKEOFF",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "___CASE",
+      "cards": [
+        {
+          "content": "BRIEF",
+          "position": 12
+        },
+        {
+          "content": "PILLOW",
+          "position": 0
+        },
+        {
+          "content": "STAIR",
+          "position": 5
+        },
+        {
+          "content": "UPPER",
+          "position": 2
+        }
+      ]
+    }
+  ]
+}

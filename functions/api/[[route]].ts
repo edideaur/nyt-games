@@ -1,9 +1,6 @@
-const GAMES: Record<string, (d: string) => string> = {
-  wordle: (d) => `https://www.nytimes.com/svc/wordle/v2/${d}.json`,
-  connections: (d) => `https://www.nytimes.com/svc/connections/v2/${d}.json`,
-  strands: (d) => `https://www.nytimes.com/svc/strands/v2/${d}.json`,
-  "spelling-bee": (d) => `https://www.nytimes.com/svc/spelling-bee/v1/${d}.json`,
-};
+import { decodeGloble } from "./globle";
+
+const ALL_GAMES = ["wordle", "connections", "strands", "spelling-bee", "globle"] as const;
 
 const CORS: Record<string, string> = {
   "Access-Control-Allow-Origin": "*",
@@ -11,10 +8,14 @@ const CORS: Record<string, string> = {
   "Access-Control-Allow-Headers": "Content-Type",
 };
 
-function json(data: unknown, status = 200) {
+function json(data: unknown, status = 200, cacheControl = "public, max-age=3600") {
   return new Response(JSON.stringify(data), {
     status,
-    headers: { ...CORS, "Content-Type": "application/json" },
+    headers: {
+      ...CORS,
+      "Content-Type": "application/json",
+      "Cache-Control": cacheControl,
+    },
   });
 }
 
@@ -36,16 +37,22 @@ function parseDate(input: string): string | null {
   if (s === "today" || s === "now") return formatDate(today());
 
   if (s === "yesterday") {
-    const d = today(); d.setUTCDate(d.getUTCDate() - 1); return formatDate(d);
+    const d = today();
+    d.setUTCDate(d.getUTCDate() - 1);
+    return formatDate(d);
   }
   if (s === "tomorrow") {
-    const d = today(); d.setUTCDate(d.getUTCDate() + 1); return formatDate(d);
+    const d = today();
+    d.setUTCDate(d.getUTCDate() + 1);
+    return formatDate(d);
   }
 
   // +N / -N
   const rel = s.match(/^([+-]\d+)$/);
   if (rel) {
-    const d = today(); d.setUTCDate(d.getUTCDate() + parseInt(rel[1])); return formatDate(d);
+    const d = today();
+    d.setUTCDate(d.getUTCDate() + parseInt(rel[1], 10));
+    return formatDate(d);
   }
 
   // YYYY-MM-DD
@@ -64,7 +71,8 @@ function parseDate(input: string): string | null {
   const mdy = s.match(/^(\d{1,2})[\/\-\.](\d{1,2})[\/\-\.](\d{2,4})$/);
   if (mdy) {
     const year = mdy[3].length === 2 ? 2000 + +mdy[3] : +mdy[3];
-    let mo = +mdy[1], day = +mdy[2];
+    let mo = +mdy[1];
+    let day = +mdy[2];
     if (mo > 12) [mo, day] = [day, mo];
     return formatDate(new Date(Date.UTC(year, mo - 1, day)));
   }
@@ -82,6 +90,15 @@ function parseDate(input: string): string | null {
     return formatDate(new Date(Date.UTC(native.getFullYear(), native.getMonth(), native.getDate())));
   }
 
+  return null;
+}
+
+async function fetchStaticAsset(urlBase: string, path: string): Promise<object | null> {
+  const assetUrl = new URL(path, urlBase).toString();
+  const res = await fetch(assetUrl);
+  if (res.ok) {
+    return (await res.json()) as object;
+  }
   return null;
 }
 
@@ -104,10 +121,11 @@ export const onRequest: PagesFunction = async (context) => {
 
   // Serve API docs at /api
   if (game === "") {
-    return new Response(`<!DOCTYPE html>
+    return new Response(
+      `<!DOCTYPE html>
 <html>
     <head>
-        <title>NYT Games API</title>
+        <title>Daily Games API (Static Assets)</title>
         <link rel="icon" href="https://Prigoana.com/favicon.png"/>
         <meta charset="utf-8"/>
         <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -163,7 +181,7 @@ export const onRequest: PagesFunction = async (context) => {
     </head>
     <body>
         <header class="custom-header scalar-app">
-            <span class="site-title">NYT Games API</span>
+            <span class="site-title">Daily Games API</span>
             <nav>
                 <a href="https://discord.gg/UdCUsd2X" title="Discord" aria-label="Discord">
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 127.14 96.36"><path d="M107.7,8.07A105.15,105.15,0,0,0,81.47,0a72.06,72.06,0,0,0-3.36,6.83A97.68,97.68,0,0,0,49,6.83,72.37,72.37,0,0,0,45.64,0,105.89,105.89,0,0,0,19.39,8.09C2.79,32.65-1.71,56.6.54,80.21h0A105.73,105.73,0,0,0,32.71,96.36,77.7,77.7,0,0,0,39.6,85.25a68.42,68.42,0,0,1-10.85-5.18c.91-.66,1.8-1.34,2.66-2a75.57,75.57,0,0,0,64.32,0c.87.71,1.76,1.39,2.66,2a68.68,68.42,0,0,1-10.87,5.19,77,77,0,0,0,6.89,11.1A105.25,105.25,0,0,0,126.6,80.22h0C129.24,52.84,122.09,29.11,107.7,8.07ZM42.45,65.69C36.18,65.69,31,60,31,53s5-12.74,11.43-12.74S54,46,53.89,53,48.84,65.69,42.45,65.69Zm42.24,0C78.41,65.69,73.25,60,73.25,53s5-12.74,11.44-12.74S96.23,46,96.12,53,91.08,65.69,84.69,65.69Z"/></svg>
@@ -183,36 +201,51 @@ export const onRequest: PagesFunction = async (context) => {
         <script id="api-reference" data-url="/openapi.json"></script>
         <script src="https://cdn.jsdelivr.net/npm/@scalar/api-reference"></script>
     </body>
-</html>`, {
-      headers: { "Content-Type": "text/html" },
-    });
+</html>`,
+      { headers: { "Content-Type": "text/html" } }
+    );
   }
 
   const date = parseDate(rawDate);
   if (!date) return json({ error: `Cannot parse date: "${rawDate}"` }, 400);
 
+  const cacheControl = "public, max-age=86400, stale-while-revalidate=604800";
+
+  // Globle can always be computed or read from static asset
+  if (game === "globle") {
+    return json(decodeGloble(date), 200, cacheControl);
+  }
+
+  // Check if static all.json exists
   if (game === "all") {
-    const results = await Promise.allSettled(
-      Object.entries(GAMES).map(async ([name, endpoint]) => {
-        const r = await fetch(endpoint(date), { headers: { "User-Agent": "Mozilla/5.0" } });
-        if (!r.ok) throw new Error(`${r.status}`);
-        return [name, await r.json()] as [string, unknown];
+    const staticAll = await fetchStaticAsset(context.request.url, `/assets/games/${date}/all.json`);
+    if (staticAll) {
+      return json(staticAll, 200, cacheControl);
+    }
+
+    // If all.json doesn't exist, build from individual static assets
+    const data: Record<string, unknown> = {};
+    data["globle"] = decodeGloble(date);
+
+    await Promise.all(
+      ALL_GAMES.filter((g) => g !== "globle").map(async (g) => {
+        const item = await fetchStaticAsset(context.request.url, `/assets/games/${date}/${g}.json`);
+        if (item) data[g] = item;
       })
     );
-    const data: Record<string, unknown> = {};
-    for (const r of results) {
-      if (r.status === "fulfilled") data[r.value[0]] = r.value[1];
-    }
-    return json({ date, data });
+
+    return json({ date, data }, 200, cacheControl);
   }
 
-  if (!(game in GAMES)) {
-    return json({ error: `Unknown game "${game}". Valid: ${Object.keys(GAMES).join(", ")}` }, 404);
+  if (!(ALL_GAMES as readonly string[]).includes(game)) {
+    return json({ error: `Unknown game "${game}". Valid: ${ALL_GAMES.join(", ")}` }, 404);
   }
 
-  const r = await fetch(GAMES[game](date), { headers: { "User-Agent": "Mozilla/5.0" } });
-  if (!r.ok) return json({ error: `NYT returned ${r.status} for ${date}` }, 502);
+  // Serve static game asset from /assets/games/{date}/{game}.json
+  const asset = await fetchStaticAsset(context.request.url, `/assets/games/${date}/${game}.json`);
+  if (!asset) {
+    return json({ error: `No static asset found for ${game} on ${date}` }, 404);
+  }
 
-  const data = await r.json() as object;
-  return json({ date, ...data });
+  return json(asset, 200, cacheControl);
 };

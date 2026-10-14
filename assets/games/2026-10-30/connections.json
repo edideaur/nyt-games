@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-30",
+  "status": "OK",
+  "id": 1334,
+  "print_date": "2026-10-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PARTS OF A CAMERA",
+      "cards": [
+        {
+          "content": "FLASH",
+          "position": 9
+        },
+        {
+          "content": "LENS",
+          "position": 12
+        },
+        {
+          "content": "SHUTTER",
+          "position": 4
+        },
+        {
+          "content": "VIEWFINDER",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "AROUND A THEATER STAGE",
+      "cards": [
+        {
+          "content": "BACKDROP",
+          "position": 14
+        },
+        {
+          "content": "CURTAIN",
+          "position": 6
+        },
+        {
+          "content": "PIT",
+          "position": 1
+        },
+        {
+          "content": "WINGS",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "THROW ___",
+      "cards": [
+        {
+          "content": "HANDS",
+          "position": 2
+        },
+        {
+          "content": "PILLOW",
+          "position": 13
+        },
+        {
+          "content": "RUG",
+          "position": 10
+        },
+        {
+          "content": "SHADE",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "FRUIT WITH FIRST LETTER CHANGED",
+      "cards": [
+        {
+          "content": "DEMON",
+          "position": 0
+        },
+        {
+          "content": "DRAPE",
+          "position": 8
+        },
+        {
+          "content": "GLUM",
+          "position": 5
+        },
+        {
+          "content": "GRANGE",
+          "position": 11
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

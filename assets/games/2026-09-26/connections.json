@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-26",
+  "status": "OK",
+  "id": 1303,
+  "print_date": "2026-09-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BREATH FRESHENERS",
+      "cards": [
+        {
+          "content": "GUM",
+          "position": 8
+        },
+        {
+          "content": "MINT",
+          "position": 0
+        },
+        {
+          "content": "MOUTHWASH",
+          "position": 13
+        },
+        {
+          "content": "SPRAY",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "THINGS DONE TO A DRESS SHIRT AT THE LAUNDRY",
+      "cards": [
+        {
+          "content": "FOLD",
+          "position": 9
+        },
+        {
+          "content": "PRESS",
+          "position": 1
+        },
+        {
+          "content": "STARCH",
+          "position": 4
+        },
+        {
+          "content": "WASH",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "FEATURES OF WOOD",
+      "cards": [
+        {
+          "content": "BURL",
+          "position": 14
+        },
+        {
+          "content": "GRAIN",
+          "position": 2
+        },
+        {
+          "content": "KNOTS",
+          "position": 10
+        },
+        {
+          "content": "RINGS",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "\"COOL\" THINGS, IN EXPRESSIONS",
+      "cards": [
+        {
+          "content": "BEANS",
+          "position": 3
+        },
+        {
+          "content": "CAT",
+          "position": 5
+        },
+        {
+          "content": "CUCUMBER",
+          "position": 6
+        },
+        {
+          "content": "CUSTOMER",
+          "position": 11
+        }
+      ]
+    }
+  ]
+}

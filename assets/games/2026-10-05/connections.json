@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-05",
+  "status": "OK",
+  "id": 1309,
+  "print_date": "2026-10-05",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CALM",
+      "cards": [
+        {
+          "content": "CONTENT",
+          "position": 3
+        },
+        {
+          "content": "PEACEFUL",
+          "position": 12
+        },
+        {
+          "content": "PLACID",
+          "position": 15
+        },
+        {
+          "content": "SERENE",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "ADJECTIVES FOR MATURE CONTENT",
+      "cards": [
+        {
+          "content": "EXPLICIT",
+          "position": 2
+        },
+        {
+          "content": "GRAPHIC",
+          "position": 7
+        },
+        {
+          "content": "STRONG",
+          "position": 8
+        },
+        {
+          "content": "SUGGESTIVE",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF BOARDS",
+      "cards": [
+        {
+          "content": "ADVISORY",
+          "position": 1
+        },
+        {
+          "content": "CHESS",
+          "position": 4
+        },
+        {
+          "content": "IRONING",
+          "position": 13
+        },
+        {
+          "content": "MESSAGE",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN WAYS TO TEMPORARILY ACQUIRE",
+      "cards": [
+        {
+          "content": "PARENT",
+          "position": 0
+        },
+        {
+          "content": "PLEASE",
+          "position": 5
+        },
+        {
+          "content": "SAPPHIRE",
+          "position": 9
+        },
+        {
+          "content": "SLOAN",
+          "position": 14
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

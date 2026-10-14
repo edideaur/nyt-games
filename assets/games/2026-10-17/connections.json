@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-17",
+  "status": "OK",
+  "id": 1329,
+  "print_date": "2026-10-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DIGITAL NOTIFICATIONS",
+      "cards": [
+        {
+          "content": "ALERT",
+          "position": 10
+        },
+        {
+          "content": "CHIME",
+          "position": 12
+        },
+        {
+          "content": "DING",
+          "position": 15
+        },
+        {
+          "content": "PING",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "PHOTO",
+      "cards": [
+        {
+          "content": "PRINT",
+          "position": 11
+        },
+        {
+          "content": "SHOT",
+          "position": 7
+        },
+        {
+          "content": "SNAP",
+          "position": 2
+        },
+        {
+          "content": "STILL",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF CRABS",
+      "cards": [
+        {
+          "content": "FIDDLER",
+          "position": 9
+        },
+        {
+          "content": "HERMIT",
+          "position": 14
+        },
+        {
+          "content": "KING",
+          "position": 1
+        },
+        {
+          "content": "SNOW",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "LA ___",
+      "cards": [
+        {
+          "content": "BOHÈME",
+          "position": 8
+        },
+        {
+          "content": "BREA",
+          "position": 0
+        },
+        {
+          "content": "PAZ",
+          "position": 5
+        },
+        {
+          "content": "SCALA",
+          "position": 13
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

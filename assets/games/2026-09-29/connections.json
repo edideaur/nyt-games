@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-29",
+  "status": "OK",
+  "id": 1304,
+  "print_date": "2026-09-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SECLUDED",
+      "cards": [
+        {
+          "content": "HIDDEN",
+          "position": 1
+        },
+        {
+          "content": "REMOTE",
+          "position": 11
+        },
+        {
+          "content": "SECRET",
+          "position": 6
+        },
+        {
+          "content": "TUCKED AWAY",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "RIVER FEATURES",
+      "cards": [
+        {
+          "content": "DELTA",
+          "position": 0
+        },
+        {
+          "content": "DRAINAGE BASIN",
+          "position": 15
+        },
+        {
+          "content": "MOUTH",
+          "position": 10
+        },
+        {
+          "content": "STREAM BED",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "FIRST WORDS OF PIXAR FILMS",
+      "cards": [
+        {
+          "content": "FINDING",
+          "position": 5
+        },
+        {
+          "content": "INSIDE",
+          "position": 2
+        },
+        {
+          "content": "MONSTERS",
+          "position": 4
+        },
+        {
+          "content": "TOY",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "PHRASES HIDING GREEK LETTERS",
+      "cards": [
+        {
+          "content": "FREEZE TAG",
+          "position": 8
+        },
+        {
+          "content": "HOME GAME",
+          "position": 14
+        },
+        {
+          "content": "MODEL TANK",
+          "position": 3
+        },
+        {
+          "content": "ORAL PHASE",
+          "position": 9
+        }
+      ]
+    }
+  ]
+}

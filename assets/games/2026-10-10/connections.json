@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-10",
+  "status": "OK",
+  "id": 1318,
+  "print_date": "2026-10-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "USEFUL WHEN WRITING A PAPER",
+      "cards": [
+        {
+          "content": "DRAFT",
+          "position": 4
+        },
+        {
+          "content": "NOTES",
+          "position": 9
+        },
+        {
+          "content": "OUTLINE",
+          "position": 0
+        },
+        {
+          "content": "THESIS",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "PRESUME",
+      "cards": [
+        {
+          "content": "FIGURE",
+          "position": 3
+        },
+        {
+          "content": "GATHER",
+          "position": 8
+        },
+        {
+          "content": "IMAGINE",
+          "position": 5
+        },
+        {
+          "content": "SUPPOSE",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "SOCIAL MEDIA SECTIONS",
+      "cards": [
+        {
+          "content": "FEED",
+          "position": 2
+        },
+        {
+          "content": "MESSAGES",
+          "position": 11
+        },
+        {
+          "content": "NOTIFICATIONS",
+          "position": 7
+        },
+        {
+          "content": "PROFILE",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "___BOXING",
+      "cards": [
+        {
+          "content": "BEAT",
+          "position": 12
+        },
+        {
+          "content": "KICK",
+          "position": 6
+        },
+        {
+          "content": "SHADOW",
+          "position": 1
+        },
+        {
+          "content": "UN",
+          "position": 10
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

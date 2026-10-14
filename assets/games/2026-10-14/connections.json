@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-14",
+  "status": "OK",
+  "id": 1330,
+  "print_date": "2026-10-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HINT",
+      "cards": [
+        {
+          "content": "FLICKER",
+          "position": 5
+        },
+        {
+          "content": "SUGGESTION",
+          "position": 3
+        },
+        {
+          "content": "TRACE",
+          "position": 10
+        },
+        {
+          "content": "WHIFF",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "TENNIS SHOTS",
+      "cards": [
+        {
+          "content": "SERVE",
+          "position": 2
+        },
+        {
+          "content": "SLICE",
+          "position": 12
+        },
+        {
+          "content": "SMASH",
+          "position": 8
+        },
+        {
+          "content": "VOLLEY",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "SUPERHEROES, WITH \"THE\"",
+      "cards": [
+        {
+          "content": "FLASH",
+          "position": 6
+        },
+        {
+          "content": "HULK",
+          "position": 9
+        },
+        {
+          "content": "PUNISHER",
+          "position": 15
+        },
+        {
+          "content": "THING",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH \"FEE, FI, FO, FUM\"",
+      "cards": [
+        {
+          "content": "FEED",
+          "position": 0
+        },
+        {
+          "content": "FIERY",
+          "position": 4
+        },
+        {
+          "content": "FOMENT",
+          "position": 7
+        },
+        {
+          "content": "FUMBLE",
+          "position": 11
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

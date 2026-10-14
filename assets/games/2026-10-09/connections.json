@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-09",
+  "status": "OK",
+  "id": 1319,
+  "print_date": "2026-10-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DECISIVE VICTORY",
+      "cards": [
+        {
+          "content": "BLOWOUT",
+          "position": 4
+        },
+        {
+          "content": "ROMP",
+          "position": 13
+        },
+        {
+          "content": "ROUT",
+          "position": 15
+        },
+        {
+          "content": "SWEEP",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "CONTROLLED BY A TV REMOTE",
+      "cards": [
+        {
+          "content": "CHANNEL",
+          "position": 12
+        },
+        {
+          "content": "INPUT",
+          "position": 10
+        },
+        {
+          "content": "POWER",
+          "position": 0
+        },
+        {
+          "content": "VOLUME",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "FEATURES OF A SPORTS SHOW",
+      "cards": [
+        {
+          "content": "HIGHLIGHTS",
+          "position": 7
+        },
+        {
+          "content": "RECAP",
+          "position": 14
+        },
+        {
+          "content": "SCORES",
+          "position": 8
+        },
+        {
+          "content": "STATS",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "AIR ___",
+      "cards": [
+        {
+          "content": "CONDITIONER",
+          "position": 2
+        },
+        {
+          "content": "GUITAR",
+          "position": 1
+        },
+        {
+          "content": "KISS",
+          "position": 5
+        },
+        {
+          "content": "QUOTES",
+          "position": 9
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

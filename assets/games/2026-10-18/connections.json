@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-18",
+  "status": "OK",
+  "id": 1333,
+  "print_date": "2026-10-18",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PLACES TO STORE CLOTHES",
+      "cards": [
+        {
+          "content": "BUREAU",
+          "position": 11
+        },
+        {
+          "content": "CHEST",
+          "position": 8
+        },
+        {
+          "content": "TRUNK",
+          "position": 13
+        },
+        {
+          "content": "WARDROBE",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "THINGS THAT COME IN STICKS",
+      "cards": [
+        {
+          "content": "BUTTER",
+          "position": 1
+        },
+        {
+          "content": "DEODORANT",
+          "position": 3
+        },
+        {
+          "content": "DYNAMITE",
+          "position": 5
+        },
+        {
+          "content": "INCENSE",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "FAMOUS PERFUMES",
+      "cards": [
+        {
+          "content": "ANGEL",
+          "position": 0
+        },
+        {
+          "content": "COCO",
+          "position": 4
+        },
+        {
+          "content": "OBSESSION",
+          "position": 12
+        },
+        {
+          "content": "OPIUM",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH THINGS THAT CLOUD THE AIR",
+      "cards": [
+        {
+          "content": "FOGERTY",
+          "position": 7
+        },
+        {
+          "content": "HAZEL",
+          "position": 2
+        },
+        {
+          "content": "MISTER",
+          "position": 6
+        },
+        {
+          "content": "VAPORETTO",
+          "position": 10
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

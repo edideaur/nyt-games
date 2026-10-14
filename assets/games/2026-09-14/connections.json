@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-14",
+  "status": "OK",
+  "id": 1288,
+  "print_date": "2026-09-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "WATERBIRDS",
+      "cards": [
+        {
+          "content": "COOT",
+          "position": 2
+        },
+        {
+          "content": "GOOSE",
+          "position": 13
+        },
+        {
+          "content": "LOON",
+          "position": 8
+        },
+        {
+          "content": "TEAL",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "INFORMANT",
+      "cards": [
+        {
+          "content": "CANARY",
+          "position": 5
+        },
+        {
+          "content": "RAT",
+          "position": 7
+        },
+        {
+          "content": "SNITCH",
+          "position": 12
+        },
+        {
+          "content": "STOOLIE",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "COMMON SINGLE-USE PLASTIC ITEMS",
+      "cards": [
+        {
+          "content": "BAG",
+          "position": 9
+        },
+        {
+          "content": "CUTLERY",
+          "position": 11
+        },
+        {
+          "content": "STIRRER",
+          "position": 14
+        },
+        {
+          "content": "STRAW",
+          "position": 0
+        }
+      ]
+    },
+    {
+      "title": "___GRASS",
+      "cards": [
+        {
+          "content": "BLUE",
+          "position": 4
+        },
+        {
+          "content": "CRAB",
+          "position": 1
+        },
+        {
+          "content": "LEMON",
+          "position": 3
+        },
+        {
+          "content": "WHEAT",
+          "position": 10
+        }
+      ]
+    }
+  ]
+}

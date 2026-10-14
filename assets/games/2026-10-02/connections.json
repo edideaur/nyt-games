@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-02",
+  "status": "OK",
+  "id": 1310,
+  "print_date": "2026-10-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FINANCE",
+      "cards": [
+        {
+          "content": "BACK",
+          "position": 12
+        },
+        {
+          "content": "BANKROLL",
+          "position": 6
+        },
+        {
+          "content": "FUND",
+          "position": 5
+        },
+        {
+          "content": "SUPPORT",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "FINGERS",
+      "cards": [
+        {
+          "content": "INDEX",
+          "position": 4
+        },
+        {
+          "content": "LITTLE",
+          "position": 0
+        },
+        {
+          "content": "MIDDLE",
+          "position": 9
+        },
+        {
+          "content": "RING",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "CUSTOMARY",
+      "cards": [
+        {
+          "content": "COMMON",
+          "position": 2
+        },
+        {
+          "content": "ROUTINE",
+          "position": 14
+        },
+        {
+          "content": "STANDARD",
+          "position": 8
+        },
+        {
+          "content": "STOCK",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "PRIME ___",
+      "cards": [
+        {
+          "content": "NUMBER",
+          "position": 13
+        },
+        {
+          "content": "REAL ESTATE",
+          "position": 1
+        },
+        {
+          "content": "RIB",
+          "position": 7
+        },
+        {
+          "content": "TIME",
+          "position": 15
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

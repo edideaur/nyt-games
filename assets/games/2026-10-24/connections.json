@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-24",
+  "status": "OK",
+  "id": 1338,
+  "print_date": "2026-10-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF STRIPS",
+      "cards": [
+        {
+          "content": "BACON",
+          "position": 2
+        },
+        {
+          "content": "COMIC",
+          "position": 0
+        },
+        {
+          "content": "FILM",
+          "position": 11
+        },
+        {
+          "content": "MÖBIUS",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "THINGS ON STICKS",
+      "cards": [
+        {
+          "content": "HOBBY HORSE",
+          "position": 7
+        },
+        {
+          "content": "PINWHEEL",
+          "position": 9
+        },
+        {
+          "content": "POPSICLE",
+          "position": 4
+        },
+        {
+          "content": "SPARKLER",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "ONLINE AD FORMATS",
+      "cards": [
+        {
+          "content": "BANNER",
+          "position": 8
+        },
+        {
+          "content": "INTERSTITIAL",
+          "position": 12
+        },
+        {
+          "content": "OVERLAY",
+          "position": 15
+        },
+        {
+          "content": "POP-UP",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "___ BAR",
+      "cards": [
+        {
+          "content": "CANDY",
+          "position": 6
+        },
+        {
+          "content": "SALAD",
+          "position": 1
+        },
+        {
+          "content": "SPACE",
+          "position": 10
+        },
+        {
+          "content": "SPORTS",
+          "position": 13
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

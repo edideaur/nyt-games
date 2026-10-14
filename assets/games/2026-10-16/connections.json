@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-16",
+  "status": "OK",
+  "id": 1325,
+  "print_date": "2026-10-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SURFACE IMPERFECTIONS",
+      "cards": [
+        {
+          "content": "CHIP",
+          "position": 4
+        },
+        {
+          "content": "MARK",
+          "position": 9
+        },
+        {
+          "content": "NICK",
+          "position": 11
+        },
+        {
+          "content": "SCRATCH",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "LANDLOCKED COUNTRIES",
+      "cards": [
+        {
+          "content": "CHAD",
+          "position": 5
+        },
+        {
+          "content": "HUNGARY",
+          "position": 0
+        },
+        {
+          "content": "LAOS",
+          "position": 10
+        },
+        {
+          "content": "PARAGUAY",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "EUROPEAN COUNTRIES MINUS A LETTER",
+      "cards": [
+        {
+          "content": "BULGARI",
+          "position": 14
+        },
+        {
+          "content": "CYRUS",
+          "position": 7
+        },
+        {
+          "content": "HUNGRY",
+          "position": 1
+        },
+        {
+          "content": "SPAN",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH WORDS FOR \"STYLISH\"",
+      "cards": [
+        {
+          "content": "CHICKEN",
+          "position": 3
+        },
+        {
+          "content": "COOLIDGE",
+          "position": 6
+        },
+        {
+          "content": "HIPPO",
+          "position": 2
+        },
+        {
+          "content": "SMARTIES",
+          "position": 13
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

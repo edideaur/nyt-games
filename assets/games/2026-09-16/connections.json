@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-16",
+  "status": "OK",
+  "id": 1295,
+  "print_date": "2026-09-16",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ENDING IN METAL ELEMENTS",
+      "cards": [
+        {
+          "content": "LATIN",
+          "position": 1
+        },
+        {
+          "content": "LONG JOHN SILVER",
+          "position": 7
+        },
+        {
+          "content": "MARIGOLD",
+          "position": 14
+        },
+        {
+          "content": "STEAM IRON",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH U.S. COINS",
+      "cards": [
+        {
+          "content": "DIMENSION",
+          "position": 11
+        },
+        {
+          "content": "NICKELODEON",
+          "position": 5
+        },
+        {
+          "content": "PENNYWISE",
+          "position": 3
+        },
+        {
+          "content": "QUARTERBACK",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "POETS' MIDDLE NAMES",
+      "cards": [
+        {
+          "content": "BARRETT",
+          "position": 15
+        },
+        {
+          "content": "CARLOS",
+          "position": 13
+        },
+        {
+          "content": "ST. VINCENT",
+          "position": 8
+        },
+        {
+          "content": "WADSWORTH",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "SAUSAGES PLUS A LETTER",
+      "cards": [
+        {
+          "content": "BORAT",
+          "position": 6
+        },
+        {
+          "content": "CLINK",
+          "position": 2
+        },
+        {
+          "content": "FRANK-N-FURTER",
+          "position": 0
+        },
+        {
+          "content": "WIDENER",
+          "position": 10
+        }
+      ]
+    }
+  ]
+}

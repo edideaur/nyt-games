@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-22",
+  "status": "OK",
+  "id": 1307,
+  "print_date": "2026-09-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DEMONSTRATIVES",
+      "cards": [
+        {
+          "content": "THAT",
+          "position": 1
+        },
+        {
+          "content": "THESE",
+          "position": 14
+        },
+        {
+          "content": "THIS",
+          "position": 0
+        },
+        {
+          "content": "THOSE",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "EMBELLISHMENT",
+      "cards": [
+        {
+          "content": "ACCENT",
+          "position": 7
+        },
+        {
+          "content": "DETAIL",
+          "position": 12
+        },
+        {
+          "content": "FLOURISH",
+          "position": 15
+        },
+        {
+          "content": "TOUCH",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "OPTIONS ON A MULTIPLE CHOICE SURVEY",
+      "cards": [
+        {
+          "content": "AGREE",
+          "position": 6
+        },
+        {
+          "content": "DISAGREE",
+          "position": 13
+        },
+        {
+          "content": "NEUTRAL",
+          "position": 11
+        },
+        {
+          "content": "OTHER",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "BEVERAGES WITH ACUTE ACCENTS REMOVED",
+      "cards": [
+        {
+          "content": "CAFE",
+          "position": 4
+        },
+        {
+          "content": "PATRON",
+          "position": 5
+        },
+        {
+          "content": "ROSE",
+          "position": 10
+        },
+        {
+          "content": "THE",
+          "position": 2
+        }
+      ]
+    }
+  ]
+}

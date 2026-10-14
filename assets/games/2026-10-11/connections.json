@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-11",
+  "status": "OK",
+  "id": 1312,
+  "print_date": "2026-10-11",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PUT TO USE",
+      "cards": [
+        {
+          "content": "APPLY",
+          "position": 6
+        },
+        {
+          "content": "HARNESS",
+          "position": 0
+        },
+        {
+          "content": "UTILIZE",
+          "position": 11
+        },
+        {
+          "content": "WIELD",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "MONTHLY BILLS",
+      "cards": [
+        {
+          "content": "CABLE",
+          "position": 5
+        },
+        {
+          "content": "ELECTRICITY",
+          "position": 8
+        },
+        {
+          "content": "INTERNET",
+          "position": 15
+        },
+        {
+          "content": "PHONE",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "THINGS YOU MIGHT FIND IN A GLOVE COMPARTMENT",
+      "cards": [
+        {
+          "content": "GLOVES",
+          "position": 4
+        },
+        {
+          "content": "ICE SCRAPER",
+          "position": 10
+        },
+        {
+          "content": "MAP",
+          "position": 1
+        },
+        {
+          "content": "REGISTRATION",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN GAMBITS",
+      "cards": [
+        {
+          "content": "EMPLOY",
+          "position": 12
+        },
+        {
+          "content": "PATRICK",
+          "position": 7
+        },
+        {
+          "content": "PERUSE",
+          "position": 2
+        },
+        {
+          "content": "SYNTACTIC",
+          "position": 14
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

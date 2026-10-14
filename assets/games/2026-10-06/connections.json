@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-06",
+  "status": "OK",
+  "id": 1316,
+  "print_date": "2026-10-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FINANCIAL FIRMS, FOR SHORT",
+      "cards": [
+        {
+          "content": "BERKSHIRE",
+          "position": 5
+        },
+        {
+          "content": "CITI",
+          "position": 12
+        },
+        {
+          "content": "GOLDMAN",
+          "position": 15
+        },
+        {
+          "content": "MERRILL",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF CHAIRS",
+      "cards": [
+        {
+          "content": "ADIRONDACK",
+          "position": 0
+        },
+        {
+          "content": "EAMES",
+          "position": 14
+        },
+        {
+          "content": "WINDSOR",
+          "position": 8
+        },
+        {
+          "content": "WINGBACK",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "___ INN HOTELS",
+      "cards": [
+        {
+          "content": "COMFORT",
+          "position": 4
+        },
+        {
+          "content": "DAYS",
+          "position": 11
+        },
+        {
+          "content": "HAMPTON",
+          "position": 7
+        },
+        {
+          "content": "HOLIDAY",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN TALENTS",
+      "cards": [
+        {
+          "content": "CATSKILL",
+          "position": 2
+        },
+        {
+          "content": "KNICKKNACK",
+          "position": 1
+        },
+        {
+          "content": "PIANOFORTE",
+          "position": 13
+        },
+        {
+          "content": "STABILITY",
+          "position": 6
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

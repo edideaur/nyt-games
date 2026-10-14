@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-27",
+  "status": "OK",
+  "id": 1341,
+  "print_date": "2026-10-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PARTS OF THE EAR",
+      "cards": [
+        {
+          "content": "ANVIL",
+          "position": 12
+        },
+        {
+          "content": "CANAL",
+          "position": 9
+        },
+        {
+          "content": "DRUM",
+          "position": 2
+        },
+        {
+          "content": "STIRRUP",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "MESS (WITH)",
+      "cards": [
+        {
+          "content": "FIDDLE",
+          "position": 6
+        },
+        {
+          "content": "MEDDLE",
+          "position": 15
+        },
+        {
+          "content": "TINKER",
+          "position": 4
+        },
+        {
+          "content": "TRIFLE",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "___ BELL",
+      "cards": [
+        {
+          "content": "DIVING",
+          "position": 11
+        },
+        {
+          "content": "JINGLE",
+          "position": 7
+        },
+        {
+          "content": "LIBERTY",
+          "position": 8
+        },
+        {
+          "content": "TACO",
+          "position": 0
+        }
+      ]
+    },
+    {
+      "title": "BELL ___",
+      "cards": [
+        {
+          "content": "BOTTOMS",
+          "position": 13
+        },
+        {
+          "content": "JAR",
+          "position": 3
+        },
+        {
+          "content": "PEPPER",
+          "position": 1
+        },
+        {
+          "content": "TOWER",
+          "position": 5
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

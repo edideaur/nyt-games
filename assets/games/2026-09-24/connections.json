@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-24",
+  "status": "OK",
+  "id": 1302,
+  "print_date": "2026-09-24",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PARTS OF A VAMPIRE COSTUME",
+      "cards": [
+        {
+          "content": "CAPE",
+          "position": 7
+        },
+        {
+          "content": "FACE PAINT",
+          "position": 3
+        },
+        {
+          "content": "FAKE BLOOD",
+          "position": 12
+        },
+        {
+          "content": "FANGS",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "THINGS WITH SPRING/S",
+      "cards": [
+        {
+          "content": "BOBBLEHEAD",
+          "position": 4
+        },
+        {
+          "content": "POGO STICK",
+          "position": 2
+        },
+        {
+          "content": "SNAKES IN A CAN",
+          "position": 14
+        },
+        {
+          "content": "TRAMPOLINE",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "FEATURING POINTING",
+      "cards": [
+        {
+          "content": "CREATION OF ADAM",
+          "position": 8
+        },
+        {
+          "content": "FOAM FINGER",
+          "position": 1
+        },
+        {
+          "content": "I'M WITH STUPID SHIRT",
+          "position": 13
+        },
+        {
+          "content": "UNCLE SAM",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "ANAGRAMS",
+      "cards": [
+        {
+          "content": "BEER HAT",
+          "position": 5
+        },
+        {
+          "content": "BREATHE",
+          "position": 11
+        },
+        {
+          "content": "HERB TEA",
+          "position": 15
+        },
+        {
+          "content": "THE BEAR",
+          "position": 0
+        }
+      ]
+    }
+  ]
+}

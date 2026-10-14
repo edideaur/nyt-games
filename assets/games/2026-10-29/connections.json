@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-29",
+  "status": "OK",
+  "id": 1340,
+  "print_date": "2026-10-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "THINGS YOU PUT COINS INTO",
+      "cards": [
+        {
+          "content": "PARKING METER",
+          "position": 4
+        },
+        {
+          "content": "PAYPHONE",
+          "position": 15
+        },
+        {
+          "content": "PIGGY BANK",
+          "position": 7
+        },
+        {
+          "content": "WISHING WELL",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH PENGUINS",
+      "cards": [
+        {
+          "content": "ANTARCTICA",
+          "position": 11
+        },
+        {
+          "content": "EMPEROR",
+          "position": 3
+        },
+        {
+          "content": "TUXEDO",
+          "position": 0
+        },
+        {
+          "content": "WADDLE",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "ENDS OF FAMOUS FONTS",
+      "cards": [
+        {
+          "content": "GOTHIC",
+          "position": 10
+        },
+        {
+          "content": "ROMAN",
+          "position": 2
+        },
+        {
+          "content": "SANS",
+          "position": 14
+        },
+        {
+          "content": "TYPEWRITER",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "THINGS THAT FEATURE THREE COLORS",
+      "cards": [
+        {
+          "content": "CALICO",
+          "position": 12
+        },
+        {
+          "content": "CANDY CORN",
+          "position": 5
+        },
+        {
+          "content": "NEAPOLITAN",
+          "position": 6
+        },
+        {
+          "content": "TRAFFIC LIGHT",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

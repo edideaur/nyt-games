@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-01",
+  "status": "OK",
+  "id": 1342,
+  "print_date": "2026-11-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF TEETH",
+      "cards": [
+        {
+          "content": "BICUSPID",
+          "position": 11
+        },
+        {
+          "content": "CANINE",
+          "position": 2
+        },
+        {
+          "content": "INCISOR",
+          "position": 9
+        },
+        {
+          "content": "MOLAR",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF LOVE",
+      "cards": [
+        {
+          "content": "BROTHERLY",
+          "position": 10
+        },
+        {
+          "content": "PUPPY",
+          "position": 7
+        },
+        {
+          "content": "SELF",
+          "position": 5
+        },
+        {
+          "content": "UNREQUITED",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "ENTHUSIAST",
+      "cards": [
+        {
+          "content": "FIEND",
+          "position": 15
+        },
+        {
+          "content": "HEAD",
+          "position": 0
+        },
+        {
+          "content": "HOUND",
+          "position": 8
+        },
+        {
+          "content": "LOVER",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR \"SOAKED\" WITH FIRST LETTER CHANGED",
+      "cards": [
+        {
+          "content": "DOGGY",
+          "position": 4
+        },
+        {
+          "content": "MATURATED",
+          "position": 6
+        },
+        {
+          "content": "TRENCHED",
+          "position": 13
+        },
+        {
+          "content": "TRIPPING",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-01",
+  "status": "OK",
+  "id": 1314,
+  "print_date": "2026-10-01",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PUT",
+      "cards": [
+        {
+          "content": "PLACE",
+          "position": 11
+        },
+        {
+          "content": "POSITION",
+          "position": 13
+        },
+        {
+          "content": "SITUATE",
+          "position": 8
+        },
+        {
+          "content": "STICK",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "DRESS SHIRT MEASUREMENTS",
+      "cards": [
+        {
+          "content": "CHEST",
+          "position": 14
+        },
+        {
+          "content": "NECK",
+          "position": 2
+        },
+        {
+          "content": "SLEEVE",
+          "position": 9
+        },
+        {
+          "content": "WAIST",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "2000S INDIE ROCK BANDS, WITH \"THE\"",
+      "cards": [
+        {
+          "content": "DECEMBERISTS",
+          "position": 15
+        },
+        {
+          "content": "NATIONAL",
+          "position": 0
+        },
+        {
+          "content": "SHINS",
+          "position": 3
+        },
+        {
+          "content": "WALKMEN",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "STARTS OF NYT PRINT PUZZLES",
+      "cards": [
+        {
+          "content": "ACRO",
+          "position": 4
+        },
+        {
+          "content": "CROSS",
+          "position": 10
+        },
+        {
+          "content": "KEN",
+          "position": 1
+        },
+        {
+          "content": "SUD",
+          "position": 12
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

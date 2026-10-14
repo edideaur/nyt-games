@@ -1,0 +1,1184 @@
+[
+  {
+    "name": "Morocco",
+    "formalName": "Kingdom of Morocco",
+    "code": "MA",
+    "flag": "🇲🇦"
+  },
+  {
+    "name": "Ukraine",
+    "formalName": "Ukraine",
+    "code": "UA",
+    "flag": "🇺🇦"
+  },
+  {
+    "name": "Namibia",
+    "formalName": "Republic of Namibia",
+    "code": "NA",
+    "flag": "🇳🇦"
+  },
+  {
+    "name": "South Africa",
+    "formalName": "Republic of South Africa",
+    "code": "ZA",
+    "flag": "🇿🇦"
+  },
+  {
+    "name": "Laos",
+    "formalName": "Lao People's Democratic Republic",
+    "code": "LA",
+    "flag": "🇱🇦"
+  },
+  {
+    "name": "Qatar",
+    "formalName": "State of Qatar",
+    "code": "QA",
+    "flag": "🇶🇦"
+  },
+  {
+    "name": "Saudi Arabia",
+    "formalName": "Kingdom of Saudi Arabia",
+    "code": "SA",
+    "flag": "🇸🇦"
+  },
+  {
+    "name": "Bosnia and Herz.",
+    "formalName": "Bosnia and Herzegovina",
+    "code": "BA",
+    "flag": "🇧🇦"
+  },
+  {
+    "name": "Gabon",
+    "formalName": "Gabonese Republic",
+    "code": "GA",
+    "flag": "🇬🇦"
+  },
+  {
+    "name": "Canada",
+    "formalName": "Canada",
+    "code": "CA",
+    "flag": "🇨🇦"
+  },
+  {
+    "name": "Panama",
+    "formalName": "Republic of Panama",
+    "code": "PA",
+    "flag": "🇵🇦"
+  },
+  {
+    "name": "Vatican",
+    "formalName": "State of the Vatican City",
+    "code": "VA",
+    "flag": "🇻🇦"
+  },
+  {
+    "name": "United Kingdom",
+    "formalName": "United Kingdom of Great Britain and Northern Ireland",
+    "code": "GB",
+    "flag": "🇬🇧"
+  },
+  {
+    "name": "Lebanon",
+    "formalName": "Lebanese Republic",
+    "code": "LB",
+    "flag": "🇱🇧"
+  },
+  {
+    "name": "Barbados",
+    "formalName": "Barbados",
+    "code": "BB",
+    "flag": "🇧🇧"
+  },
+  {
+    "name": "Solomon Is.",
+    "formalName": "Solomon Islands",
+    "code": "SB",
+    "flag": "🇸🇧"
+  },
+  {
+    "name": "Ecuador",
+    "formalName": "Republic of Ecuador",
+    "code": "EC",
+    "flag": "🇪🇨"
+  },
+  {
+    "name": "St. Vin. and Gren.",
+    "formalName": "Saint Vincent and the Grenadines",
+    "code": "VC",
+    "flag": "🇻🇨"
+  },
+  {
+    "name": "Saint Lucia",
+    "formalName": "Saint Lucia",
+    "code": "LC",
+    "flag": "🇱🇨"
+  },
+  {
+    "name": "Monaco",
+    "formalName": "Principality of Monaco",
+    "code": "MC",
+    "flag": "🇲🇨"
+  },
+  {
+    "name": "Seychelles",
+    "formalName": "Republic of Seychelles",
+    "code": "SC",
+    "flag": "🇸🇨"
+  },
+  {
+    "name": "Indonesia",
+    "formalName": "Republic of Indonesia",
+    "code": "ID",
+    "flag": "🇮🇩"
+  },
+  {
+    "name": "Dem. Rep. Congo",
+    "formalName": "Democratic Republic of the Congo",
+    "code": "CD",
+    "flag": "🇨🇩"
+  },
+  {
+    "name": "Sudan",
+    "formalName": "Republic of the Sudan",
+    "code": "SD",
+    "flag": "🇸🇩"
+  },
+  {
+    "name": "Chad",
+    "formalName": "Republic of Chad",
+    "code": "TD",
+    "flag": "🇹🇩"
+  },
+  {
+    "name": "Bangladesh",
+    "formalName": "People's Republic of Bangladesh",
+    "code": "BD",
+    "flag": "🇧🇩"
+  },
+  {
+    "name": "Andorra",
+    "formalName": "Principality of Andorra",
+    "code": "AD",
+    "flag": "🇦🇩"
+  },
+  {
+    "name": "Moldova",
+    "formalName": "Republic of Moldova",
+    "code": "MD",
+    "flag": "🇲🇩"
+  },
+  {
+    "name": "Grenada",
+    "formalName": "Grenada",
+    "code": "GD",
+    "flag": "🇬🇩"
+  },
+  {
+    "name": "Peru",
+    "formalName": "Republic of Peru",
+    "code": "PE",
+    "flag": "🇵🇪"
+  },
+  {
+    "name": "Kenya",
+    "formalName": "Republic of Kenya",
+    "code": "KE",
+    "flag": "🇰🇪"
+  },
+  {
+    "name": "Germany",
+    "formalName": "Federal Republic of Germany",
+    "code": "DE",
+    "flag": "🇩🇪"
+  },
+  {
+    "name": "Estonia",
+    "formalName": "Republic of Estonia",
+    "code": "EE",
+    "flag": "🇪🇪"
+  },
+  {
+    "name": "Sweden",
+    "formalName": "Kingdom of Sweden",
+    "code": "SE",
+    "flag": "🇸🇪"
+  },
+  {
+    "name": "United Arab Emirates",
+    "formalName": "United Arab Emirates",
+    "code": "AE",
+    "flag": "🇦🇪"
+  },
+  {
+    "name": "Belgium",
+    "formalName": "Kingdom of Belgium",
+    "code": "BE",
+    "flag": "🇧🇪"
+  },
+  {
+    "name": "Georgia",
+    "formalName": "Georgia",
+    "code": "GE",
+    "flag": "🇬🇪"
+  },
+  {
+    "name": "Ireland",
+    "formalName": "Ireland",
+    "code": "IE",
+    "flag": "🇮🇪"
+  },
+  {
+    "name": "Montenegro",
+    "formalName": "Montenegro",
+    "code": "ME",
+    "flag": "🇲🇪"
+  },
+  {
+    "name": "Niger",
+    "formalName": "Republic of Niger",
+    "code": "NE",
+    "flag": "🇳🇪"
+  },
+  {
+    "name": "Venezuela",
+    "formalName": "Bolivarian Republic of Venezuela",
+    "code": "VE",
+    "flag": "🇻🇪"
+  },
+  {
+    "name": "Yemen",
+    "formalName": "Republic of Yemen",
+    "code": "YE",
+    "flag": "🇾🇪"
+  },
+  {
+    "name": "Central African Rep.",
+    "formalName": "Central African Republic",
+    "code": "CF",
+    "flag": "🇨🇫"
+  },
+  {
+    "name": "Afghanistan",
+    "formalName": "Islamic State of Afghanistan",
+    "code": "AF",
+    "flag": "🇦🇫"
+  },
+  {
+    "name": "Burkina Faso",
+    "formalName": "Burkina Faso",
+    "code": "BF",
+    "flag": "🇧🇫"
+  },
+  {
+    "name": "Congo",
+    "formalName": "Republic of the Congo",
+    "code": "CG",
+    "flag": "🇨🇬"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "formalName": "Kyrgyz Republic",
+    "code": "KG",
+    "flag": "🇰🇬"
+  },
+  {
+    "name": "Nigeria",
+    "formalName": "Federal Republic of Nigeria",
+    "code": "NG",
+    "flag": "🇳🇬"
+  },
+  {
+    "name": "Bulgaria",
+    "formalName": "Republic of Bulgaria",
+    "code": "BG",
+    "flag": "🇧🇬"
+  },
+  {
+    "name": "Uganda",
+    "formalName": "Republic of Uganda",
+    "code": "UG",
+    "flag": "🇺🇬"
+  },
+  {
+    "name": "Togo",
+    "formalName": "Togolese Republic",
+    "code": "TG",
+    "flag": "🇹🇬"
+  },
+  {
+    "name": "Papua New Guinea",
+    "formalName": "Independent State of Papua New Guinea",
+    "code": "PG",
+    "flag": "🇵🇬"
+  },
+  {
+    "name": "Egypt",
+    "formalName": "Arab Republic of Egypt",
+    "code": "EG",
+    "flag": "🇪🇬"
+  },
+  {
+    "name": "Madagascar",
+    "formalName": "Republic of Madagascar",
+    "code": "MG",
+    "flag": "🇲🇬"
+  },
+  {
+    "name": "Antigua and Barb.",
+    "formalName": "Antigua and Barbuda",
+    "code": "AG",
+    "flag": "🇦🇬"
+  },
+  {
+    "name": "Singapore",
+    "formalName": "Republic of Singapore",
+    "code": "SG",
+    "flag": "🇸🇬"
+  },
+  {
+    "name": "Cambodia",
+    "formalName": "Kingdom of Cambodia",
+    "code": "KH",
+    "flag": "🇰🇭"
+  },
+  {
+    "name": "Switzerland",
+    "formalName": "Swiss Confederation",
+    "code": "CH",
+    "flag": "🇨🇭"
+  },
+  {
+    "name": "Thailand",
+    "formalName": "Kingdom of Thailand",
+    "code": "TH",
+    "flag": "🇹🇭"
+  },
+  {
+    "name": "Ghana",
+    "formalName": "Republic of Ghana",
+    "code": "GH",
+    "flag": "🇬🇭"
+  },
+  {
+    "name": "Philippines",
+    "formalName": "Republic of the Philippines",
+    "code": "PH",
+    "flag": "🇵🇭"
+  },
+  {
+    "name": "Bahrain",
+    "formalName": "Kingdom of Bahrain",
+    "code": "BH",
+    "flag": "🇧🇭"
+  },
+  {
+    "name": "Marshall Is.",
+    "formalName": "Republic of the Marshall Islands",
+    "code": "MH",
+    "flag": "🇲🇭"
+  },
+  {
+    "name": "Nicaragua",
+    "formalName": "Republic of Nicaragua",
+    "code": "NI",
+    "flag": "🇳🇮"
+  },
+  {
+    "name": "Finland",
+    "formalName": "Republic of Finland",
+    "code": "FI",
+    "flag": "🇫🇮"
+  },
+  {
+    "name": "Liechtenstein",
+    "formalName": "Principality of Liechtenstein",
+    "code": "LI",
+    "flag": "🇱🇮"
+  },
+  {
+    "name": "Côte d'Ivoire",
+    "formalName": "Republic of Ivory Coast",
+    "code": "CI",
+    "flag": "🇨🇮"
+  },
+  {
+    "name": "Slovenia",
+    "formalName": "Republic of Slovenia",
+    "code": "SI",
+    "flag": "🇸🇮"
+  },
+  {
+    "name": "Burundi",
+    "formalName": "Republic of Burundi",
+    "code": "BI",
+    "flag": "🇧🇮"
+  },
+  {
+    "name": "Kiribati",
+    "formalName": "Republic of Kiribati",
+    "code": "KI",
+    "flag": "🇰🇮"
+  },
+  {
+    "name": "Tajikistan",
+    "formalName": "Republic of Tajikistan",
+    "code": "TJ",
+    "flag": "🇹🇯"
+  },
+  {
+    "name": "Djibouti",
+    "formalName": "Republic of Djibouti",
+    "code": "DJ",
+    "flag": "🇩🇯"
+  },
+  {
+    "name": "Benin",
+    "formalName": "Republic of Benin",
+    "code": "BJ",
+    "flag": "🇧🇯"
+  },
+  {
+    "name": "Fiji",
+    "formalName": "Republic of Fiji",
+    "code": "FJ",
+    "flag": "🇫🇯"
+  },
+  {
+    "name": "North Macedonia",
+    "formalName": "Republic of North Macedonia",
+    "code": "MK",
+    "flag": "🇲🇰"
+  },
+  {
+    "name": "Kosovo",
+    "formalName": "Republic of Kosovo",
+    "code": "XK",
+    "flag": "🇽🇰"
+  },
+  {
+    "name": "Denmark",
+    "formalName": "Kingdom of Denmark",
+    "code": "DK",
+    "flag": "🇩🇰"
+  },
+  {
+    "name": "Slovakia",
+    "formalName": "Slovak Republic",
+    "code": "SK",
+    "flag": "🇸🇰"
+  },
+  {
+    "name": "Pakistan",
+    "formalName": "Islamic Republic of Pakistan",
+    "code": "PK",
+    "flag": "🇵🇰"
+  },
+  {
+    "name": "Sri Lanka",
+    "formalName": "Democratic Socialist Republic of Sri Lanka",
+    "code": "LK",
+    "flag": "🇱🇰"
+  },
+  {
+    "name": "Chile",
+    "formalName": "Republic of Chile",
+    "code": "CL",
+    "flag": "🇨🇱"
+  },
+  {
+    "name": "Israel",
+    "formalName": "State of Israel",
+    "code": "IL",
+    "flag": "🇮🇱"
+  },
+  {
+    "name": "Netherlands",
+    "formalName": "Kingdom of the Netherlands",
+    "code": "NL",
+    "flag": "🇳🇱"
+  },
+  {
+    "name": "Albania",
+    "formalName": "Republic of Albania",
+    "code": "AL",
+    "flag": "🇦🇱"
+  },
+  {
+    "name": "Poland",
+    "formalName": "Republic of Poland",
+    "code": "PL",
+    "flag": "🇵🇱"
+  },
+  {
+    "name": "Sierra Leone",
+    "formalName": "Republic of Sierra Leone",
+    "code": "SL",
+    "flag": "🇸🇱"
+  },
+  {
+    "name": "Mali",
+    "formalName": "Republic of Mali",
+    "code": "ML",
+    "flag": "🇲🇱"
+  },
+  {
+    "name": "Timor-Leste",
+    "formalName": "Democratic Republic of Timor-Leste",
+    "code": "TL",
+    "flag": "🇹🇱"
+  },
+  {
+    "name": "Oman",
+    "formalName": "Sultanate of Oman",
+    "code": "OM",
+    "flag": "🇴🇲"
+  },
+  {
+    "name": "Armenia",
+    "formalName": "Republic of Armenia",
+    "code": "AM",
+    "flag": "🇦🇲"
+  },
+  {
+    "name": "Zambia",
+    "formalName": "Republic of Zambia",
+    "code": "ZM",
+    "flag": "🇿🇲"
+  },
+  {
+    "name": "Myanmar",
+    "formalName": "Republic of the Union of Myanmar",
+    "code": "MM",
+    "flag": "🇲🇲"
+  },
+  {
+    "name": "Turkmenistan",
+    "formalName": "Turkmenistan",
+    "code": "TM",
+    "flag": "🇹🇲"
+  },
+  {
+    "name": "Cameroon",
+    "formalName": "Republic of Cameroon",
+    "code": "CM",
+    "flag": "🇨🇲"
+  },
+  {
+    "name": "Gambia",
+    "formalName": "Republic of the Gambia",
+    "code": "GM",
+    "flag": "🇬🇲"
+  },
+  {
+    "name": "Dominica",
+    "formalName": "Commonwealth of Dominica",
+    "code": "DM",
+    "flag": "🇩🇲"
+  },
+  {
+    "name": "Jamaica",
+    "formalName": "Jamaica",
+    "code": "JM",
+    "flag": "🇯🇲"
+  },
+  {
+    "name": "Comoros",
+    "formalName": "Union of the Comoros",
+    "code": "KM",
+    "flag": "🇰🇲"
+  },
+  {
+    "name": "Micronesia",
+    "formalName": "Federated States of Micronesia",
+    "code": "FM",
+    "flag": "🇫🇲"
+  },
+  {
+    "name": "San Marino",
+    "formalName": "Republic of San Marino",
+    "code": "SM",
+    "flag": "🇸🇲"
+  },
+  {
+    "name": "India",
+    "formalName": "Republic of India",
+    "code": "IN",
+    "flag": "🇮🇳"
+  },
+  {
+    "name": "China",
+    "formalName": "China",
+    "code": "CN",
+    "flag": "🇨🇳"
+  },
+  {
+    "name": "Mongolia",
+    "formalName": "Mongolia",
+    "code": "MN",
+    "flag": "🇲🇳"
+  },
+  {
+    "name": "Vietnam",
+    "formalName": "Socialist Republic of Vietnam",
+    "code": "VN",
+    "flag": "🇻🇳"
+  },
+  {
+    "name": "Tunisia",
+    "formalName": "Republic of Tunisia",
+    "code": "TN",
+    "flag": "🇹🇳"
+  },
+  {
+    "name": "Guinea",
+    "formalName": "Republic of Guinea",
+    "code": "GN",
+    "flag": "🇬🇳"
+  },
+  {
+    "name": "Senegal",
+    "formalName": "Republic of Senegal",
+    "code": "SN",
+    "flag": "🇸🇳"
+  },
+  {
+    "name": "Brunei",
+    "formalName": "Negara Brunei Darussalam",
+    "code": "BN",
+    "flag": "🇧🇳"
+  },
+  {
+    "name": "Honduras",
+    "formalName": "Republic of Honduras",
+    "code": "HN",
+    "flag": "🇭🇳"
+  },
+  {
+    "name": "St. Kitts and Nevis",
+    "formalName": "Federation of Saint Kitts and Nevis",
+    "code": "KN",
+    "flag": "🇰🇳"
+  },
+  {
+    "name": "Bolivia",
+    "formalName": "Plurinational State of Bolivia",
+    "code": "BO",
+    "flag": "🇧🇴"
+  },
+  {
+    "name": "Somalia",
+    "formalName": "Federal Republic of Somalia",
+    "code": "SO",
+    "flag": "🇸🇴"
+  },
+  {
+    "name": "Norway",
+    "formalName": "Kingdom of Norway",
+    "code": "NO",
+    "flag": "🇳🇴"
+  },
+  {
+    "name": "Romania",
+    "formalName": "Romania",
+    "code": "RO",
+    "flag": "🇷🇴"
+  },
+  {
+    "name": "Angola",
+    "formalName": "People's Republic of Angola",
+    "code": "AO",
+    "flag": "🇦🇴"
+  },
+  {
+    "name": "Dominican Rep.",
+    "formalName": "Dominican Republic",
+    "code": "DO",
+    "flag": "🇩🇴"
+  },
+  {
+    "name": "Colombia",
+    "formalName": "Republic of Colombia",
+    "code": "CO",
+    "flag": "🇨🇴"
+  },
+  {
+    "name": "Jordan",
+    "formalName": "Hashemite Kingdom of Jordan",
+    "code": "JO",
+    "flag": "🇯🇴"
+  },
+  {
+    "name": "Tonga",
+    "formalName": "Kingdom of Tonga",
+    "code": "TO",
+    "flag": "🇹🇴"
+  },
+  {
+    "name": "North Korea",
+    "formalName": "Democratic People's Republic of Korea",
+    "code": "KP",
+    "flag": "🇰🇵"
+  },
+  {
+    "name": "Nepal",
+    "formalName": "Nepal",
+    "code": "NP",
+    "flag": "🇳🇵"
+  },
+  {
+    "name": "Japan",
+    "formalName": "Japan",
+    "code": "JP",
+    "flag": "🇯🇵"
+  },
+  {
+    "name": "Iraq",
+    "formalName": "Republic of Iraq",
+    "code": "IQ",
+    "flag": "🇮🇶"
+  },
+  {
+    "name": "Eq. Guinea",
+    "formalName": "Republic of Equatorial Guinea",
+    "code": "GQ",
+    "flag": "🇬🇶"
+  },
+  {
+    "name": "Argentina",
+    "formalName": "Argentine Republic",
+    "code": "AR",
+    "flag": "🇦🇷"
+  },
+  {
+    "name": "France",
+    "formalName": "French Republic",
+    "code": "FR",
+    "flag": "🇫🇷"
+  },
+  {
+    "name": "Suriname",
+    "formalName": "Republic of Suriname",
+    "code": "SR",
+    "flag": "🇸🇷"
+  },
+  {
+    "name": "South Korea",
+    "formalName": "Republic of Korea",
+    "code": "KR",
+    "flag": "🇰🇷"
+  },
+  {
+    "name": "Costa Rica",
+    "formalName": "Republic of Costa Rica",
+    "code": "CR",
+    "flag": "🇨🇷"
+  },
+  {
+    "name": "Brazil",
+    "formalName": "Federative Republic of Brazil",
+    "code": "BR",
+    "flag": "🇧🇷"
+  },
+  {
+    "name": "Turkey",
+    "formalName": "Republic of Turkey",
+    "code": "TR",
+    "flag": "🇹🇷"
+  },
+  {
+    "name": "Greece",
+    "formalName": "Hellenic Republic",
+    "code": "GR",
+    "flag": "🇬🇷"
+  },
+  {
+    "name": "Liberia",
+    "formalName": "Republic of Liberia",
+    "code": "LR",
+    "flag": "🇱🇷"
+  },
+  {
+    "name": "Eritrea",
+    "formalName": "State of Eritrea",
+    "code": "ER",
+    "flag": "🇪🇷"
+  },
+  {
+    "name": "Iran",
+    "formalName": "Islamic Republic of Iran",
+    "code": "IR",
+    "flag": "🇮🇷"
+  },
+  {
+    "name": "Croatia",
+    "formalName": "Republic of Croatia",
+    "code": "HR",
+    "flag": "🇭🇷"
+  },
+  {
+    "name": "Mauritania",
+    "formalName": "Islamic Republic of Mauritania",
+    "code": "MR",
+    "flag": "🇲🇷"
+  },
+  {
+    "name": "Nauru",
+    "formalName": "Republic of Nauru",
+    "code": "NR",
+    "flag": "🇳🇷"
+  },
+  {
+    "name": "S. Sudan",
+    "formalName": "Republic of South Sudan",
+    "code": "SS",
+    "flag": "🇸🇸"
+  },
+  {
+    "name": "Palestine",
+    "formalName": "West Bank and Gaza",
+    "code": "PS",
+    "flag": "🇵🇸"
+  },
+  {
+    "name": "Spain",
+    "formalName": "Kingdom of Spain",
+    "code": "ES",
+    "flag": "🇪🇸"
+  },
+  {
+    "name": "Serbia",
+    "formalName": "Republic of Serbia",
+    "code": "RS",
+    "flag": "🇷🇸"
+  },
+  {
+    "name": "Lesotho",
+    "formalName": "Kingdom of Lesotho",
+    "code": "LS",
+    "flag": "🇱🇸"
+  },
+  {
+    "name": "United States of America",
+    "formalName": "United States of America",
+    "code": "US",
+    "flag": "🇺🇸"
+  },
+  {
+    "name": "Bahamas",
+    "formalName": "Commonwealth of the Bahamas",
+    "code": "BS",
+    "flag": "🇧🇸"
+  },
+  {
+    "name": "Iceland",
+    "formalName": "Republic of Iceland",
+    "code": "IS",
+    "flag": "🇮🇸"
+  },
+  {
+    "name": "Samoa",
+    "formalName": "Independent State of Samoa",
+    "code": "WS",
+    "flag": "🇼🇸"
+  },
+  {
+    "name": "Ethiopia",
+    "formalName": "Federal Democratic Republic of Ethiopia",
+    "code": "ET",
+    "flag": "🇪🇹"
+  },
+  {
+    "name": "Bhutan",
+    "formalName": "Kingdom of Bhutan",
+    "code": "BT",
+    "flag": "🇧🇹"
+  },
+  {
+    "name": "Lithuania",
+    "formalName": "Republic of Lithuania",
+    "code": "LT",
+    "flag": "🇱🇹"
+  },
+  {
+    "name": "Austria",
+    "formalName": "Republic of Austria",
+    "code": "AT",
+    "flag": "🇦🇹"
+  },
+  {
+    "name": "Italy",
+    "formalName": "Italian Republic",
+    "code": "IT",
+    "flag": "🇮🇹"
+  },
+  {
+    "name": "Haiti",
+    "formalName": "Republic of Haiti",
+    "code": "HT",
+    "flag": "🇭🇹"
+  },
+  {
+    "name": "Guatemala",
+    "formalName": "Republic of Guatemala",
+    "code": "GT",
+    "flag": "🇬🇹"
+  },
+  {
+    "name": "Portugal",
+    "formalName": "Portuguese Republic",
+    "code": "PT",
+    "flag": "🇵🇹"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "formalName": "Republic of Trinidad and Tobago",
+    "code": "TT",
+    "flag": "🇹🇹"
+  },
+  {
+    "name": "São Tomé and Principe",
+    "formalName": "Democratic Republic of São Tomé and Principe",
+    "code": "ST",
+    "flag": "🇸🇹"
+  },
+  {
+    "name": "Malta",
+    "formalName": "Republic of Malta",
+    "code": "MT",
+    "flag": "🇲🇹"
+  },
+  {
+    "name": "Russia",
+    "formalName": "Russian Federation",
+    "code": "RU",
+    "flag": "🇷🇺"
+  },
+  {
+    "name": "Luxembourg",
+    "formalName": "Grand Duchy of Luxembourg",
+    "code": "LU",
+    "flag": "🇱🇺"
+  },
+  {
+    "name": "Hungary",
+    "formalName": "Republic of Hungary",
+    "code": "HU",
+    "flag": "🇭🇺"
+  },
+  {
+    "name": "Cuba",
+    "formalName": "Republic of Cuba",
+    "code": "CU",
+    "flag": "🇨🇺"
+  },
+  {
+    "name": "Australia",
+    "formalName": "Commonwealth of Australia",
+    "code": "AU",
+    "flag": "🇦🇺"
+  },
+  {
+    "name": "Mauritius",
+    "formalName": "Republic of Mauritius",
+    "code": "MU",
+    "flag": "🇲🇺"
+  },
+  {
+    "name": "Vanuatu",
+    "formalName": "Republic of Vanuatu",
+    "code": "VU",
+    "flag": "🇻🇺"
+  },
+  {
+    "name": "Latvia",
+    "formalName": "Republic of Latvia",
+    "code": "LV",
+    "flag": "🇱🇻"
+  },
+  {
+    "name": "El Salvador",
+    "formalName": "Republic of El Salvador",
+    "code": "SV",
+    "flag": "🇸🇻"
+  },
+  {
+    "name": "Cabo Verde",
+    "formalName": "Republic of Cabo Verde",
+    "code": "CV",
+    "flag": "🇨🇻"
+  },
+  {
+    "name": "Tuvalu",
+    "formalName": "Tuvalu",
+    "code": "TV",
+    "flag": "🇹🇻"
+  },
+  {
+    "name": "Maldives",
+    "formalName": "Republic of Maldives",
+    "code": "MV",
+    "flag": "🇲🇻"
+  },
+  {
+    "name": "Malawi",
+    "formalName": "Republic of Malawi",
+    "code": "MW",
+    "flag": "🇲🇼"
+  },
+  {
+    "name": "Botswana",
+    "formalName": "Republic of Botswana",
+    "code": "BW",
+    "flag": "🇧🇼"
+  },
+  {
+    "name": "Zimbabwe",
+    "formalName": "Republic of Zimbabwe",
+    "code": "ZW",
+    "flag": "🇿🇼"
+  },
+  {
+    "name": "Kuwait",
+    "formalName": "State of Kuwait",
+    "code": "KW",
+    "flag": "🇰🇼"
+  },
+  {
+    "name": "Rwanda",
+    "formalName": "Republic of Rwanda",
+    "code": "RW",
+    "flag": "🇷🇼"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "formalName": "Republic of Guinea-Bissau",
+    "code": "GW",
+    "flag": "🇬🇼"
+  },
+  {
+    "name": "Taiwan",
+    "formalName": "Taiwan",
+    "code": "TW",
+    "flag": "🇹🇼"
+  },
+  {
+    "name": "Palau",
+    "formalName": "Republic of Palau",
+    "code": "PW",
+    "flag": "🇵🇼"
+  },
+  {
+    "name": "Mexico",
+    "formalName": "United Mexican States",
+    "code": "MX",
+    "flag": "🇲🇽"
+  },
+  {
+    "name": "Malaysia",
+    "formalName": "Malaysia",
+    "code": "MY",
+    "flag": "🇲🇾"
+  },
+  {
+    "name": "Cyprus",
+    "formalName": "Republic of Cyprus",
+    "code": "CY",
+    "flag": "🇨🇾"
+  },
+  {
+    "name": "Syria",
+    "formalName": "Syrian Arab Republic",
+    "code": "SY",
+    "flag": "🇸🇾"
+  },
+  {
+    "name": "Guyana",
+    "formalName": "Co-operative Republic of Guyana",
+    "code": "GY",
+    "flag": "🇬🇾"
+  },
+  {
+    "name": "Belarus",
+    "formalName": "Republic of Belarus",
+    "code": "BY",
+    "flag": "🇧🇾"
+  },
+  {
+    "name": "Uruguay",
+    "formalName": "Oriental Republic of Uruguay",
+    "code": "UY",
+    "flag": "🇺🇾"
+  },
+  {
+    "name": "Libya",
+    "formalName": "Libya",
+    "code": "LY",
+    "flag": "🇱🇾"
+  },
+  {
+    "name": "Paraguay",
+    "formalName": "Republic of Paraguay",
+    "code": "PY",
+    "flag": "🇵🇾"
+  },
+  {
+    "name": "Tanzania",
+    "formalName": "United Republic of Tanzania",
+    "code": "TZ",
+    "flag": "🇹🇿"
+  },
+  {
+    "name": "Uzbekistan",
+    "formalName": "Republic of Uzbekistan",
+    "code": "UZ",
+    "flag": "🇺🇿"
+  },
+  {
+    "name": "Kazakhstan",
+    "formalName": "Republic of Kazakhstan",
+    "code": "KZ",
+    "flag": "🇰🇿"
+  },
+  {
+    "name": "Czechia",
+    "formalName": "Czech Republic",
+    "code": "CZ",
+    "flag": "🇨🇿"
+  },
+  {
+    "name": "Azerbaijan",
+    "formalName": "Republic of Azerbaijan",
+    "code": "AZ",
+    "flag": "🇦🇿"
+  },
+  {
+    "name": "Algeria",
+    "formalName": "People's Democratic Republic of Algeria",
+    "code": "DZ",
+    "flag": "🇩🇿"
+  },
+  {
+    "name": "Mozambique",
+    "formalName": "Republic of Mozambique",
+    "code": "MZ",
+    "flag": "🇲🇿"
+  },
+  {
+    "name": "Eswatini",
+    "formalName": "Kingdom of Eswatini",
+    "code": "SZ",
+    "flag": "🇸🇿"
+  },
+  {
+    "name": "Belize",
+    "formalName": "Belize",
+    "code": "BZ",
+    "flag": "🇧🇿"
+  },
+  {
+    "name": "New Zealand",
+    "formalName": "New Zealand",
+    "code": "NZ",
+    "flag": "🇳🇿"
+  }
+]

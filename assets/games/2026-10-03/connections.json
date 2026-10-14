@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-03",
+  "status": "OK",
+  "id": 1313,
+  "print_date": "2026-10-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STARTING WITH TERMS FOR \"TOILET\"",
+      "cards": [
+        {
+          "content": "CAN OPENER",
+          "position": 6
+        },
+        {
+          "content": "HEAD WAITER",
+          "position": 9
+        },
+        {
+          "content": "JOHN DENVER",
+          "position": 3
+        },
+        {
+          "content": "W.C. FIELDS",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN MUSICALS",
+      "cards": [
+        {
+          "content": "ELBOW GREASE",
+          "position": 5
+        },
+        {
+          "content": "FAT CATS",
+          "position": 8
+        },
+        {
+          "content": "LINDA HAMILTON",
+          "position": 1
+        },
+        {
+          "content": "SOMETHING WICKED",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH U.S. MUSEUMS",
+      "cards": [
+        {
+          "content": "BROAD BEAN",
+          "position": 11
+        },
+        {
+          "content": "GETTY IMAGES",
+          "position": 4
+        },
+        {
+          "content": "MET HALFWAY",
+          "position": 13
+        },
+        {
+          "content": "WHITNEY HOUSTON",
+          "position": 0
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN FANTASY CREATURES",
+      "cards": [
+        {
+          "content": "DIET SPRITE",
+          "position": 15
+        },
+        {
+          "content": "MERV GRIFFIN",
+          "position": 10
+        },
+        {
+          "content": "NY GIANT",
+          "position": 12
+        },
+        {
+          "content": "RIVER PHOENIX",
+          "position": 2
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

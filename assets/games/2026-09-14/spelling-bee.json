@@ -1,0 +1,33 @@
+{
+  "date": "2026-09-14",
+  "id": 21725,
+  "center_letter": "g",
+  "outer_letters": "abeopy",
+  "pangrams": [
+    "pageboy"
+  ],
+  "answers": [
+    "agape",
+    "agog",
+    "apogee",
+    "baggage",
+    "baggy",
+    "bogey",
+    "boggy",
+    "eggy",
+    "gabby",
+    "gaga",
+    "gage",
+    "gape",
+    "goby",
+    "gooey",
+    "goop",
+    "goopy",
+    "ogee",
+    "page",
+    "pogo",
+    "yoga"
+  ],
+  "print_date": "2026-09-14",
+  "editor": "Sam Ezersky"
+}

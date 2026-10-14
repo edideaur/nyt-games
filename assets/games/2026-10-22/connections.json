@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-22",
+  "status": "OK",
+  "id": 1336,
+  "print_date": "2026-10-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PARTS TO BE GRASPED",
+      "cards": [
+        {
+          "content": "GRIP",
+          "position": 5
+        },
+        {
+          "content": "HANDLE",
+          "position": 8
+        },
+        {
+          "content": "HILT",
+          "position": 14
+        },
+        {
+          "content": "KNOB",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF SCULPTURES",
+      "cards": [
+        {
+          "content": "BUST",
+          "position": 7
+        },
+        {
+          "content": "MOBILE",
+          "position": 0
+        },
+        {
+          "content": "RELIEF",
+          "position": 4
+        },
+        {
+          "content": "STATUE",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "AMERICAN FOOTBALL POSITIONS",
+      "cards": [
+        {
+          "content": "END",
+          "position": 6
+        },
+        {
+          "content": "GUARD",
+          "position": 13
+        },
+        {
+          "content": "SAFETY",
+          "position": 3
+        },
+        {
+          "content": "TACKLE",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "STARTS OF BEDDING",
+      "cards": [
+        {
+          "content": "BLANK",
+          "position": 2
+        },
+        {
+          "content": "COMFORT",
+          "position": 1
+        },
+        {
+          "content": "PILL",
+          "position": 10
+        },
+        {
+          "content": "SHE",
+          "position": 12
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

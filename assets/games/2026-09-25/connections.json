@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-25",
+  "status": "OK",
+  "id": 1297,
+  "print_date": "2026-09-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "LUXE",
+      "cards": [
+        {
+          "content": "BOUGIE",
+          "position": 1
+        },
+        {
+          "content": "FANCY",
+          "position": 11
+        },
+        {
+          "content": "POSH",
+          "position": 13
+        },
+        {
+          "content": "SWANK",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "PARTS OF A MECHANICAL CLOCK",
+      "cards": [
+        {
+          "content": "ESCAPEMENT",
+          "position": 12
+        },
+        {
+          "content": "PENDULUM",
+          "position": 10
+        },
+        {
+          "content": "RATCHET",
+          "position": 5
+        },
+        {
+          "content": "SPRING",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "FAMOUS DANS",
+      "cards": [
+        {
+          "content": "AYKROYD",
+          "position": 15
+        },
+        {
+          "content": "LEVY",
+          "position": 9
+        },
+        {
+          "content": "RATHER",
+          "position": 0
+        },
+        {
+          "content": "SAVAGE",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "TAXONOMIC RANKS PLUS A LETTER",
+      "cards": [
+        {
+          "content": "BORDER",
+          "position": 4
+        },
+        {
+          "content": "CLASSY",
+          "position": 8
+        },
+        {
+          "content": "FOAMILY",
+          "position": 14
+        },
+        {
+          "content": "GENIUS",
+          "position": 2
+        }
+      ]
+    }
+  ]
+}

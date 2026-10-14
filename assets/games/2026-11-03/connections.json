@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-03",
+  "status": "OK",
+  "id": 1345,
+  "print_date": "2026-11-03",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KEEP GOING",
+      "cards": [
+        {
+          "content": "CARRY ON",
+          "position": 0
+        },
+        {
+          "content": "CONTINUE",
+          "position": 11
+        },
+        {
+          "content": "PROCEED",
+          "position": 14
+        },
+        {
+          "content": "RESUME",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "THINGS WITH WHEELS",
+      "cards": [
+        {
+          "content": "OFFICE CHAIR",
+          "position": 6
+        },
+        {
+          "content": "ROLLER BAG",
+          "position": 2
+        },
+        {
+          "content": "SHOPPING CART",
+          "position": 9
+        },
+        {
+          "content": "STROLLER",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "THINGS A SERVER BRINGS AT A RESTAURANT",
+      "cards": [
+        {
+          "content": "CHECK",
+          "position": 1
+        },
+        {
+          "content": "FOOD",
+          "position": 7
+        },
+        {
+          "content": "MENU",
+          "position": 8
+        },
+        {
+          "content": "TAP WATER",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN MENU BAR HEADINGS",
+      "cards": [
+        {
+          "content": "CREDIT",
+          "position": 10
+        },
+        {
+          "content": "INTERVIEW",
+          "position": 3
+        },
+        {
+          "content": "PROFILE",
+          "position": 5
+        },
+        {
+          "content": "WHELP",
+          "position": 12
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

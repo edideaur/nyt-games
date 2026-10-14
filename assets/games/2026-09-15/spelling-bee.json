@@ -1,0 +1,31 @@
+{
+  "date": "2026-09-15",
+  "id": 25062,
+  "center_letter": "m",
+  "outer_letters": "cginpr",
+  "pangrams": [
+    "crimping"
+  ],
+  "answers": [
+    "crimp",
+    "grim",
+    "impinging",
+    "mimic",
+    "miming",
+    "mincing",
+    "mini",
+    "minim",
+    "mining",
+    "mirin",
+    "miring",
+    "pimp",
+    "pimping",
+    "prim",
+    "priming",
+    "primp",
+    "primping",
+    "rimming"
+  ],
+  "print_date": "2026-09-15",
+  "editor": "Sam Ezersky"
+}

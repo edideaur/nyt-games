@@ -1,0 +1,880 @@
+{
+  "date": "2026-09-16",
+  "data": {
+    "globle": {
+      "date": "2026-09-16",
+      "game": "globle",
+      "index": 103,
+      "name": "Vietnam",
+      "formalName": "Socialist Republic of Vietnam",
+      "code": "VN",
+      "flag": "🇻🇳",
+      "url": "https://globle.org/"
+    },
+    "wordle": {
+      "date": "2026-09-16",
+      "id": 1391,
+      "solution": "wispy",
+      "print_date": "2026-09-16",
+      "days_since_launch": 1915,
+      "editor": "Tracy Bennett"
+    },
+    "connections": {
+      "date": "2026-09-16",
+      "status": "OK",
+      "id": 1295,
+      "print_date": "2026-09-16",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "ENDING IN METAL ELEMENTS",
+          "cards": [
+            {
+              "content": "LATIN",
+              "position": 1
+            },
+            {
+              "content": "LONG JOHN SILVER",
+              "position": 7
+            },
+            {
+              "content": "MARIGOLD",
+              "position": 14
+            },
+            {
+              "content": "STEAM IRON",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "title": "STARTING WITH U.S. COINS",
+          "cards": [
+            {
+              "content": "DIMENSION",
+              "position": 11
+            },
+            {
+              "content": "NICKELODEON",
+              "position": 5
+            },
+            {
+              "content": "PENNYWISE",
+              "position": 3
+            },
+            {
+              "content": "QUARTERBACK",
+              "position": 12
+            }
+          ]
+        },
+        {
+          "title": "POETS' MIDDLE NAMES",
+          "cards": [
+            {
+              "content": "BARRETT",
+              "position": 15
+            },
+            {
+              "content": "CARLOS",
+              "position": 13
+            },
+            {
+              "content": "ST. VINCENT",
+              "position": 8
+            },
+            {
+              "content": "WADSWORTH",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "title": "SAUSAGES PLUS A LETTER",
+          "cards": [
+            {
+              "content": "BORAT",
+              "position": 6
+            },
+            {
+              "content": "CLINK",
+              "position": 2
+            },
+            {
+              "content": "FRANK-N-FURTER",
+              "position": 0
+            },
+            {
+              "content": "WIDENER",
+              "position": 10
+            }
+          ]
+        }
+      ]
+    },
+    "strands": {
+      "date": "2026-09-16",
+      "status": "OK",
+      "id": 1116,
+      "printDate": "2026-09-16",
+      "themeWords": [
+        "BRIGHT",
+        "FLASHY",
+        "JAZZY",
+        "STRIKING",
+        "VIBRANT",
+        "VIVID"
+      ],
+      "editor": "Tracy Bennett",
+      "constructors": "Tracy Bennett",
+      "spangram": "EYECATCHING",
+      "clue": "Hard not to notice",
+      "startingBoard": [
+        "ESHYID",
+        "YALFIV",
+        "ECATGV",
+        "KIVCIH",
+        "IRIHRT",
+        "NTBIBY",
+        "GSRNZZ",
+        "TNAGAJ"
+      ],
+      "solutions": [
+        "AAHS",
+        "AALS",
+        "ACAI",
+        "ACHING",
+        "ACTIVITY",
+        "AECIA",
+        "AECIAL",
+        "AGAR",
+        "AGARS",
+        "AGAS",
+        "AGAST",
+        "AGRIN",
+        "AIRING",
+        "AIRINGS",
+        "AIRN",
+        "AIRNS",
+        "AIRT",
+        "AIRTING",
+        "AIRTS",
+        "ALACK",
+        "ALACRITY",
+        "ALAE",
+        "ALAS",
+        "ALAY",
+        "ALAYS",
+        "ALFA",
+        "ANAN",
+        "ANAS",
+        "ANGA",
+        "ANGAS",
+        "ANGST",
+        "ANTS",
+        "ARBS",
+        "ARGAN",
+        "ARNA",
+        "ARTI",
+        "ARTIC",
+        "ARTS",
+        "ASHY",
+        "ASTIR",
+        "ASTRICT",
+        "ATIGI",
+        "ATLAS",
+        "AYES",
+        "BIBS",
+        "BING",
+        "BIRCH",
+        "BIRK",
+        "BIRKIE",
+        "BIRTH",
+        "BITING",
+        "BITINGS",
+        "BITS",
+        "BIVIA",
+        "BIZNAGA",
+        "BIZNAGAS",
+        "BIZZY",
+        "BRAG",
+        "BRAN",
+        "BRANS",
+        "BRANT",
+        "BRANTS",
+        "BRAS",
+        "BRAST",
+        "BRASTING",
+        "BRICK",
+        "BRICKING",
+        "BRICKINGS",
+        "BRIE",
+        "BRIG",
+        "BRIGHT",
+        "BRIK",
+        "BRIN",
+        "BRING",
+        "BRINGS",
+        "BRINS",
+        "BRIT",
+        "BRITH",
+        "BRITS",
+        "CAAS",
+        "CACA",
+        "CACAS",
+        "CACHING",
+        "CACTI",
+        "CAIRN",
+        "CAIRNS",
+        "CALASH",
+        "CALF",
+        "CASE",
+        "CASH",
+        "CATCH",
+        "CATCHING",
+        "CATFIGHT",
+        "CAVIE",
+        "CAYS",
+        "CEAS",
+        "CEASE",
+        "CHIB",
+        "CHIBS",
+        "CHIN",
+        "CHINA",
+        "CHINAR",
+        "CHINARS",
+        "CHINAS",
+        "CHIRK",
+        "CHIRKING",
+        "CHIRT",
+        "CHIRTING",
+        "CHIRTS",
+        "CHIT",
+        "CHITAL",
+        "CHITALS",
+        "CHITIN",
+        "CHITINS",
+        "CHITS",
+        "CHIV",
+        "CHIZ",
+        "CHIZZ",
+        "CITAL",
+        "CITALS",
+        "CITIFY",
+        "CITING",
+        "CITRIC",
+        "CITRIN",
+        "CITRINS",
+        "CITS",
+        "CITY",
+        "CIVIC",
+        "CIVIE",
+        "CLACH",
+        "CLAES",
+        "CLASH",
+        "CLAT",
+        "CLATCH",
+        "CLATCHING",
+        "CLAVI",
+        "CLAVIE",
+        "CLAY",
+        "CLAYS",
+        "CRIB",
+        "CRIBS",
+        "CRIT",
+        "CRITH",
+        "DIGHT",
+        "DIGIT",
+        "DIGITAL",
+        "DIGITALS",
+        "DITA",
+        "DITAL",
+        "DITALS",
+        "DITCH",
+        "DITCHING",
+        "DIVI",
+        "EASE",
+        "EASY",
+        "ECLAIR",
+        "ECLAT",
+        "EIKING",
+        "EKING",
+        "EYAS",
+        "EYES",
+        "FAAS",
+        "FACE",
+        "FACT",
+        "FAIK",
+        "FAIKING",
+        "FAIR",
+        "FAIRING",
+        "FAIRINGS",
+        "FALSE",
+        "FATLY",
+        "FIGHT",
+        "FITCH",
+        "FITLY",
+        "FLACK",
+        "FLACKING",
+        "FLAIR",
+        "FLASH",
+        "FLASHY",
+        "FLAT",
+        "FLAY",
+        "FLAYS",
+        "GANG",
+        "GANGS",
+        "GANS",
+        "GANT",
+        "GANTS",
+        "GARB",
+        "GARBS",
+        "GARI",
+        "GARNI",
+        "GARS",
+        "GART",
+        "GAST",
+        "GASTING",
+        "GASTRIC",
+        "GASTRIN",
+        "GAZY",
+        "GIFT",
+        "GIRT",
+        "GIRTH",
+        "GNAR",
+        "GNARS",
+        "GRAN",
+        "GRANA",
+        "GRANS",
+        "GRANT",
+        "GRANTS",
+        "GRIN",
+        "HAAF",
+        "HACEK",
+        "HACK",
+        "HACKIE",
+        "HACKING",
+        "HACKINGS",
+        "HAES",
+        "HALF",
+        "HALFA",
+        "HALSE",
+        "HALT",
+        "HAYS",
+        "HIGH",
+        "HIGHT",
+        "HING",
+        "HIRING",
+        "HIRINGS",
+        "HITCH",
+        "HITCHING",
+        "HITS",
+        "HIZZ",
+        "HYLA",
+        "HYLAS",
+        "ICHING",
+        "ICTAL",
+        "INBRING",
+        "INBRINGS",
+        "INBY",
+        "INGAN",
+        "INGANS",
+        "INSNARING",
+        "INTI",
+        "INTRA",
+        "INTRANT",
+        "INTRANTS",
+        "INTRICACY",
+        "IRING",
+        "IRITIC",
+        "IRKING",
+        "ITCH",
+        "ITCHING",
+        "JAGA",
+        "JAGAS",
+        "JAGRA",
+        "JAGRAS",
+        "JAZY",
+        "JAZZ",
+        "JAZZING",
+        "JAZZY",
+        "KEAS",
+        "KEIR",
+        "KEYS",
+        "KING",
+        "KINGS",
+        "KINS",
+        "KIRN",
+        "KIRNS",
+        "KITS",
+        "KIVA",
+        "LACE",
+        "LACEY",
+        "LACK",
+        "LACKEY",
+        "LACKEYS",
+        "LACKING",
+        "LACY",
+        "LAHS",
+        "LAIC",
+        "LAIK",
+        "LAIKING",
+        "LAIR",
+        "LAIRING",
+        "LASE",
+        "LASH",
+        "LATCH",
+        "LATCHING",
+        "LATI",
+        "LAYS",
+        "NAGA",
+        "NAGARI",
+        "NAGAS",
+        "NANA",
+        "NANS",
+        "NASTIC",
+        "NAZI",
+        "NAZIR",
+        "NAZIRS",
+        "NIBS",
+        "NITRIC",
+        "NITS",
+        "RAGA",
+        "RANA",
+        "RANG",
+        "RANI",
+        "RANT",
+        "RANTS",
+        "RAST",
+        "RIAL",
+        "RIALS",
+        "RIBS",
+        "RICE",
+        "RICEY",
+        "RICH",
+        "RICHING",
+        "RICK",
+        "RICKEY",
+        "RICKEYS",
+        "RICKING",
+        "RICTAL",
+        "RICY",
+        "RIGHT",
+        "RIGHTY",
+        "RIGID",
+        "RIGIDIFY",
+        "RING",
+        "RINGS",
+        "RINS",
+        "RITS",
+        "RIVA",
+        "RIVAL",
+        "RIVALS",
+        "RIZA",
+        "SACK",
+        "SACKING",
+        "SACKINGS",
+        "SAGA",
+        "SALACITY",
+        "SALT",
+        "SANG",
+        "SANGA",
+        "SANT",
+        "SARI",
+        "SARIN",
+        "SARING",
+        "SEAL",
+        "SHACK",
+        "SHACKING",
+        "SHALT",
+        "SHALY",
+        "SHAY",
+        "SLACK",
+        "SLACKING",
+        "SLAE",
+        "SLAT",
+        "SLATCH",
+        "SLAY",
+        "SNAG",
+        "SNAR",
+        "SNARING",
+        "SNIRT",
+        "SNIT",
+        "STICH",
+        "STING",
+        "STIR",
+        "STIRING",
+        "STIRK",
+        "STRAG",
+        "STRANG",
+        "STRIA",
+        "STRICH",
+        "STRICK",
+        "STRICT",
+        "STRICTLY",
+        "STRIKE",
+        "STRIKING",
+        "STRING",
+        "SYCE",
+        "TAAL",
+        "TAALS",
+        "TACE",
+        "TACH",
+        "TACHINA",
+        "TACIT",
+        "TACK",
+        "TACKEY",
+        "TACKING",
+        "TACKINGS",
+        "TALA",
+        "TALAS",
+        "TALC",
+        "TALCKING",
+        "TALCY",
+        "THIG",
+        "THIR",
+        "TICAL",
+        "TICALS",
+        "TICH",
+        "TICTAC",
+        "TICTACKING",
+        "TIGHT",
+        "TIKE",
+        "TIKI",
+        "TING",
+        "TINGS",
+        "TINS",
+        "TIRING",
+        "TIRINGS",
+        "TITCH",
+        "TITI",
+        "TRANS",
+        "TRANT",
+        "TRANTS",
+        "TRIAC",
+        "TRIACT",
+        "TRIAL",
+        "TRIALS",
+        "TRIATIC",
+        "TRICE",
+        "TRICHINA",
+        "TRICHINAS",
+        "TRICK",
+        "TRICKING",
+        "TRICKINGS",
+        "TRIE",
+        "TRIG",
+        "TRIKE",
+        "TRIN",
+        "TRINS",
+        "TRIVIA",
+        "TRIVIAL",
+        "TSAR",
+        "TSARINA",
+        "TYRING",
+        "VACKING",
+        "VAIR",
+        "VALSE",
+        "VATIC",
+        "VIAL",
+        "VIALS",
+        "VIATIC",
+        "VIBRANT",
+        "VIBRANTS",
+        "VIBS",
+        "VICE",
+        "VIKING",
+        "VIKINGS",
+        "VIRING",
+        "VITA",
+        "VITAL",
+        "VITALS",
+        "VITRIC",
+        "VIVID",
+        "VIVIFY",
+        "YACK",
+        "YACKING",
+        "YAHS",
+        "YEAH",
+        "YEAHS",
+        "YEAS",
+        "ZING"
+      ],
+      "themeCoords": {
+        "BRIGHT": [
+          [
+            5,
+            4
+          ],
+          [
+            4,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            5
+          ],
+          [
+            4,
+            5
+          ]
+        ],
+        "FLASHY": [
+          [
+            1,
+            3
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            3
+          ]
+        ],
+        "JAZZY": [
+          [
+            7,
+            5
+          ],
+          [
+            7,
+            4
+          ],
+          [
+            6,
+            5
+          ],
+          [
+            6,
+            4
+          ],
+          [
+            5,
+            5
+          ]
+        ],
+        "STRIKING": [
+          [
+            6,
+            1
+          ],
+          [
+            5,
+            1
+          ],
+          [
+            4,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            3,
+            0
+          ],
+          [
+            4,
+            0
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ]
+        ],
+        "VIBRANT": [
+          [
+            3,
+            2
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            5,
+            2
+          ],
+          [
+            6,
+            2
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            1
+          ],
+          [
+            7,
+            0
+          ]
+        ],
+        "VIVID": [
+          [
+            2,
+            5
+          ],
+          [
+            1,
+            4
+          ],
+          [
+            1,
+            5
+          ],
+          [
+            0,
+            4
+          ],
+          [
+            0,
+            5
+          ]
+        ]
+      },
+      "spangramCoords": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          2,
+          1
+        ],
+        [
+          2,
+          2
+        ],
+        [
+          2,
+          3
+        ],
+        [
+          3,
+          3
+        ],
+        [
+          4,
+          3
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          6,
+          3
+        ],
+        [
+          7,
+          3
+        ]
+      ]
+    },
+    "spelling-bee": {
+      "date": "2026-09-16",
+      "id": 20283,
+      "center_letter": "p",
+      "outer_letters": "deinow",
+      "pangrams": [
+        "pinewood"
+      ],
+      "answers": [
+        "deep",
+        "deepen",
+        "deepened",
+        "depend",
+        "depended",
+        "dipped",
+        "dope",
+        "doped",
+        "epee",
+        "epode",
+        "ninepin",
+        "nipped",
+        "nope",
+        "open",
+        "opened",
+        "opine",
+        "opined",
+        "opinion",
+        "opioid",
+        "peed",
+        "peen",
+        "peep",
+        "peeped",
+        "peewee",
+        "pend",
+        "pended",
+        "penne",
+        "penned",
+        "peon",
+        "pepped",
+        "pewee",
+        "pied",
+        "pine",
+        "pined",
+        "pinion",
+        "pinioned",
+        "pinned",
+        "pinniped",
+        "pipe",
+        "piped",
+        "pippin",
+        "pond",
+        "pone",
+        "ponied",
+        "poop",
+        "pooped",
+        "pope",
+        "popped",
+        "powwow",
+        "weep",
+        "weepie",
+        "windpipe",
+        "wipe",
+        "wiped"
+      ],
+      "print_date": "2026-09-16",
+      "editor": "Sam Ezersky"
+    }
+  }
+}

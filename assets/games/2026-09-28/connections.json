@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-28",
+  "status": "OK",
+  "id": 1305,
+  "print_date": "2026-09-28",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "THINGS WITH STALKS",
+      "cards": [
+        {
+          "content": "BAMBOO",
+          "position": 3
+        },
+        {
+          "content": "CELERY",
+          "position": 4
+        },
+        {
+          "content": "CORN",
+          "position": 14
+        },
+        {
+          "content": "WHEAT",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "OYSTER CONDIMENTS",
+      "cards": [
+        {
+          "content": "HORSERADISH",
+          "position": 10
+        },
+        {
+          "content": "LEMON",
+          "position": 1
+        },
+        {
+          "content": "MIGNONETTE",
+          "position": 13
+        },
+        {
+          "content": "TABASCO",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "DODGE MODELS",
+      "cards": [
+        {
+          "content": "CHALLENGER",
+          "position": 15
+        },
+        {
+          "content": "CHARGER",
+          "position": 9
+        },
+        {
+          "content": "DURANGO",
+          "position": 7
+        },
+        {
+          "content": "VIPER",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "THREE LETTERS PLUS REPEATED TRIGRAMS",
+      "cards": [
+        {
+          "content": "ARKANSANS",
+          "position": 6
+        },
+        {
+          "content": "CHIHUAHUA",
+          "position": 0
+        },
+        {
+          "content": "POSSESSES",
+          "position": 12
+        },
+        {
+          "content": "SPRINGING",
+          "position": 8
+        }
+      ]
+    }
+  ]
+}

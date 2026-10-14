@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-31",
+  "status": "OK",
+  "id": 1337,
+  "print_date": "2026-10-31",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ROMANTIC LIKING",
+      "cards": [
+        {
+          "content": "ATTRACTION",
+          "position": 3
+        },
+        {
+          "content": "CRUSH",
+          "position": 8
+        },
+        {
+          "content": "FEELINGS",
+          "position": 14
+        },
+        {
+          "content": "INTEREST",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "COMPONENTS OF AN EMAIL",
+      "cards": [
+        {
+          "content": "ATTACHMENT",
+          "position": 4
+        },
+        {
+          "content": "BODY",
+          "position": 5
+        },
+        {
+          "content": "SIGNATURE",
+          "position": 10
+        },
+        {
+          "content": "SUBJECT",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "NASA MARS ROVERS",
+      "cards": [
+        {
+          "content": "CURIOSITY",
+          "position": 0
+        },
+        {
+          "content": "OPPORTUNITY",
+          "position": 13
+        },
+        {
+          "content": "PERSEVERANCE",
+          "position": 15
+        },
+        {
+          "content": "SPIRIT",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF PATHS",
+      "cards": [
+        {
+          "content": "COARSE",
+          "position": 7
+        },
+        {
+          "content": "RODE",
+          "position": 12
+        },
+        {
+          "content": "ROUT",
+          "position": 1
+        },
+        {
+          "content": "WEIGH",
+          "position": 9
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

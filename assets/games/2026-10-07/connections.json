@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-07",
+  "status": "OK",
+  "id": 1320,
+  "print_date": "2026-10-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SAVE FOR LATER",
+      "cards": [
+        {
+          "content": "BANK",
+          "position": 8
+        },
+        {
+          "content": "SQUIRREL",
+          "position": 5
+        },
+        {
+          "content": "STASH",
+          "position": 13
+        },
+        {
+          "content": "STORE",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF BUNS",
+      "cards": [
+        {
+          "content": "CINNAMON",
+          "position": 1
+        },
+        {
+          "content": "HAMBURGER",
+          "position": 10
+        },
+        {
+          "content": "HOT DOG",
+          "position": 3
+        },
+        {
+          "content": "STICKY",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "GREEK NUMERICAL PREFIXES",
+      "cards": [
+        {
+          "content": "DICHOTOMY",
+          "position": 9
+        },
+        {
+          "content": "MONOLOGUE",
+          "position": 6
+        },
+        {
+          "content": "TETRACYCLINE",
+          "position": 15
+        },
+        {
+          "content": "TRIDENT",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "BEST ___ TONY AWARDS",
+      "cards": [
+        {
+          "content": "CHOREOGRAPHY",
+          "position": 12
+        },
+        {
+          "content": "MUSICAL",
+          "position": 0
+        },
+        {
+          "content": "ORCHESTRATIONS",
+          "position": 14
+        },
+        {
+          "content": "PLAY",
+          "position": 7
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

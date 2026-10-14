@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-25",
+  "status": "OK",
+  "id": 1344,
+  "print_date": "2026-10-25",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "THINGS TO BRING ON A TREK",
+      "cards": [
+        {
+          "content": "BACKPACK",
+          "position": 15
+        },
+        {
+          "content": "COMPASS",
+          "position": 1
+        },
+        {
+          "content": "HIKING BOOTS",
+          "position": 7
+        },
+        {
+          "content": "WATER BOTTLE",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "MIST MAKERS",
+      "cards": [
+        {
+          "content": "DRY ICE",
+          "position": 9
+        },
+        {
+          "content": "FOG MACHINE",
+          "position": 2
+        },
+        {
+          "content": "HUMIDIFIER",
+          "position": 14
+        },
+        {
+          "content": "WATERFALL",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "ANGER",
+      "cards": [
+        {
+          "content": "INCENSE",
+          "position": 3
+        },
+        {
+          "content": "NETTLE",
+          "position": 6
+        },
+        {
+          "content": "PIQUE",
+          "position": 12
+        },
+        {
+          "content": "WIND UP",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "THINGS WITH MIRRORS",
+      "cards": [
+        {
+          "content": "DISCO BALL",
+          "position": 5
+        },
+        {
+          "content": "DRESSING ROOM",
+          "position": 8
+        },
+        {
+          "content": "KALEIDOSCOPE",
+          "position": 13
+        },
+        {
+          "content": "MEDICINE CABINET",
+          "position": 0
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-21",
+  "status": "OK",
+  "id": 1335,
+  "print_date": "2026-10-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "CLASSIC CHILDREN'S GAMES",
+      "cards": [
+        {
+          "content": "DUCK DUCK GOOSE",
+          "position": 11
+        },
+        {
+          "content": "HOT POTATO",
+          "position": 4
+        },
+        {
+          "content": "LEAPFROG",
+          "position": 1
+        },
+        {
+          "content": "MUSICAL CHAIRS",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "IMPORTANT PERSON",
+      "cards": [
+        {
+          "content": "ALPHA DOG",
+          "position": 2
+        },
+        {
+          "content": "BIG CHEESE",
+          "position": 7
+        },
+        {
+          "content": "HEAVYWEIGHT",
+          "position": 15
+        },
+        {
+          "content": "TOP BANANA",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "FAMOUS PAINTINGS",
+      "cards": [
+        {
+          "content": "AMERICAN GOTHIC",
+          "position": 8
+        },
+        {
+          "content": "CAMPBELL'S SOUP CAN",
+          "position": 10
+        },
+        {
+          "content": "SUNFLOWERS",
+          "position": 6
+        },
+        {
+          "content": "THE SCREAM",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "DOUBLE MISNOMERS (NEITHER WORD IS AN ACCURATE DESCRIPTION)",
+      "cards": [
+        {
+          "content": "ENGLISH HORN",
+          "position": 0
+        },
+        {
+          "content": "GRAPE-NUTS",
+          "position": 9
+        },
+        {
+          "content": "MANTIS SHRIMP",
+          "position": 5
+        },
+        {
+          "content": "SWEETBREAD",
+          "position": 3
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

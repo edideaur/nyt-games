@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-02",
+  "status": "OK",
+  "id": 1343,
+  "print_date": "2026-11-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STEAL",
+      "cards": [
+        {
+          "content": "BOOST",
+          "position": 15
+        },
+        {
+          "content": "PALM",
+          "position": 9
+        },
+        {
+          "content": "POCKET",
+          "position": 2
+        },
+        {
+          "content": "SWIPE",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "PASTA SHAPES",
+      "cards": [
+        {
+          "content": "BOW TIE",
+          "position": 11
+        },
+        {
+          "content": "ELBOW",
+          "position": 5
+        },
+        {
+          "content": "SHELL",
+          "position": 8
+        },
+        {
+          "content": "WAGON WHEEL",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "FICTIONAL TOMS",
+      "cards": [
+        {
+          "content": "RIDDLE",
+          "position": 14
+        },
+        {
+          "content": "SAWYER",
+          "position": 12
+        },
+        {
+          "content": "SWIFT",
+          "position": 6
+        },
+        {
+          "content": "THUMB",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "THINGS THAT CAN BE SNAPPED",
+      "cards": [
+        {
+          "content": "FINGERS",
+          "position": 7
+        },
+        {
+          "content": "FOOTBALL",
+          "position": 3
+        },
+        {
+          "content": "GLOW STICK",
+          "position": 0
+        },
+        {
+          "content": "RUBBER BAND",
+          "position": 10
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

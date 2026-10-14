@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-20",
+  "status": "OK",
+  "id": 1328,
+  "print_date": "2026-10-20",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FINISH",
+      "cards": [
+        {
+          "content": "CLOSE",
+          "position": 10
+        },
+        {
+          "content": "END",
+          "position": 15
+        },
+        {
+          "content": "STOP",
+          "position": 13
+        },
+        {
+          "content": "WRAP",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "LACKEY",
+      "cards": [
+        {
+          "content": "MINION",
+          "position": 7
+        },
+        {
+          "content": "POODLE",
+          "position": 4
+        },
+        {
+          "content": "PUPPET",
+          "position": 9
+        },
+        {
+          "content": "STOOGE",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "MUSTACHES",
+      "cards": [
+        {
+          "content": "CHEVRON",
+          "position": 0
+        },
+        {
+          "content": "HORSESHOE",
+          "position": 11
+        },
+        {
+          "content": "PENCIL",
+          "position": 3
+        },
+        {
+          "content": "WALRUS",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF DISNEY CHARACTERS",
+      "cards": [
+        {
+          "content": "ARIAL",
+          "position": 12
+        },
+        {
+          "content": "BELL",
+          "position": 2
+        },
+        {
+          "content": "DOCK",
+          "position": 1
+        },
+        {
+          "content": "MINI",
+          "position": 6
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

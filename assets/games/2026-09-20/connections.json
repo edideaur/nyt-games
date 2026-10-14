@@ -1,0 +1,93 @@
+{
+  "date": "2026-09-20",
+  "status": "OK",
+  "id": 1298,
+  "print_date": "2026-09-20",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ROUND FLAT THINGS",
+      "cards": [
+        {
+          "content": "BLU-RAY",
+          "position": 9
+        },
+        {
+          "content": "COASTER",
+          "position": 6
+        },
+        {
+          "content": "SAND DOLLAR",
+          "position": 11
+        },
+        {
+          "content": "TORTILLA",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH KENTUCKY",
+      "cards": [
+        {
+          "content": "BLUEGRASS",
+          "position": 10
+        },
+        {
+          "content": "BOURBON",
+          "position": 13
+        },
+        {
+          "content": "DERBY",
+          "position": 4
+        },
+        {
+          "content": "FRIED CHICKEN",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "VAMPIRE MOVIES",
+      "cards": [
+        {
+          "content": "BLADE",
+          "position": 8
+        },
+        {
+          "content": "NEAR DARK",
+          "position": 12
+        },
+        {
+          "content": "SINNERS",
+          "position": 15
+        },
+        {
+          "content": "TWILIGHT",
+          "position": 0
+        }
+      ]
+    },
+    {
+      "title": "___BOARDS YOU RIDE ON",
+      "cards": [
+        {
+          "content": "HOVER",
+          "position": 7
+        },
+        {
+          "content": "SKATE",
+          "position": 3
+        },
+        {
+          "content": "SNOW",
+          "position": 1
+        },
+        {
+          "content": "SURF",
+          "position": 14
+        }
+      ]
+    }
+  ]
+}

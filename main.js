@@ -127,19 +127,58 @@ function renderSpellingBee(data) {
   return lettersHtml + meta + answerList;
 }
 
+function renderGloble(data) {
+  const name = data.name ?? "Unknown";
+  const formal = data.formalName && data.formalName !== name ? data.formalName : "";
+  const flag = data.flag ?? "🌍";
+  const code = data.code ?? "";
+  const url = data.url ?? "https://globle.org/";
+
+  return `
+    <div class="globle-container">
+      <div class="globle-left">
+        <div class="globle-flag" aria-label="Country flag" role="img">${escapeHtml(flag)}</div>
+        <div class="globle-info">
+          <div class="globle-country">${escapeHtml(name)}</div>
+          ${formal ? `<div class="globle-formal">${escapeHtml(formal)}</div>` : ""}
+        </div>
+      </div>
+      <div class="globle-meta">
+        ${code ? `<span class="globle-code">${escapeHtml(code)}</span>` : ""}
+        <a class="globle-link" href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">Play Globle &#8599;</a>
+      </div>
+    </div>
+  `;
+}
+
 // ── Fetch & render ────────────────────────────────────────────────────────────
 
-const IDS = ["body-wordle", "body-connections", "body-strands", "body-spelling-bee"];
+const IDS = ["body-wordle", "body-connections", "body-strands", "body-spelling-bee", "body-globle"];
 
 async function load(date) {
   IDS.forEach(setLoading);
 
-  let allData;
+  let allData = null;
+  // Try static asset first: /assets/games/{date}/all.json
   try {
-    const r = await fetch(`/api/all/${date}`);
-    allData = await r.json();
-  } catch {
-    IDS.forEach((id) => setContent(id, `<span class="error-msg">Network error</span>`));
+    const staticRes = await fetch(`/assets/games/${date}/all.json`);
+    if (staticRes.ok) {
+      allData = await staticRes.json();
+    }
+  } catch {}
+
+  // Fallback to local /api/all/{date} endpoint if not found directly in /assets
+  if (!allData) {
+    try {
+      const r = await fetch(`/api/all/${date}`);
+      if (r.ok) {
+        allData = await r.json();
+      }
+    } catch {}
+  }
+
+  if (!allData) {
+    IDS.forEach((id) => setContent(id, `<span class="error-msg">No data for this date</span>`));
     return;
   }
 
@@ -161,6 +200,7 @@ async function load(date) {
   render("body-connections", "connections", renderConnections);
   render("body-strands", "strands", renderStrands);
   render("body-spelling-bee", "spelling-bee", renderSpellingBee);
+  render("body-globle", "globle", renderGloble);
 }
 
 // ── Init ──────────────────────────────────────────────────────────────────────

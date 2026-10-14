@@ -1,0 +1,97 @@
+{
+  "date": "2026-10-23",
+  "status": "OK",
+  "id": 1339,
+  "print_date": "2026-10-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FORTHRIGHT",
+      "cards": [
+        {
+          "content": "DIRECT",
+          "position": 2
+        },
+        {
+          "content": "FRANK",
+          "position": 12
+        },
+        {
+          "content": "OPEN",
+          "position": 11
+        },
+        {
+          "content": "VOCAL",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "THINGS YOU INSTALL ON A COMPUTER",
+      "cards": [
+        {
+          "content": "DRIVER",
+          "position": 6
+        },
+        {
+          "content": "EXTENSION",
+          "position": 0
+        },
+        {
+          "content": "PLUGIN",
+          "position": 15
+        },
+        {
+          "content": "UPDATE",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "QUANTITIES IN A FORMULA FOR POWER",
+      "cards": [
+        {
+          "content": "DISTANCE",
+          "position": 7
+        },
+        {
+          "content": "FORCE",
+          "position": 13
+        },
+        {
+          "content": "POWER",
+          "position": 3
+        },
+        {
+          "content": "TIME",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "___ TAP",
+      "cards": [
+        {
+          "content": "DOUBLE",
+          "position": 14
+        },
+        {
+          "content": "LOVE",
+          "position": 1
+        },
+        {
+          "content": "PHONE",
+          "position": 8
+        },
+        {
+          "content": "SPINAL",
+          "position": 4
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

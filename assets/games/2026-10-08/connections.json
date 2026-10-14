@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-08",
+  "status": "OK",
+  "id": 1322,
+  "print_date": "2026-10-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FOLLOWS, AS RULES",
+      "cards": [
+        {
+          "content": "HEEDS",
+          "position": 14
+        },
+        {
+          "content": "MINDS",
+          "position": 1
+        },
+        {
+          "content": "REGARDS",
+          "position": 6
+        },
+        {
+          "content": "RESPECTS",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "OUTDO",
+      "cards": [
+        {
+          "content": "BEST",
+          "position": 4
+        },
+        {
+          "content": "ECLIPSE",
+          "position": 7
+        },
+        {
+          "content": "SURPASS",
+          "position": 15
+        },
+        {
+          "content": "TOP",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "THINGS THAT COME IN THREES",
+      "cards": [
+        {
+          "content": "CHEERS",
+          "position": 8
+        },
+        {
+          "content": "STOOGES",
+          "position": 3
+        },
+        {
+          "content": "STRIKES",
+          "position": 11
+        },
+        {
+          "content": "WISHES",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN ACTORS NAMED TOM",
+      "cards": [
+        {
+          "content": "AUTOCRUISE",
+          "position": 13
+        },
+        {
+          "content": "FOOLHARDY",
+          "position": 0
+        },
+        {
+          "content": "MULHOLLAND",
+          "position": 9
+        },
+        {
+          "content": "THANKS",
+          "position": 2
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

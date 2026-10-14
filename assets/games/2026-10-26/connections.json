@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-26",
+  "status": "OK",
+  "id": 1331,
+  "print_date": "2026-10-26",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "RESPONSES TO \"HOW ARE YOU?\"",
+      "cards": [
+        {
+          "content": "CHILLING",
+          "position": 2
+        },
+        {
+          "content": "MANAGING",
+          "position": 10
+        },
+        {
+          "content": "NOT BAD",
+          "position": 15
+        },
+        {
+          "content": "SAME OLD",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF MATS",
+      "cards": [
+        {
+          "content": "PRAYER",
+          "position": 7
+        },
+        {
+          "content": "WELCOME",
+          "position": 0
+        },
+        {
+          "content": "WRESTLING",
+          "position": 11
+        },
+        {
+          "content": "YOGA",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "AKC DOG BREED GROUPS",
+      "cards": [
+        {
+          "content": "HERDING",
+          "position": 14
+        },
+        {
+          "content": "HOUND",
+          "position": 9
+        },
+        {
+          "content": "SPORTING",
+          "position": 6
+        },
+        {
+          "content": "TOY",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "HORROR MOVIES WITH LAST LETTER CHANGED",
+      "cards": [
+        {
+          "content": "HALLOWEEK",
+          "position": 1
+        },
+        {
+          "content": "HOSTED",
+          "position": 13
+        },
+        {
+          "content": "JAWN",
+          "position": 5
+        },
+        {
+          "content": "PSYCHS",
+          "position": 8
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}

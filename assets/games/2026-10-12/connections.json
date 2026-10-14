@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-12",
+  "status": "OK",
+  "id": 1317,
+  "print_date": "2026-10-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STATUS",
+      "cards": [
+        {
+          "content": "CONDITION",
+          "position": 8
+        },
+        {
+          "content": "SHAPE",
+          "position": 6
+        },
+        {
+          "content": "SITUATION",
+          "position": 10
+        },
+        {
+          "content": "STATE",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "TOLERATE",
+      "cards": [
+        {
+          "content": "BEAR",
+          "position": 11
+        },
+        {
+          "content": "HANDLE",
+          "position": 5
+        },
+        {
+          "content": "STAND",
+          "position": 13
+        },
+        {
+          "content": "WEATHER",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "WORD SHORTENINGS, OFTEN",
+      "cards": [
+        {
+          "content": "ABBREVIATION",
+          "position": 3
+        },
+        {
+          "content": "CONTRACTION",
+          "position": 9
+        },
+        {
+          "content": "ELISION",
+          "position": 14
+        },
+        {
+          "content": "NICKNAME",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "WORDS MADE USING U.S. POSTAL ABBREVIATIONS",
+      "cards": [
+        {
+          "content": "ALKYLAMIDE",
+          "position": 12
+        },
+        {
+          "content": "CALAMARI",
+          "position": 0
+        },
+        {
+          "content": "MANDARIN",
+          "position": 1
+        },
+        {
+          "content": "MELAMINE",
+          "position": 15
+        }
+      ]
+    }
+  ],
+  "stream": "daily"
+}
