@@ -1,0 +1,745 @@
+{
+  "date": "2026-11-07",
+  "data": {
+    "globle": {
+      "date": "2026-11-07",
+      "game": "globle",
+      "index": 46,
+      "name": "Kyrgyzstan",
+      "formalName": "Kyrgyz Republic",
+      "code": "KG",
+      "flag": "🇰🇬",
+      "url": "https://globle.org/"
+    },
+    "wordle": {
+      "date": "2026-11-07",
+      "id": 4636,
+      "solution": "prate",
+      "print_date": "2026-11-07",
+      "days_since_launch": 1967,
+      "editor": "Tracy Bennett"
+    },
+    "connections": {
+      "date": "2026-11-07",
+      "status": "OK",
+      "id": 1350,
+      "print_date": "2026-11-07",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "PIRATE'S PLUNDER",
+          "cards": [
+            {
+              "content": "BOOTY",
+              "position": 15
+            },
+            {
+              "content": "BOUNTY",
+              "position": 9
+            },
+            {
+              "content": "SPOILS",
+              "position": 12
+            },
+            {
+              "content": "TREASURE",
+              "position": 7
+            }
+          ]
+        },
+        {
+          "title": "KINDS OF SHIRTS",
+          "cards": [
+            {
+              "content": "HENLEY",
+              "position": 8
+            },
+            {
+              "content": "POLO",
+              "position": 0
+            },
+            {
+              "content": "RAGLAN",
+              "position": 14
+            },
+            {
+              "content": "RINGER",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "title": "FIRST WORDS OF U.S. STATE NAMES",
+          "cards": [
+            {
+              "content": "NEW",
+              "position": 2
+            },
+            {
+              "content": "NORTH",
+              "position": 10
+            },
+            {
+              "content": "RHODE",
+              "position": 4
+            },
+            {
+              "content": "SOUTH",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "title": "ENDS OF STORM TYPES",
+          "cards": [
+            {
+              "content": "CANE",
+              "position": 11
+            },
+            {
+              "content": "CLONE",
+              "position": 3
+            },
+            {
+              "content": "EASTER",
+              "position": 1
+            },
+            {
+              "content": "SOON",
+              "position": 6
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
+    },
+    "strands": {
+      "date": "2026-11-07",
+      "status": "OK",
+      "id": 1175,
+      "printDate": "2026-11-07",
+      "themeWords": [
+        "FLASH",
+        "HURTLE",
+        "RUSH",
+        "STREAK",
+        "WHIZ",
+        "WHOOSH",
+        "ZOOM"
+      ],
+      "editor": "Tracy Bennett",
+      "constructors": "Christina Iverson",
+      "spangram": "WHATSTHEHURRY",
+      "clue": "In the blink of an eye",
+      "startingBoard": [
+        "OOHSYR",
+        "SWRTWR",
+        "HTURHU",
+        "WLHEIH",
+        "HEAKZE",
+        "OATSTH",
+        "OZFLRH",
+        "MHSAUS"
+      ],
+      "solutions": [
+        "AERIE",
+        "AFAR",
+        "AFARS",
+        "ALEW",
+        "ALFA",
+        "ALFS",
+        "ALTHEA",
+        "ALTS",
+        "ALURE",
+        "ARTS",
+        "ASKER",
+        "ASTRAL",
+        "ASTRALS",
+        "ATLAS",
+        "EALE",
+        "EAST",
+        "EATS",
+        "EIKS",
+        "ELTS",
+        "ERRS",
+        "ETAS",
+        "ETHS",
+        "EURO",
+        "EUROS",
+        "EWTS",
+        "FAAS",
+        "FARL",
+        "FARLS",
+        "FARS",
+        "FART",
+        "FARTS",
+        "FASH",
+        "FATAL",
+        "FATE",
+        "FATS",
+        "FAULT",
+        "FAULTS",
+        "FAUR",
+        "FLASH",
+        "FLUS",
+        "FLUSH",
+        "HAAF",
+        "HAAFS",
+        "HAET",
+        "HAETS",
+        "HAFT",
+        "HAFTS",
+        "HAKE",
+        "HALE",
+        "HALT",
+        "HALTS",
+        "HASK",
+        "HAST",
+        "HASTA",
+        "HASTE",
+        "HATE",
+        "HATS",
+        "HEAL",
+        "HEALTH",
+        "HEALTHS",
+        "HEAST",
+        "HEASTE",
+        "HEAT",
+        "HEATS",
+        "HEIR",
+        "HETH",
+        "HETHS",
+        "HETS",
+        "HIKE",
+        "HIKER",
+        "HIRE",
+        "HOOSH",
+        "HORS",
+        "HORST",
+        "HORSY",
+        "HOST",
+        "HOWS",
+        "HOWSO",
+        "HUER",
+        "HULA",
+        "HULAS",
+        "HULE",
+        "HURL",
+        "HURLS",
+        "HURRY",
+        "HURST",
+        "HURT",
+        "HURTLE",
+        "HURTS",
+        "HUTS",
+        "IKAT",
+        "IKATS",
+        "KALE",
+        "KATA",
+        "KATS",
+        "KEAS",
+        "KEIR",
+        "KHAT",
+        "KHATS",
+        "KHET",
+        "KHETS",
+        "KIER",
+        "LAER",
+        "LAKE",
+        "LAKER",
+        "LAKH",
+        "LAKIER",
+        "LARS",
+        "LASH",
+        "LAST",
+        "LATAH",
+        "LATE",
+        "LATKE",
+        "LATS",
+        "LEAF",
+        "LEAFS",
+        "LEAK",
+        "LEAKER",
+        "LEAKIER",
+        "LEAKS",
+        "LEAS",
+        "LEAST",
+        "LEAT",
+        "LEATS",
+        "LEHR",
+        "LETS",
+        "LURE",
+        "LURS",
+        "LUSH",
+        "LUTHIER",
+        "MOAT",
+        "MOATS",
+        "MOZO",
+        "OAFS",
+        "OATS",
+        "OOHS",
+        "ORTS",
+        "OWTS",
+        "RAFT",
+        "RAFTS",
+        "RASH",
+        "REAK",
+        "REAKS",
+        "REAL",
+        "REAST",
+        "REATA",
+        "REATE",
+        "REHEAT",
+        "REHEATS",
+        "REIK",
+        "REIKS",
+        "RHEA",
+        "RHEAS",
+        "RHOS",
+        "RHUS",
+        "ROOS",
+        "ROOST",
+        "ROST",
+        "ROWS",
+        "ROWT",
+        "ROWTH",
+        "ROWTHS",
+        "ROWTS",
+        "RUER",
+        "RULE",
+        "RUSH",
+        "RUTH",
+        "RUTHS",
+        "RUTS",
+        "SAFT",
+        "SAKE",
+        "SAKER",
+        "SAKI",
+        "SAKIEH",
+        "SALE",
+        "SALET",
+        "SALS",
+        "SALSA",
+        "SALT",
+        "SALTS",
+        "SALTWORT",
+        "SALTWORTS",
+        "SALUE",
+        "SARS",
+        "SARUS",
+        "SATE",
+        "SAUL",
+        "SAULS",
+        "SAULT",
+        "SAULTS",
+        "SHMO",
+        "SHOAT",
+        "SHOATS",
+        "SHOO",
+        "SHOOS",
+        "SHORT",
+        "SHORTS",
+        "SHORTY",
+        "SHOW",
+        "SHOWS",
+        "SHROW",
+        "SHROWS",
+        "SHUL",
+        "SHULS",
+        "SHURA",
+        "SHURAS",
+        "SKAT",
+        "SKATE",
+        "SKER",
+        "SKIER",
+        "SKIRR",
+        "SKIRRS",
+        "SKIRT",
+        "SKIRTS",
+        "SLART",
+        "SLARTS",
+        "SLASH",
+        "SLUR",
+        "SLURS",
+        "SLUSH",
+        "SOHS",
+        "SORT",
+        "SORTS",
+        "SOWTH",
+        "STAKE",
+        "STALE",
+        "STEAK",
+        "STEAL",
+        "STEALT",
+        "STEALTH",
+        "STEALTHS",
+        "STELA",
+        "STELAE",
+        "STEW",
+        "STREAK",
+        "STREAKS",
+        "STRIKE",
+        "STROW",
+        "STROWS",
+        "STRUT",
+        "STRUTS",
+        "STURE",
+        "STURT",
+        "STURTS",
+        "SULFA",
+        "SULFAS",
+        "SULFATE",
+        "SURA",
+        "SURAL",
+        "SURAS",
+        "SYTHE",
+        "TAAL",
+        "TAEL",
+        "TAHR",
+        "TAKE",
+        "TAKER",
+        "TAKI",
+        "TAKIER",
+        "TAKS",
+        "TALE",
+        "TALEA",
+        "TASK",
+        "TASKER",
+        "TASTE",
+        "TEAK",
+        "TEAKS",
+        "TEAL",
+        "TEAS",
+        "TEHR",
+        "TEHRS",
+        "TELA",
+        "TELAE",
+        "TELT",
+        "THAE",
+        "THAT",
+        "THEIR",
+        "THETA",
+        "THETAS",
+        "THEW",
+        "THIR",
+        "THRASH",
+        "THREAT",
+        "THREATS",
+        "THRO",
+        "THROSTLE",
+        "THROW",
+        "THROWS",
+        "THRU",
+        "THRUSH",
+        "THURL",
+        "THURLS",
+        "THUS",
+        "TRASH",
+        "TREAT",
+        "TREATS",
+        "TREK",
+        "TREKS",
+        "TREZ",
+        "TRIE",
+        "TRIKE",
+        "TROW",
+        "TROWS",
+        "TROWTH",
+        "TROWTHS",
+        "TRUE",
+        "TRUER",
+        "TRUTH",
+        "TRUTHIER",
+        "TRUTHS",
+        "TULE",
+        "TURTLE",
+        "TUTS",
+        "TWEAK",
+        "TWEAKER",
+        "TWEAKIER",
+        "TWEAKS",
+        "TWOS",
+        "ULTRA",
+        "ULTRAS",
+        "UREA",
+        "UREAL",
+        "UREAS",
+        "URSA",
+        "URSAE",
+        "WEAK",
+        "WEAKER",
+        "WEAL",
+        "WEALTH",
+        "WEALTHS",
+        "WELT",
+        "WELTS",
+        "WETA",
+        "WETAS",
+        "WETS",
+        "WHAE",
+        "WHAT",
+        "WHATA",
+        "WHATAS",
+        "WHATS",
+        "WHEAL",
+        "WHEAT",
+        "WHEATS",
+        "WHET",
+        "WHETS",
+        "WHIR",
+        "WHIRR",
+        "WHIRRS",
+        "WHIZ",
+        "WHOA",
+        "WHOOSH",
+        "WHORT",
+        "WHORTLE",
+        "WHORTS",
+        "WHOSO",
+        "WOOS",
+        "WOOSH",
+        "WORST",
+        "WORT",
+        "WORTH",
+        "WORTHIER",
+        "WORTHS",
+        "WORTLE",
+        "WORTS",
+        "WOST",
+        "WREAK",
+        "WREAKS",
+        "WURST",
+        "WUTHER",
+        "ZEAL",
+        "ZEAS",
+        "ZEKS",
+        "ZOAEA",
+        "ZOAEAE",
+        "ZOAEAS",
+        "ZOEA",
+        "ZOEAE",
+        "ZOEAL",
+        "ZOEAS",
+        "ZOOEA",
+        "ZOOEAE",
+        "ZOOEAL",
+        "ZOOEAS",
+        "ZOOM"
+      ],
+      "themeCoords": {
+        "FLASH": [
+          [
+            6,
+            2
+          ],
+          [
+            6,
+            3
+          ],
+          [
+            7,
+            3
+          ],
+          [
+            7,
+            2
+          ],
+          [
+            7,
+            1
+          ]
+        ],
+        "HURTLE": [
+          [
+            3,
+            2
+          ],
+          [
+            2,
+            2
+          ],
+          [
+            1,
+            2
+          ],
+          [
+            2,
+            1
+          ],
+          [
+            3,
+            1
+          ],
+          [
+            4,
+            1
+          ]
+        ],
+        "RUSH": [
+          [
+            6,
+            4
+          ],
+          [
+            7,
+            4
+          ],
+          [
+            7,
+            5
+          ],
+          [
+            6,
+            5
+          ]
+        ],
+        "STREAK": [
+          [
+            0,
+            3
+          ],
+          [
+            1,
+            3
+          ],
+          [
+            2,
+            3
+          ],
+          [
+            3,
+            3
+          ],
+          [
+            4,
+            2
+          ],
+          [
+            4,
+            3
+          ]
+        ],
+        "WHIZ": [
+          [
+            1,
+            4
+          ],
+          [
+            2,
+            4
+          ],
+          [
+            3,
+            4
+          ],
+          [
+            4,
+            4
+          ]
+        ],
+        "WHOOSH": [
+          [
+            1,
+            1
+          ],
+          [
+            0,
+            2
+          ],
+          [
+            0,
+            1
+          ],
+          [
+            0,
+            0
+          ],
+          [
+            1,
+            0
+          ],
+          [
+            2,
+            0
+          ]
+        ],
+        "ZOOM": [
+          [
+            6,
+            1
+          ],
+          [
+            5,
+            0
+          ],
+          [
+            6,
+            0
+          ],
+          [
+            7,
+            0
+          ]
+        ]
+      },
+      "spangramCoords": [
+        [
+          3,
+          0
+        ],
+        [
+          4,
+          0
+        ],
+        [
+          5,
+          1
+        ],
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          3
+        ],
+        [
+          5,
+          4
+        ],
+        [
+          5,
+          5
+        ],
+        [
+          4,
+          5
+        ],
+        [
+          3,
+          5
+        ],
+        [
+          2,
+          5
+        ],
+        [
+          1,
+          5
+        ],
+        [
+          0,
+          5
+        ],
+        [
+          0,
+          4
+        ]
+      ],
+      "makeFree": false
+    }
+  }
+}

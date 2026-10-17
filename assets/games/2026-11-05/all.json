@@ -1041,6 +1041,103 @@
         ]
       ],
       "makeFree": false
+    },
+    "connections": {
+      "date": "2026-11-05",
+      "status": "OK",
+      "id": 1353,
+      "print_date": "2026-11-05",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "FLOWERS",
+          "cards": [
+            {
+              "content": "ANEMONE",
+              "position": 13
+            },
+            {
+              "content": "LOTUS",
+              "position": 10
+            },
+            {
+              "content": "NARCISSUS",
+              "position": 7
+            },
+            {
+              "content": "ROSE",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "title": "KINDS OF HEELS",
+          "cards": [
+            {
+              "content": "KITTEN",
+              "position": 3
+            },
+            {
+              "content": "PLATFORM",
+              "position": 15
+            },
+            {
+              "content": "SPIKE",
+              "position": 6
+            },
+            {
+              "content": "WEDGE",
+              "position": 8
+            }
+          ]
+        },
+        {
+          "title": "TEARDROP-SHAPED THINGS",
+          "cards": [
+            {
+              "content": "PEAR",
+              "position": 5
+            },
+            {
+              "content": "RAINDROP",
+              "position": 0
+            },
+            {
+              "content": "SPEEDBAG",
+              "position": 14
+            },
+            {
+              "content": "UVULA",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "title": "LIQUORS WITH LAST LETTERS CHANGED",
+          "cards": [
+            {
+              "content": "BRANDO",
+              "position": 12
+            },
+            {
+              "content": "GIG",
+              "position": 4
+            },
+            {
+              "content": "RUN",
+              "position": 9
+            },
+            {
+              "content": "WHISKER",
+              "position": 2
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }

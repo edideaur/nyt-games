@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-06",
+  "status": "OK",
+  "id": 1346,
+  "print_date": "2026-11-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "COMPOSITION",
+      "cards": [
+        {
+          "content": "CONSTITUTION",
+          "position": 10
+        },
+        {
+          "content": "FABRIC",
+          "position": 5
+        },
+        {
+          "content": "MAKEUP",
+          "position": 2
+        },
+        {
+          "content": "STRUCTURE",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "COPY",
+      "cards": [
+        {
+          "content": "BACKUP",
+          "position": 0
+        },
+        {
+          "content": "EXTRA",
+          "position": 6
+        },
+        {
+          "content": "REPLACEMENT",
+          "position": 11
+        },
+        {
+          "content": "SPARE",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF TRUCKS",
+      "cards": [
+        {
+          "content": "FLATBED",
+          "position": 4
+        },
+        {
+          "content": "PICKUP",
+          "position": 1
+        },
+        {
+          "content": "SEMI",
+          "position": 9
+        },
+        {
+          "content": "TANKER",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN PARTS OF THE EYE",
+      "cards": [
+        {
+          "content": "HOT ROD",
+          "position": 3
+        },
+        {
+          "content": "OSIRIS",
+          "position": 13
+        },
+        {
+          "content": "TRAFFIC CONE",
+          "position": 8
+        },
+        {
+          "content": "WOOLENS",
+          "position": 7
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

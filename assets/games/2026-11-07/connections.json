@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-07",
+  "status": "OK",
+  "id": 1350,
+  "print_date": "2026-11-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PIRATE'S PLUNDER",
+      "cards": [
+        {
+          "content": "BOOTY",
+          "position": 15
+        },
+        {
+          "content": "BOUNTY",
+          "position": 9
+        },
+        {
+          "content": "SPOILS",
+          "position": 12
+        },
+        {
+          "content": "TREASURE",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF SHIRTS",
+      "cards": [
+        {
+          "content": "HENLEY",
+          "position": 8
+        },
+        {
+          "content": "POLO",
+          "position": 0
+        },
+        {
+          "content": "RAGLAN",
+          "position": 14
+        },
+        {
+          "content": "RINGER",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "FIRST WORDS OF U.S. STATE NAMES",
+      "cards": [
+        {
+          "content": "NEW",
+          "position": 2
+        },
+        {
+          "content": "NORTH",
+          "position": 10
+        },
+        {
+          "content": "RHODE",
+          "position": 4
+        },
+        {
+          "content": "SOUTH",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "ENDS OF STORM TYPES",
+      "cards": [
+        {
+          "content": "CANE",
+          "position": 11
+        },
+        {
+          "content": "CLONE",
+          "position": 3
+        },
+        {
+          "content": "EASTER",
+          "position": 1
+        },
+        {
+          "content": "SOON",
+          "position": 6
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

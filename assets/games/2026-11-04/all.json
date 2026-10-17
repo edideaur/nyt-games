@@ -1036,6 +1036,103 @@
           5
         ]
       ]
+    },
+    "connections": {
+      "date": "2026-11-04",
+      "status": "OK",
+      "id": 1355,
+      "print_date": "2026-11-04",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "MOVE IDLY, WITH \"AROUND\"",
+          "cards": [
+            {
+              "content": "LOLL",
+              "position": 11
+            },
+            {
+              "content": "POKE",
+              "position": 1
+            },
+            {
+              "content": "PUTTER",
+              "position": 8
+            },
+            {
+              "content": "SHUFFLE",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "title": "TRIANGULAR PRISMS WITH A SHARP EDGE",
+          "cards": [
+            {
+              "content": "DOORSTOP",
+              "position": 10
+            },
+            {
+              "content": "FLATIRON BUILDING",
+              "position": 12
+            },
+            {
+              "content": "PIE SLICE",
+              "position": 15
+            },
+            {
+              "content": "WEDGE",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "title": "WORDS AFTER \"DO NOT\" ON A CARE LABEL",
+          "cards": [
+            {
+              "content": "BLEACH",
+              "position": 7
+            },
+            {
+              "content": "IRON",
+              "position": 2
+            },
+            {
+              "content": "TUMBLE DRY",
+              "position": 14
+            },
+            {
+              "content": "WRING",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "title": "FIRE___",
+          "cards": [
+            {
+              "content": "CRACKER",
+              "position": 9
+            },
+            {
+              "content": "FLY",
+              "position": 0
+            },
+            {
+              "content": "WOOD",
+              "position": 4
+            },
+            {
+              "content": "WORKS",
+              "position": 3
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }
