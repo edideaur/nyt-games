@@ -1523,6 +1523,67 @@
           5
         ]
       ]
+    },
+    "spelling-bee": {
+      "date": "2026-11-03",
+      "id": 10512,
+      "center_letter": "c",
+      "outer_letters": "abiklt",
+      "pangrams": [
+        "backlit",
+        "clickbait",
+        "tailback"
+      ],
+      "answers": [
+        "abaci",
+        "aback",
+        "acacia",
+        "acai",
+        "alack",
+        "attack",
+        "attic",
+        "bacilli",
+        "back",
+        "backbit",
+        "backtalk",
+        "biblical",
+        "black",
+        "blackball",
+        "cabal",
+        "cabala",
+        "cacti",
+        "call",
+        "calla",
+        "callback",
+        "catcall",
+        "cattail",
+        "ciabatta",
+        "cilia",
+        "clack",
+        "click",
+        "iliac",
+        "illicit",
+        "italic",
+        "kick",
+        "kickback",
+        "kickball",
+        "lack",
+        "lactic",
+        "laic",
+        "laical",
+        "licit",
+        "lick",
+        "lilac",
+        "tacit",
+        "tack",
+        "tact",
+        "tactic",
+        "tactical",
+        "talc",
+        "tick"
+      ],
+      "print_date": "2026-11-03",
+      "editor": "Sam Ezersky"
     }
   }
 }

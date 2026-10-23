@@ -1186,6 +1186,55 @@
         ]
       ],
       "makeFree": false
+    },
+    "spelling-bee": {
+      "date": "2026-11-08",
+      "id": 17109,
+      "center_letter": "p",
+      "outer_letters": "acejkl",
+      "pangrams": [
+        "applejack"
+      ],
+      "answers": [
+        "alpaca",
+        "apace",
+        "appall",
+        "appeal",
+        "appellee",
+        "apple",
+        "cape",
+        "clap",
+        "epee",
+        "jape",
+        "jeep",
+        "kappa",
+        "keep",
+        "kelp",
+        "lapel",
+        "leap",
+        "pace",
+        "pack",
+        "paella",
+        "palace",
+        "palapa",
+        "pale",
+        "pall",
+        "palp",
+        "papa",
+        "papal",
+        "peace",
+        "peak",
+        "peal",
+        "peck",
+        "peek",
+        "peel",
+        "peep",
+        "peke",
+        "place",
+        "plea"
+      ],
+      "print_date": "2026-11-08",
+      "editor": "Sam Ezersky"
     }
   }
 }
