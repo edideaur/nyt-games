@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-10",
+  "status": "OK",
+  "id": 1361,
+  "print_date": "2026-11-10",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "HUBBUB",
+      "cards": [
+        {
+          "content": "BROUHAHA",
+          "position": 11
+        },
+        {
+          "content": "FOOFARAW",
+          "position": 3
+        },
+        {
+          "content": "HULLABALOO",
+          "position": 6
+        },
+        {
+          "content": "KERFUFFLE",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "OLD-TIMEY OCCUPATIONS",
+      "cards": [
+        {
+          "content": "APOTHECARY",
+          "position": 2
+        },
+        {
+          "content": "HABERDASHER",
+          "position": 7
+        },
+        {
+          "content": "SCRIVENER",
+          "position": 9
+        },
+        {
+          "content": "WAINWRIGHT",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "LITERARY DEVICES",
+      "cards": [
+        {
+          "content": "HYPERBOLE",
+          "position": 10
+        },
+        {
+          "content": "METONYMY",
+          "position": 15
+        },
+        {
+          "content": "ONOMATOPOEIA",
+          "position": 1
+        },
+        {
+          "content": "OXYMORON",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "WORDS WITH THE SAME 5 VOWELS AS ONLY VOWELS",
+      "cards": [
+        {
+          "content": "ABRACADABRA",
+          "position": 0
+        },
+        {
+          "content": "BEEKEEPER",
+          "position": 8
+        },
+        {
+          "content": "INVISIBILITY",
+          "position": 14
+        },
+        {
+          "content": "PROTOZOOLOGY",
+          "position": 5
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

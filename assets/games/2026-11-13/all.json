@@ -1508,6 +1508,103 @@
         ]
       ],
       "makeFree": false
+    },
+    "connections": {
+      "date": "2026-11-13",
+      "status": "OK",
+      "id": 1360,
+      "print_date": "2026-11-13",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "USE THE INTERNET",
+          "cards": [
+            {
+              "content": "BROWSE",
+              "position": 15
+            },
+            {
+              "content": "SCROLL",
+              "position": 2
+            },
+            {
+              "content": "SEARCH",
+              "position": 10
+            },
+            {
+              "content": "SURF",
+              "position": 4
+            }
+          ]
+        },
+        {
+          "title": "MEDIA ATTENTION",
+          "cards": [
+            {
+              "content": "COVERAGE",
+              "position": 12
+            },
+            {
+              "content": "EXPOSURE",
+              "position": 9
+            },
+            {
+              "content": "PRESS",
+              "position": 0
+            },
+            {
+              "content": "PUBLICITY",
+              "position": 14
+            }
+          ]
+        },
+        {
+          "title": "THINGS THAT ARE TOWED",
+          "cards": [
+            {
+              "content": "BARGE",
+              "position": 1
+            },
+            {
+              "content": "GLIDER",
+              "position": 13
+            },
+            {
+              "content": "TRAILER",
+              "position": 7
+            },
+            {
+              "content": "WATER SKIER",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "title": "BRAIN ___",
+          "cards": [
+            {
+              "content": "FREEZE",
+              "position": 11
+            },
+            {
+              "content": "TEASER",
+              "position": 5
+            },
+            {
+              "content": "TRUST",
+              "position": 8
+            },
+            {
+              "content": "WAVES",
+              "position": 6
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }

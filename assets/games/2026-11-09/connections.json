@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-09",
+  "status": "OK",
+  "id": 1366,
+  "print_date": "2026-11-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "DECEITFUL SCHEME",
+      "cards": [
+        {
+          "content": "CON JOB",
+          "position": 2
+        },
+        {
+          "content": "FLIMFLAM",
+          "position": 13
+        },
+        {
+          "content": "RIP-OFF",
+          "position": 11
+        },
+        {
+          "content": "SHELL GAME",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "JEANS DESCRIPTORS",
+      "cards": [
+        {
+          "content": "BOOT-CUT",
+          "position": 3
+        },
+        {
+          "content": "DISTRESSED",
+          "position": 15
+        },
+        {
+          "content": "LOW-RISE",
+          "position": 9
+        },
+        {
+          "content": "SKINNY",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "THINGS WITH SERRATED EDGES",
+      "cards": [
+        {
+          "content": "GRAPEFRUIT SPOON",
+          "position": 14
+        },
+        {
+          "content": "MINT LEAF",
+          "position": 6
+        },
+        {
+          "content": "STEAK KNIFE",
+          "position": 0
+        },
+        {
+          "content": "TAPE DISPENSER",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN SEA CREATURES",
+      "cards": [
+        {
+          "content": "CARD SHARK",
+          "position": 1
+        },
+        {
+          "content": "FUN SPONGE",
+          "position": 10
+        },
+        {
+          "content": "GAMMA RAY",
+          "position": 7
+        },
+        {
+          "content": "NAVY SEAL",
+          "position": 4
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
