@@ -1129,6 +1129,50 @@
         ]
       ],
       "makeFree": false
+    },
+    "spelling-bee": {
+      "date": "2026-11-15",
+      "id": 23691,
+      "center_letter": "t",
+      "outer_letters": "eglopy",
+      "pangrams": [
+        "logotype"
+      ],
+      "answers": [
+        "eyelet",
+        "gelt",
+        "loot",
+        "lotto",
+        "otology",
+        "pellet",
+        "pelt",
+        "petty",
+        "peyote",
+        "plot",
+        "poet",
+        "polyglot",
+        "poppet",
+        "potty",
+        "teepee",
+        "teleology",
+        "teletype",
+        "tell",
+        "tepee",
+        "toggle",
+        "toll",
+        "tool",
+        "toot",
+        "tootle",
+        "tope",
+        "topology",
+        "topple",
+        "tote",
+        "type",
+        "typo",
+        "typology"
+      ],
+      "print_date": "2026-11-15",
+      "editor": "Sam Ezersky"
     }
   }
 }
