@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-20",
+  "status": "OK",
+  "id": 1364,
+  "print_date": "2026-11-20",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PERSON WHO EXCELS AT SOMETHING",
+      "cards": [
+        {
+          "content": "ACE",
+          "position": 13
+        },
+        {
+          "content": "BEAST",
+          "position": 0
+        },
+        {
+          "content": "MAVEN",
+          "position": 15
+        },
+        {
+          "content": "WIZARD",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "NOTICE",
+      "cards": [
+        {
+          "content": "CATCH",
+          "position": 11
+        },
+        {
+          "content": "CLOCK",
+          "position": 7
+        },
+        {
+          "content": "REGISTER",
+          "position": 8
+        },
+        {
+          "content": "SPOT",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "DESCRIPTORS FOR SMALL ANIMALS",
+      "cards": [
+        {
+          "content": "MINIATURE",
+          "position": 12
+        },
+        {
+          "content": "POCKET",
+          "position": 6
+        },
+        {
+          "content": "TEACUP",
+          "position": 4
+        },
+        {
+          "content": "TOY",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN LINGERIE",
+      "cards": [
+        {
+          "content": "CANDELABRA",
+          "position": 2
+        },
+        {
+          "content": "COWSLIP",
+          "position": 5
+        },
+        {
+          "content": "DIPHTHONG",
+          "position": 9
+        },
+        {
+          "content": "STUTTGARTER",
+          "position": 14
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

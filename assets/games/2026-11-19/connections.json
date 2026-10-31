@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-19",
+  "status": "OK",
+  "id": 1373,
+  "print_date": "2026-11-19",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MAKE A HOLE IN THE GROUND",
+      "cards": [
+        {
+          "content": "BORE",
+          "position": 7
+        },
+        {
+          "content": "BURROW",
+          "position": 15
+        },
+        {
+          "content": "DIG",
+          "position": 12
+        },
+        {
+          "content": "TUNNEL",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "TREE PRODUCTS",
+      "cards": [
+        {
+          "content": "CORK",
+          "position": 3
+        },
+        {
+          "content": "LATEX",
+          "position": 14
+        },
+        {
+          "content": "LUMBER",
+          "position": 10
+        },
+        {
+          "content": "SAP",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "PARTS OF AN ELECTRICAL APPLIANCE",
+      "cards": [
+        {
+          "content": "CORD",
+          "position": 2
+        },
+        {
+          "content": "HOUSING",
+          "position": 11
+        },
+        {
+          "content": "PLUG",
+          "position": 9
+        },
+        {
+          "content": "SWITCH",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "START AND END WITH THE SAME THREE LETTERS",
+      "cards": [
+        {
+          "content": "EINSTEIN",
+          "position": 5
+        },
+        {
+          "content": "GALANGAL",
+          "position": 13
+        },
+        {
+          "content": "HOTSHOT",
+          "position": 6
+        },
+        {
+          "content": "UNDERGROUND",
+          "position": 0
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

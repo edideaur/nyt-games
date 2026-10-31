@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-21",
+  "status": "OK",
+  "id": 1371,
+  "print_date": "2026-11-21",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KINDS OF COOKIES",
+      "cards": [
+        {
+          "content": "BLACK AND WHITE",
+          "position": 13
+        },
+        {
+          "content": "BUTTER",
+          "position": 1
+        },
+        {
+          "content": "GIRL SCOUT",
+          "position": 15
+        },
+        {
+          "content": "SUGAR",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "THINGS RATED IN A CUSTOMER SURVEY",
+      "cards": [
+        {
+          "content": "COURTESY",
+          "position": 4
+        },
+        {
+          "content": "HELPFULNESS",
+          "position": 12
+        },
+        {
+          "content": "SATISFACTION",
+          "position": 3
+        },
+        {
+          "content": "WAIT TIME",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "TAROT CARDS, WITH \"THE\"",
+      "cards": [
+        {
+          "content": "DEVIL",
+          "position": 7
+        },
+        {
+          "content": "EMPRESS",
+          "position": 10
+        },
+        {
+          "content": "FOOL",
+          "position": 2
+        },
+        {
+          "content": "HIEROPHANT",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "HOLD YOUR ___",
+      "cards": [
+        {
+          "content": "BREATH",
+          "position": 0
+        },
+        {
+          "content": "HORSES",
+          "position": 5
+        },
+        {
+          "content": "OWN",
+          "position": 6
+        },
+        {
+          "content": "TONGUE",
+          "position": 9
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

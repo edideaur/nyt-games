@@ -879,6 +879,103 @@
         ]
       ],
       "makeFree": false
+    },
+    "connections": {
+      "date": "2026-11-18",
+      "status": "OK",
+      "id": 1375,
+      "print_date": "2026-11-18",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "DESCRIPTORS FOR A LEMON",
+          "cards": [
+            {
+              "content": "JUICY",
+              "position": 5
+            },
+            {
+              "content": "OVOID",
+              "position": 14
+            },
+            {
+              "content": "SOUR",
+              "position": 12
+            },
+            {
+              "content": "YELLOW",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "title": "THINGS BEES PRODUCE",
+          "cards": [
+            {
+              "content": "BUZZ",
+              "position": 10
+            },
+            {
+              "content": "COMB",
+              "position": 7
+            },
+            {
+              "content": "HONEY",
+              "position": 1
+            },
+            {
+              "content": "VENOM",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "title": "CITIES IN FRANCE",
+          "cards": [
+            {
+              "content": "CANNES",
+              "position": 15
+            },
+            {
+              "content": "DIJON",
+              "position": 6
+            },
+            {
+              "content": "NICE",
+              "position": 0
+            },
+            {
+              "content": "TOURS",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "title": "___ FRY",
+          "cards": [
+            {
+              "content": "DEEP",
+              "position": 2
+            },
+            {
+              "content": "FRENCH",
+              "position": 8
+            },
+            {
+              "content": "SMALL",
+              "position": 4
+            },
+            {
+              "content": "VOCAL",
+              "position": 11
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }
