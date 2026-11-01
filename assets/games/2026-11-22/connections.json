@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-22",
+  "status": "OK",
+  "id": 1370,
+  "print_date": "2026-11-22",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "MULTITUDE",
+      "cards": [
+        {
+          "content": "HOST",
+          "position": 13
+        },
+        {
+          "content": "MASS",
+          "position": 15
+        },
+        {
+          "content": "SEA",
+          "position": 5
+        },
+        {
+          "content": "SLEW",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "INTERJECTIONS BEFORE A REACTION",
+      "cards": [
+        {
+          "content": "GEE",
+          "position": 4
+        },
+        {
+          "content": "SAY",
+          "position": 6
+        },
+        {
+          "content": "WELL",
+          "position": 10
+        },
+        {
+          "content": "WHY",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "BUBBLE ___",
+      "cards": [
+        {
+          "content": "BATH",
+          "position": 12
+        },
+        {
+          "content": "GUM",
+          "position": 11
+        },
+        {
+          "content": "TEA",
+          "position": 2
+        },
+        {
+          "content": "WRAP",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF PRONOUNS",
+      "cards": [
+        {
+          "content": "EWE",
+          "position": 8
+        },
+        {
+          "content": "EYE",
+          "position": 0
+        },
+        {
+          "content": "HEE",
+          "position": 3
+        },
+        {
+          "content": "WEE",
+          "position": 7
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
