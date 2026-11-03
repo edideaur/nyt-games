@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-23",
+  "status": "OK",
+  "id": 1376,
+  "print_date": "2026-11-23",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TINY AMOUNT",
+      "cards": [
+        {
+          "content": "IOTA",
+          "position": 4
+        },
+        {
+          "content": "MODICUM",
+          "position": 15
+        },
+        {
+          "content": "PARTICLE",
+          "position": 12
+        },
+        {
+          "content": "SHRED",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "INFO ON A NAVIGATION APP",
+      "cards": [
+        {
+          "content": "DISTANCE",
+          "position": 1
+        },
+        {
+          "content": "ETA",
+          "position": 7
+        },
+        {
+          "content": "ROUTE",
+          "position": 14
+        },
+        {
+          "content": "TRAFFIC",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "METAL SUBGENRES",
+      "cards": [
+        {
+          "content": "BLACK",
+          "position": 6
+        },
+        {
+          "content": "DOOM",
+          "position": 3
+        },
+        {
+          "content": "NU",
+          "position": 8
+        },
+        {
+          "content": "THRASH",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH BABY ANIMALS",
+      "cards": [
+        {
+          "content": "CHICKPEA",
+          "position": 0
+        },
+        {
+          "content": "CUBISM",
+          "position": 13
+        },
+        {
+          "content": "LAMBDA",
+          "position": 2
+        },
+        {
+          "content": "PUPIL",
+          "position": 5
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
