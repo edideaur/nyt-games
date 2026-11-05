@@ -1,0 +1,33 @@
+{
+  "date": "2026-11-16",
+  "id": 10584,
+  "center_letter": "c",
+  "outer_letters": "aiprvy",
+  "pangrams": [
+    "privacy"
+  ],
+  "answers": [
+    "acacia",
+    "acai",
+    "capri",
+    "carp",
+    "carpi",
+    "carry",
+    "cava",
+    "caviar",
+    "circa",
+    "cirri",
+    "civic",
+    "crap",
+    "crappy",
+    "papacy",
+    "pica",
+    "piracy",
+    "priapic",
+    "pricy",
+    "racy",
+    "vicar"
+  ],
+  "print_date": "2026-11-16",
+  "editor": "Sam Ezersky"
+}

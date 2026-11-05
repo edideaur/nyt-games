@@ -1527,6 +1527,59 @@
       "tags": [
         "variant:4x4"
       ]
+    },
+    "spelling-bee": {
+      "date": "2026-11-19",
+      "id": 14022,
+      "center_letter": "k",
+      "outer_letters": "cdelnu",
+      "pangrams": [
+        "clunked",
+        "knuckled"
+      ],
+      "answers": [
+        "cluck",
+        "clucked",
+        "clunk",
+        "cuke",
+        "deck",
+        "decked",
+        "deckle",
+        "deke",
+        "deked",
+        "duck",
+        "ducked",
+        "duke",
+        "duked",
+        "dunk",
+        "dunked",
+        "eked",
+        "keel",
+        "keeled",
+        "keen",
+        "keened",
+        "kennel",
+        "kenneled",
+        "knee",
+        "kneed",
+        "kneel",
+        "kneeled",
+        "knell",
+        "knelled",
+        "knuckle",
+        "kudu",
+        "leek",
+        "luck",
+        "lucked",
+        "lunk",
+        "neck",
+        "necked",
+        "nuke",
+        "nuked",
+        "ukulele"
+      ],
+      "print_date": "2026-11-19",
+      "editor": "Sam Ezersky"
     }
   }
 }
