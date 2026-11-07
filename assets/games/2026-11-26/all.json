@@ -1250,6 +1250,103 @@
         ]
       ],
       "makeFree": false
+    },
+    "connections": {
+      "date": "2026-11-26",
+      "status": "OK",
+      "id": 1382,
+      "print_date": "2026-11-26",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "SHADES OF PINK",
+          "cards": [
+            {
+              "content": "BLUSH",
+              "position": 8
+            },
+            {
+              "content": "BUBBLEGUM",
+              "position": 2
+            },
+            {
+              "content": "CARNATION",
+              "position": 5
+            },
+            {
+              "content": "CORAL",
+              "position": 13
+            }
+          ]
+        },
+        {
+          "title": "KINDS OF CARS",
+          "cards": [
+            {
+              "content": "COMPACT",
+              "position": 9
+            },
+            {
+              "content": "CONVERTIBLE",
+              "position": 15
+            },
+            {
+              "content": "HYBRID",
+              "position": 12
+            },
+            {
+              "content": "MANUAL",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "title": "THINGS HOMER SIMPSON LIKES",
+          "cards": [
+            {
+              "content": "BEER",
+              "position": 0
+            },
+            {
+              "content": "BOWLING",
+              "position": 3
+            },
+            {
+              "content": "DONUTS",
+              "position": 7
+            },
+            {
+              "content": "TELEVISION",
+              "position": 10
+            }
+          ]
+        },
+        {
+          "title": "THINGS THAT ARE POPPED",
+          "cards": [
+            {
+              "content": "BOTTLE OF CHAMPAGNE",
+              "position": 1
+            },
+            {
+              "content": "MARRIAGE PROPOSAL",
+              "position": 14
+            },
+            {
+              "content": "POPCORN",
+              "position": 4
+            },
+            {
+              "content": "WHEELIE",
+              "position": 6
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }

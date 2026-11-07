@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-27",
+  "status": "OK",
+  "id": 1383,
+  "print_date": "2026-11-27",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "TOUCH LIGHTLY",
+      "cards": [
+        {
+          "content": "BRUSH",
+          "position": 6
+        },
+        {
+          "content": "GRAZE",
+          "position": 13
+        },
+        {
+          "content": "KISS",
+          "position": 3
+        },
+        {
+          "content": "SKIM",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "FEMALE ANIMALS",
+      "cards": [
+        {
+          "content": "LEOPARDESS",
+          "position": 14
+        },
+        {
+          "content": "PEAHEN",
+          "position": 12
+        },
+        {
+          "content": "QUEEN",
+          "position": 1
+        },
+        {
+          "content": "VIXEN",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN PARTS OF THE FOOT",
+      "cards": [
+        {
+          "content": "CAMISOLE",
+          "position": 7
+        },
+        {
+          "content": "MISTLETOE",
+          "position": 2
+        },
+        {
+          "content": "MONARCH",
+          "position": 5
+        },
+        {
+          "content": "PINWHEEL",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "ASSOCIATED WITH THE COLOR PURPLE",
+      "cards": [
+        {
+          "content": "ALICE WALKER",
+          "position": 0
+        },
+        {
+          "content": "FLOWERY LANGUAGE",
+          "position": 15
+        },
+        {
+          "content": "PRINCE",
+          "position": 4
+        },
+        {
+          "content": "ROYALTY",
+          "position": 9
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
