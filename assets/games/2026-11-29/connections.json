@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-29",
+  "status": "OK",
+  "id": 1380,
+  "print_date": "2026-11-29",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "BODYWEIGHT EXERCISES",
+      "cards": [
+        {
+          "content": "BEAR CRAWL",
+          "position": 11
+        },
+        {
+          "content": "BURPEE",
+          "position": 1
+        },
+        {
+          "content": "CRUNCH",
+          "position": 7
+        },
+        {
+          "content": "MOUNTAIN CLIMBER",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "WHIT",
+      "cards": [
+        {
+          "content": "CENT",
+          "position": 10
+        },
+        {
+          "content": "FARTHING",
+          "position": 4
+        },
+        {
+          "content": "PITTANCE",
+          "position": 15
+        },
+        {
+          "content": "SOU",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "CARTOON FAMILY SURNAMES",
+      "cards": [
+        {
+          "content": "BELCHER",
+          "position": 6
+        },
+        {
+          "content": "GRIFFIN",
+          "position": 3
+        },
+        {
+          "content": "HILL",
+          "position": 5
+        },
+        {
+          "content": "SIMPSON",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN WORDS FOR THE MAIN IDEA",
+      "cards": [
+        {
+          "content": "DEMEANING",
+          "position": 13
+        },
+        {
+          "content": "DISAPPOINT",
+          "position": 9
+        },
+        {
+          "content": "MANTICORE",
+          "position": 0
+        },
+        {
+          "content": "ZOOLOGIST",
+          "position": 2
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

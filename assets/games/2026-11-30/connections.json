@@ -1,0 +1,97 @@
+{
+  "date": "2026-11-30",
+  "status": "OK",
+  "id": 1381,
+  "print_date": "2026-11-30",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "SELL",
+      "cards": [
+        {
+          "content": "HAWK",
+          "position": 4
+        },
+        {
+          "content": "MOVE",
+          "position": 9
+        },
+        {
+          "content": "PEDDLE",
+          "position": 12
+        },
+        {
+          "content": "VEND",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "NEWSPAPER SECTIONS",
+      "cards": [
+        {
+          "content": "CITY",
+          "position": 3
+        },
+        {
+          "content": "OPINION",
+          "position": 13
+        },
+        {
+          "content": "SPORTS",
+          "position": 8
+        },
+        {
+          "content": "STYLE",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "THEY HAVE EYE MASKS",
+      "cards": [
+        {
+          "content": "BANDIT",
+          "position": 1
+        },
+        {
+          "content": "RACCOON",
+          "position": 2
+        },
+        {
+          "content": "ROBIN",
+          "position": 6
+        },
+        {
+          "content": "ZORRO",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "___ DIVE",
+      "cards": [
+        {
+          "content": "DUMPSTER",
+          "position": 7
+        },
+        {
+          "content": "SCUBA",
+          "position": 10
+        },
+        {
+          "content": "STAGE",
+          "position": 5
+        },
+        {
+          "content": "SWAN",
+          "position": 0
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
