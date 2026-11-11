@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-02",
+  "status": "OK",
+  "id": 1384,
+  "print_date": "2026-12-02",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FROM THE TOP",
+      "cards": [
+        {
+          "content": "AGAIN",
+          "position": 3
+        },
+        {
+          "content": "ANEW",
+          "position": 11
+        },
+        {
+          "content": "ONCE MORE",
+          "position": 13
+        },
+        {
+          "content": "OVER",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "THINGS SEEN IN A YARD",
+      "cards": [
+        {
+          "content": "BIRDBATH",
+          "position": 14
+        },
+        {
+          "content": "HAMMOCK",
+          "position": 7
+        },
+        {
+          "content": "HOSE",
+          "position": 2
+        },
+        {
+          "content": "SHED",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "PARTS OF A HOT AIR BALLOON",
+      "cards": [
+        {
+          "content": "BALLOON",
+          "position": 4
+        },
+        {
+          "content": "BASKET",
+          "position": 1
+        },
+        {
+          "content": "BURNER",
+          "position": 10
+        },
+        {
+          "content": "SANDBAGS",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH PIECES OF LAND",
+      "cards": [
+        {
+          "content": "LOTION",
+          "position": 0
+        },
+        {
+          "content": "PARCELLS",
+          "position": 12
+        },
+        {
+          "content": "PLOTZ",
+          "position": 5
+        },
+        {
+          "content": "TRACTOR",
+          "position": 9
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
