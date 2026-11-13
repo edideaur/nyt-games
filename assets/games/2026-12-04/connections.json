@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-04",
+  "status": "OK",
+  "id": 1386,
+  "print_date": "2026-12-04",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "STINKY",
+      "cards": [
+        {
+          "content": "FOUL",
+          "position": 12
+        },
+        {
+          "content": "FUNKY",
+          "position": 9
+        },
+        {
+          "content": "RANK",
+          "position": 1
+        },
+        {
+          "content": "RIPE",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "MOVIE LISTING INFO",
+      "cards": [
+        {
+          "content": "CAST",
+          "position": 2
+        },
+        {
+          "content": "RATING",
+          "position": 3
+        },
+        {
+          "content": "RUNTIME",
+          "position": 11
+        },
+        {
+          "content": "SYNOPSIS",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "TAXONOMIC RANKS",
+      "cards": [
+        {
+          "content": "CLASS",
+          "position": 7
+        },
+        {
+          "content": "FAMILY",
+          "position": 10
+        },
+        {
+          "content": "KINGDOM",
+          "position": 15
+        },
+        {
+          "content": "ORDER",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "HOMOPHONES OF SLANG FOR TOILET",
+      "cards": [
+        {
+          "content": "CANNES",
+          "position": 14
+        },
+        {
+          "content": "JAWN",
+          "position": 8
+        },
+        {
+          "content": "LIEU",
+          "position": 5
+        },
+        {
+          "content": "THROWN",
+          "position": 0
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

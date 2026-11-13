@@ -1593,6 +1593,55 @@
         ]
       ],
       "makeFree": false
+    },
+    "spelling-bee": {
+      "date": "2026-11-27",
+      "id": 19169,
+      "center_letter": "u",
+      "outer_letters": "aeflpt",
+      "pangrams": [
+        "plateful"
+      ],
+      "answers": [
+        "epaulet",
+        "fateful",
+        "fault",
+        "flauta",
+        "flue",
+        "fluff",
+        "flute",
+        "fuel",
+        "full",
+        "letup",
+        "luau",
+        "luff",
+        "lull",
+        "lulu",
+        "lute",
+        "luteal",
+        "plateau",
+        "puff",
+        "pule",
+        "pull",
+        "pullet",
+        "pulp",
+        "pupa",
+        "pupae",
+        "pupal",
+        "pupate",
+        "puppet",
+        "putt",
+        "taupe",
+        "taut",
+        "tuffet",
+        "tuft",
+        "tulle",
+        "tutee",
+        "tutu",
+        "ululate"
+      ],
+      "print_date": "2026-11-27",
+      "editor": "Sam Ezersky"
     }
   }
 }
