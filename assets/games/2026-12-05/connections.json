@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-05",
+  "status": "OK",
+  "id": 1392,
+  "print_date": "2026-12-05",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ADD PROTECTIVE MATERIAL TO",
+      "cards": [
+        {
+          "content": "CUSHION",
+          "position": 8
+        },
+        {
+          "content": "INSULATE",
+          "position": 13
+        },
+        {
+          "content": "LINE",
+          "position": 1
+        },
+        {
+          "content": "PAD",
+          "position": 5
+        }
+      ]
+    },
+    {
+      "title": "SPACESHIP FEATURES",
+      "cards": [
+        {
+          "content": "AIRLOCK",
+          "position": 10
+        },
+        {
+          "content": "COCKPIT",
+          "position": 6
+        },
+        {
+          "content": "POD",
+          "position": 4
+        },
+        {
+          "content": "THRUSTER",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "WAYS TO BRUSQUELY ADDRESS A STRANGER",
+      "cards": [
+        {
+          "content": "BUB",
+          "position": 14
+        },
+        {
+          "content": "BUSTER",
+          "position": 9
+        },
+        {
+          "content": "JACK",
+          "position": 0
+        },
+        {
+          "content": "MAC",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "WHAT \"MOBILE\" MIGHT REFER TO",
+      "cards": [
+        {
+          "content": "ALABAMA CITY",
+          "position": 11
+        },
+        {
+          "content": "CALDER SCULPTURE",
+          "position": 12
+        },
+        {
+          "content": "PHONE",
+          "position": 7
+        },
+        {
+          "content": "PORTABLE",
+          "position": 2
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

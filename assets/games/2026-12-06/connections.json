@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-06",
+  "status": "OK",
+  "id": 1390,
+  "print_date": "2026-12-06",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "IDENTIFYING TRAIT",
+      "cards": [
+        {
+          "content": "CALLING CARD",
+          "position": 10
+        },
+        {
+          "content": "HALLMARK",
+          "position": 14
+        },
+        {
+          "content": "SIGNATURE",
+          "position": 5
+        },
+        {
+          "content": "STAMP",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "WRITTEN MESSAGE",
+      "cards": [
+        {
+          "content": "COMMUNICATION",
+          "position": 13
+        },
+        {
+          "content": "DISPATCH",
+          "position": 8
+        },
+        {
+          "content": "LETTER",
+          "position": 2
+        },
+        {
+          "content": "MISSIVE",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "PLACES TO GET THE TEA",
+      "cards": [
+        {
+          "content": "GRAPEVINE",
+          "position": 12
+        },
+        {
+          "content": "TABLOID",
+          "position": 7
+        },
+        {
+          "content": "TEAPOT",
+          "position": 0
+        },
+        {
+          "content": "WATER COOLER",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "STREET ___",
+      "cards": [
+        {
+          "content": "ADDRESS",
+          "position": 4
+        },
+        {
+          "content": "FIGHTER",
+          "position": 1
+        },
+        {
+          "content": "LEGAL",
+          "position": 6
+        },
+        {
+          "content": "SMARTS",
+          "position": 11
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

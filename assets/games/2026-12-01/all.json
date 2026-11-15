@@ -1173,6 +1173,103 @@
         ]
       ],
       "makeFree": false
+    },
+    "connections": {
+      "date": "2026-12-01",
+      "status": "OK",
+      "id": 1393,
+      "print_date": "2026-12-01",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "HOME ELECTRONICS",
+          "cards": [
+            {
+              "content": "DVR",
+              "position": 4
+            },
+            {
+              "content": "PC",
+              "position": 14
+            },
+            {
+              "content": "TABLET",
+              "position": 11
+            },
+            {
+              "content": "TV",
+              "position": 2
+            }
+          ]
+        },
+        {
+          "title": "ROUND FLAT THINGS WITH A HOLE IN THE MIDDLE",
+          "cards": [
+            {
+              "content": "CD",
+              "position": 12
+            },
+            {
+              "content": "LP",
+              "position": 15
+            },
+            {
+              "content": "SEQUIN",
+              "position": 7
+            },
+            {
+              "content": "WASHER",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "title": "LETTERS THAT SOUND LIKE A WORD",
+          "cards": [
+            {
+              "content": "NME",
+              "position": 6
+            },
+            {
+              "content": "NV",
+              "position": 9
+            },
+            {
+              "content": "QT",
+              "position": 13
+            },
+            {
+              "content": "XL",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "title": "WORDS BEFORE \"TOWN\" IN U.S. GEOGRAPHIC NICKNAMES",
+          "cards": [
+            {
+              "content": "BEAN",
+              "position": 0
+            },
+            {
+              "content": "CHI",
+              "position": 5
+            },
+            {
+              "content": "MO",
+              "position": 10
+            },
+            {
+              "content": "TINSEL",
+              "position": 8
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }

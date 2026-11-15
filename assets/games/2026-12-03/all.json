@@ -1021,6 +1021,103 @@
         ]
       ],
       "makeFree": false
+    },
+    "connections": {
+      "date": "2026-12-03",
+      "status": "OK",
+      "id": 1389,
+      "print_date": "2026-12-03",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "WAYS TO PREPARE AN EGG",
+          "cards": [
+            {
+              "content": "BOIL",
+              "position": 13
+            },
+            {
+              "content": "DEVIL",
+              "position": 10
+            },
+            {
+              "content": "FRY",
+              "position": 7
+            },
+            {
+              "content": "SCRAMBLE",
+              "position": 1
+            }
+          ]
+        },
+        {
+          "title": "KINDS OF DOGS, INFORMALLY",
+          "cards": [
+            {
+              "content": "CHOW",
+              "position": 12
+            },
+            {
+              "content": "DOODLE",
+              "position": 4
+            },
+            {
+              "content": "LAB",
+              "position": 15
+            },
+            {
+              "content": "PIT",
+              "position": 11
+            }
+          ]
+        },
+        {
+          "title": "SEEN ON A U.S. DOLLAR BILL",
+          "cards": [
+            {
+              "content": "EAGLE",
+              "position": 14
+            },
+            {
+              "content": "EYE",
+              "position": 6
+            },
+            {
+              "content": "PYRAMID",
+              "position": 8
+            },
+            {
+              "content": "WASHINGTON",
+              "position": 0
+            }
+          ]
+        },
+        {
+          "title": "STATE ANAGRAMS",
+          "cards": [
+            {
+              "content": "ANIME",
+              "position": 5
+            },
+            {
+              "content": "RAN MADLY",
+              "position": 3
+            },
+            {
+              "content": "SAW NOTHING",
+              "position": 2
+            },
+            {
+              "content": "TAXES",
+              "position": 9
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }
