@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-07",
+  "status": "OK",
+  "id": 1394,
+  "print_date": "2026-12-07",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "RIFFLE (THROUGH)",
+      "cards": [
+        {
+          "content": "FLIP",
+          "position": 10
+        },
+        {
+          "content": "LEAF",
+          "position": 1
+        },
+        {
+          "content": "SKIM",
+          "position": 7
+        },
+        {
+          "content": "THUMB",
+          "position": 4
+        }
+      ]
+    },
+    {
+      "title": "PARTS OF A MUSHROOM",
+      "cards": [
+        {
+          "content": "CAP",
+          "position": 5
+        },
+        {
+          "content": "GILLS",
+          "position": 9
+        },
+        {
+          "content": "SPORES",
+          "position": 15
+        },
+        {
+          "content": "STEM",
+          "position": 3
+        }
+      ]
+    },
+    {
+      "title": "___ LIGHT",
+      "cards": [
+        {
+          "content": "BUD",
+          "position": 8
+        },
+        {
+          "content": "PILOT",
+          "position": 11
+        },
+        {
+          "content": "TRAFFIC",
+          "position": 2
+        },
+        {
+          "content": "UV",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "BIG CATS MINUS FIRST LETTER",
+      "cards": [
+        {
+          "content": "ANTHER",
+          "position": 6
+        },
+        {
+          "content": "IGER",
+          "position": 14
+        },
+        {
+          "content": "ION",
+          "position": 0
+        },
+        {
+          "content": "UMA",
+          "position": 12
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

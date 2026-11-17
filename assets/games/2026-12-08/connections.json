@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-08",
+  "status": "OK",
+  "id": 1391,
+  "print_date": "2026-12-08",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "EXTEND WITH EFFORT",
+      "cards": [
+        {
+          "content": "CRANE",
+          "position": 0
+        },
+        {
+          "content": "REACH",
+          "position": 9
+        },
+        {
+          "content": "STRAIN",
+          "position": 6
+        },
+        {
+          "content": "STRETCH",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "THINGS WITH NUMBERED BUTTONS",
+      "cards": [
+        {
+          "content": "ATM",
+          "position": 12
+        },
+        {
+          "content": "CALCULATOR",
+          "position": 2
+        },
+        {
+          "content": "ELEVATOR",
+          "position": 5
+        },
+        {
+          "content": "TELEPHONE",
+          "position": 11
+        }
+      ]
+    },
+    {
+      "title": "COFFEE-MAKING VERBS",
+      "cards": [
+        {
+          "content": "BREW",
+          "position": 13
+        },
+        {
+          "content": "GRIND",
+          "position": 4
+        },
+        {
+          "content": "MEASURE",
+          "position": 8
+        },
+        {
+          "content": "POUR",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH TABLEWARE",
+      "cards": [
+        {
+          "content": "CUPID",
+          "position": 1
+        },
+        {
+          "content": "FORKLIFT",
+          "position": 7
+        },
+        {
+          "content": "PLATEAU",
+          "position": 3
+        },
+        {
+          "content": "SPOONERISM",
+          "position": 10
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
