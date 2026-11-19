@@ -999,6 +999,48 @@
         ]
       ],
       "makeFree": false
+    },
+    "spelling-bee": {
+      "date": "2026-12-06",
+      "id": 13915,
+      "center_letter": "r",
+      "outer_letters": "cfimou",
+      "pangrams": [
+        "cruciform"
+      ],
+      "answers": [
+        "cirri",
+        "coir",
+        "croc",
+        "croci",
+        "curio",
+        "curium",
+        "firm",
+        "form",
+        "formic",
+        "forum",
+        "four",
+        "from",
+        "froufrou",
+        "furor",
+        "micro",
+        "microform",
+        "mirror",
+        "moor",
+        "morocco",
+        "murmur",
+        "occur",
+        "riff",
+        "rococo",
+        "romcom",
+        "roof",
+        "room",
+        "ruff",
+        "rumor",
+        "uric"
+      ],
+      "print_date": "2026-12-06",
+      "editor": "Sam Ezersky"
     }
   }
 }
