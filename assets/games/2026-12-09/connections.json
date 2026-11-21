@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-09",
+  "status": "OK",
+  "id": 1399,
+  "print_date": "2026-12-09",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "GLIMPSE",
+      "cards": [
+        {
+          "content": "GANDER",
+          "position": 0
+        },
+        {
+          "content": "GLANCE",
+          "position": 15
+        },
+        {
+          "content": "LOOK",
+          "position": 10
+        },
+        {
+          "content": "PEEP",
+          "position": 12
+        }
+      ]
+    },
+    {
+      "title": "SCUBA GEAR",
+      "cards": [
+        {
+          "content": "FINS",
+          "position": 3
+        },
+        {
+          "content": "MASK",
+          "position": 6
+        },
+        {
+          "content": "REGULATOR",
+          "position": 14
+        },
+        {
+          "content": "TANK",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "ZODIAC SYMBOLS",
+      "cards": [
+        {
+          "content": "BULL",
+          "position": 4
+        },
+        {
+          "content": "LION",
+          "position": 13
+        },
+        {
+          "content": "RAM",
+          "position": 8
+        },
+        {
+          "content": "SCALES",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "SILLY ___",
+      "cards": [
+        {
+          "content": "BILLY",
+          "position": 7
+        },
+        {
+          "content": "GOOSE",
+          "position": 5
+        },
+        {
+          "content": "PUTTY",
+          "position": 11
+        },
+        {
+          "content": "STRING",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

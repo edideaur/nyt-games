@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-12",
+  "status": "OK",
+  "id": 1388,
+  "print_date": "2026-12-12",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "PERSONAL WELL-BEING",
+      "cards": [
+        {
+          "content": "BENEFIT",
+          "position": 9
+        },
+        {
+          "content": "GOOD",
+          "position": 4
+        },
+        {
+          "content": "INTEREST",
+          "position": 11
+        },
+        {
+          "content": "SAKE",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "VIDEO GAME PROTAGONISTS, DESCRIPTIVELY",
+      "cards": [
+        {
+          "content": "GORILLA",
+          "position": 8
+        },
+        {
+          "content": "HEDGEHOG",
+          "position": 3
+        },
+        {
+          "content": "PLUMBER",
+          "position": 13
+        },
+        {
+          "content": "TOMB RAIDER",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "LEFT, IN DIFFERENT CONTEXTS",
+      "cards": [
+        {
+          "content": "LEFT",
+          "position": 10
+        },
+        {
+          "content": "PORT",
+          "position": 7
+        },
+        {
+          "content": "SINISTER",
+          "position": 2
+        },
+        {
+          "content": "WEST",
+          "position": 14
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN PARTS OF THE FACE",
+      "cards": [
+        {
+          "content": "DIAGNOSE",
+          "position": 12
+        },
+        {
+          "content": "HIGHBROW",
+          "position": 6
+        },
+        {
+          "content": "URCHIN",
+          "position": 0
+        },
+        {
+          "content": "VERMOUTH",
+          "position": 5
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

@@ -1625,6 +1625,103 @@
         ]
       ],
       "makeFree": false
+    },
+    "connections": {
+      "date": "2026-12-10",
+      "status": "OK",
+      "id": 1403,
+      "print_date": "2026-12-10",
+      "editor": "Wyna Liu",
+      "categories": [
+        {
+          "title": "EXPRESSIONS OF AGREEMENT",
+          "cards": [
+            {
+              "content": "INDEED",
+              "position": 15
+            },
+            {
+              "content": "NO DOUBT",
+              "position": 1
+            },
+            {
+              "content": "SURE",
+              "position": 12
+            },
+            {
+              "content": "TOTALLY",
+              "position": 6
+            }
+          ]
+        },
+        {
+          "title": "RECTANGULAR BLOCKS",
+          "cards": [
+            {
+              "content": "BRICK",
+              "position": 4
+            },
+            {
+              "content": "MEATLOAF",
+              "position": 10
+            },
+            {
+              "content": "SHOEBOX",
+              "position": 0
+            },
+            {
+              "content": "TOASTER",
+              "position": 9
+            }
+          ]
+        },
+        {
+          "title": "BANDS WITH UNHEALTHY-SOUNDING NAMES",
+          "cards": [
+            {
+              "content": "GARBAGE",
+              "position": 8
+            },
+            {
+              "content": "GERMS",
+              "position": 11
+            },
+            {
+              "content": "POISON",
+              "position": 14
+            },
+            {
+              "content": "RANCID",
+              "position": 5
+            }
+          ]
+        },
+        {
+          "title": "ENDING IN FRUITS",
+          "cards": [
+            {
+              "content": "DISAPPEAR",
+              "position": 7
+            },
+            {
+              "content": "MINIFIG",
+              "position": 2
+            },
+            {
+              "content": "PEPLUM",
+              "position": 13
+            },
+            {
+              "content": "SUBLIME",
+              "position": 3
+            }
+          ]
+        }
+      ],
+      "stream": "daily",
+      "tags": [
+        "variant:4x4"
+      ]
     }
   }
 }

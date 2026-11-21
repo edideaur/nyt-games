@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-11",
+  "status": "OK",
+  "id": 1402,
+  "print_date": "2026-12-11",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "NOBLE TITLES",
+      "cards": [
+        {
+          "content": "COUNT",
+          "position": 3
+        },
+        {
+          "content": "DUKE",
+          "position": 13
+        },
+        {
+          "content": "EARL",
+          "position": 15
+        },
+        {
+          "content": "LORD",
+          "position": 8
+        }
+      ]
+    },
+    {
+      "title": "WORDS USED TO DESCRIBE MUSICAL NOTE LENGTHS",
+      "cards": [
+        {
+          "content": "DOTTED",
+          "position": 1
+        },
+        {
+          "content": "EIGHTH",
+          "position": 12
+        },
+        {
+          "content": "HALF",
+          "position": 11
+        },
+        {
+          "content": "WHOLE",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "CONSPICUOUS",
+      "cards": [
+        {
+          "content": "GROSS",
+          "position": 4
+        },
+        {
+          "content": "MARKED",
+          "position": 9
+        },
+        {
+          "content": "OBVIOUS",
+          "position": 14
+        },
+        {
+          "content": "PATENT",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "SYNONYMS FOR \"CAREFULLY,\" MINUS \"LY\"",
+      "cards": [
+        {
+          "content": "CAUTIOUS",
+          "position": 10
+        },
+        {
+          "content": "DELICATE",
+          "position": 0
+        },
+        {
+          "content": "GENT",
+          "position": 5
+        },
+        {
+          "content": "GINGER",
+          "position": 2
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
