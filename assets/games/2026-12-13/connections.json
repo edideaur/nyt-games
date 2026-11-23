@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-13",
+  "status": "OK",
+  "id": 1397,
+  "print_date": "2026-12-13",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "\"BYE!\"",
+      "cards": [
+        {
+          "content": "CHEERIO",
+          "position": 2
+        },
+        {
+          "content": "LATER",
+          "position": 9
+        },
+        {
+          "content": "PEACE",
+          "position": 5
+        },
+        {
+          "content": "TOODLES",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "FACADE",
+      "cards": [
+        {
+          "content": "COVER",
+          "position": 8
+        },
+        {
+          "content": "DISGUISE",
+          "position": 12
+        },
+        {
+          "content": "FRONT",
+          "position": 14
+        },
+        {
+          "content": "SCREEN",
+          "position": 1
+        }
+      ]
+    },
+    {
+      "title": "THINGS WITH FOAMY TOPS",
+      "cards": [
+        {
+          "content": "BEER",
+          "position": 3
+        },
+        {
+          "content": "BUBBLE BATH",
+          "position": 4
+        },
+        {
+          "content": "CAPPUCCINO",
+          "position": 11
+        },
+        {
+          "content": "WHITECAP",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "KINDS OF GOGGLES",
+      "cards": [
+        {
+          "content": "NIGHT VISION",
+          "position": 13
+        },
+        {
+          "content": "SAFETY",
+          "position": 0
+        },
+        {
+          "content": "SKI",
+          "position": 10
+        },
+        {
+          "content": "SWIMMING",
+          "position": 6
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

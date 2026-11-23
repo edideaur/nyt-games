@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-14",
+  "status": "OK",
+  "id": 1398,
+  "print_date": "2026-12-14",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "KITCHEN GADGETS",
+      "cards": [
+        {
+          "content": "MANDOLINE",
+          "position": 14
+        },
+        {
+          "content": "PARER",
+          "position": 2
+        },
+        {
+          "content": "PESTLE",
+          "position": 7
+        },
+        {
+          "content": "SIEVE",
+          "position": 9
+        }
+      ]
+    },
+    {
+      "title": "THINGS BURNED FOR SCENT",
+      "cards": [
+        {
+          "content": "MYRRH",
+          "position": 5
+        },
+        {
+          "content": "PALO SANTO",
+          "position": 11
+        },
+        {
+          "content": "SAGE",
+          "position": 8
+        },
+        {
+          "content": "SANDALWOOD",
+          "position": 13
+        }
+      ]
+    },
+    {
+      "title": "OLD-TIMEY EXPRESSIONS OF DISMISSAL",
+      "cards": [
+        {
+          "content": "BAH",
+          "position": 15
+        },
+        {
+          "content": "HARRUMPH",
+          "position": 10
+        },
+        {
+          "content": "POOH",
+          "position": 3
+        },
+        {
+          "content": "PSHAW",
+          "position": 0
+        }
+      ]
+    },
+    {
+      "title": "STARTING WITH SYNONYMS FOR FORTHRIGHT",
+      "cards": [
+        {
+          "content": "CANDIDE",
+          "position": 12
+        },
+        {
+          "content": "DIRECTORY",
+          "position": 4
+        },
+        {
+          "content": "FRANKINCENSE",
+          "position": 6
+        },
+        {
+          "content": "PLAINTIFF",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
