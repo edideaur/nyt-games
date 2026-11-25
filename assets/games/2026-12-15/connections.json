@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-15",
+  "status": "OK",
+  "id": 1401,
+  "print_date": "2026-12-15",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "ASPECTS OF MUSICAL TIMING",
+      "cards": [
+        {
+          "content": "BEAT",
+          "position": 4
+        },
+        {
+          "content": "METER",
+          "position": 9
+        },
+        {
+          "content": "RHYTHM",
+          "position": 12
+        },
+        {
+          "content": "TEMPO",
+          "position": 15
+        }
+      ]
+    },
+    {
+      "title": "THINGS MADE WITH WIRE",
+      "cards": [
+        {
+          "content": "BIRDCAGE",
+          "position": 7
+        },
+        {
+          "content": "BRACES",
+          "position": 13
+        },
+        {
+          "content": "SLINKY",
+          "position": 8
+        },
+        {
+          "content": "WHISK",
+          "position": 0
+        }
+      ]
+    },
+    {
+      "title": "SLANG FOR CAR",
+      "cards": [
+        {
+          "content": "AUTO",
+          "position": 11
+        },
+        {
+          "content": "RIDE",
+          "position": 6
+        },
+        {
+          "content": "WHEELS",
+          "position": 14
+        },
+        {
+          "content": "WHIP",
+          "position": 2
+        }
+      ]
+    },
+    {
+      "title": "HEAVY ___",
+      "cards": [
+        {
+          "content": "CREAM",
+          "position": 3
+        },
+        {
+          "content": "HITTER",
+          "position": 10
+        },
+        {
+          "content": "METAL",
+          "position": 5
+        },
+        {
+          "content": "WATER",
+          "position": 1
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}
