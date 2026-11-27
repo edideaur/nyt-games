@@ -1037,6 +1037,36 @@
         ]
       ],
       "makeFree": false
+    },
+    "spelling-bee": {
+      "date": "2026-12-11",
+      "id": 23311,
+      "center_letter": "u",
+      "outer_letters": "eiklpy",
+      "pangrams": [
+        "puppylike"
+      ],
+      "answers": [
+        "lieu",
+        "lull",
+        "lulu",
+        "pileup",
+        "puke",
+        "pule",
+        "puli",
+        "pull",
+        "pulley",
+        "pulp",
+        "pulpy",
+        "pupil",
+        "puppy",
+        "ukulele",
+        "upkeep",
+        "yule",
+        "yuppie"
+      ],
+      "print_date": "2026-12-11",
+      "editor": "Sam Ezersky"
     }
   }
 }

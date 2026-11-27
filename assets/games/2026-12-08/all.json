@@ -1016,6 +1016,54 @@
         ]
       ],
       "makeFree": false
+    },
+    "spelling-bee": {
+      "date": "2026-12-08",
+      "id": 22775,
+      "center_letter": "b",
+      "outer_letters": "eilmoz",
+      "pangrams": [
+        "immobilize",
+        "mobilize"
+      ],
+      "answers": [
+        "belie",
+        "bell",
+        "belle",
+        "bezel",
+        "bible",
+        "bile",
+        "bill",
+        "biome",
+        "blob",
+        "bloom",
+        "bobble",
+        "boil",
+        "boll",
+        "bolo",
+        "bomb",
+        "bombe",
+        "boob",
+        "booboo",
+        "boom",
+        "booze",
+        "bozo",
+        "embezzle",
+        "emblem",
+        "imbibe",
+        "immobile",
+        "libel",
+        "libelee",
+        "limb",
+        "limbo",
+        "lobe",
+        "lobo",
+        "mobile",
+        "oboe",
+        "zombie"
+      ],
+      "print_date": "2026-12-08",
+      "editor": "Sam Ezersky"
     }
   }
 }

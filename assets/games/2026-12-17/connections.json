@@ -1,0 +1,97 @@
+{
+  "date": "2026-12-17",
+  "status": "OK",
+  "id": 1400,
+  "print_date": "2026-12-17",
+  "editor": "Wyna Liu",
+  "categories": [
+    {
+      "title": "FAIL TO INCLUDE",
+      "cards": [
+        {
+          "content": "MISS",
+          "position": 5
+        },
+        {
+          "content": "OMIT",
+          "position": 15
+        },
+        {
+          "content": "OVERLOOK",
+          "position": 0
+        },
+        {
+          "content": "SKIP",
+          "position": 10
+        }
+      ]
+    },
+    {
+      "title": "THINGS THAT MAKE A CLACKING SOUND",
+      "cards": [
+        {
+          "content": "KNITTING NEEDLES",
+          "position": 2
+        },
+        {
+          "content": "MAHJONG TILES",
+          "position": 8
+        },
+        {
+          "content": "TAP SHOES",
+          "position": 14
+        },
+        {
+          "content": "TYPEWRITER",
+          "position": 6
+        }
+      ]
+    },
+    {
+      "title": "THINGS YOU SAY WHEN YOU DO THE SAME THING AS SOMEONE ELSE",
+      "cards": [
+        {
+          "content": "GREAT MINDS",
+          "position": 9
+        },
+        {
+          "content": "JINX",
+          "position": 4
+        },
+        {
+          "content": "SAME",
+          "position": 12
+        },
+        {
+          "content": "TWINS",
+          "position": 7
+        }
+      ]
+    },
+    {
+      "title": "ENDING IN LIQUORS",
+      "cards": [
+        {
+          "content": "FRYE",
+          "position": 13
+        },
+        {
+          "content": "HOPSCOTCH",
+          "position": 1
+        },
+        {
+          "content": "REDRUM",
+          "position": 3
+        },
+        {
+          "content": "VIRGIN",
+          "position": 11
+        }
+      ]
+    }
+  ],
+  "stream": "daily",
+  "tags": [
+    "variant:4x4"
+  ]
+}

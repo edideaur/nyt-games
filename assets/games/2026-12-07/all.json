@@ -1445,6 +1445,37 @@
         ]
       ],
       "makeFree": false
+    },
+    "spelling-bee": {
+      "date": "2026-12-07",
+      "id": 23572,
+      "center_letter": "y",
+      "outer_letters": "amnotx",
+      "pangrams": [
+        "taxonomy"
+      ],
+      "answers": [
+        "anatomy",
+        "annoy",
+        "antonym",
+        "antonymy",
+        "ataxy",
+        "many",
+        "mayo",
+        "mommy",
+        "mononym",
+        "monotony",
+        "moony",
+        "myna",
+        "nanny",
+        "natty",
+        "oaty",
+        "onyx",
+        "tatty",
+        "tony"
+      ],
+      "print_date": "2026-12-07",
+      "editor": "Sam Ezersky"
     }
   }
 }
